@@ -1,0 +1,114 @@
+:root {
+  color-scheme: light;
+  --paper: #f4efe4;
+  --paper-deep: #e9dfcf;
+  --card: rgba(255, 253, 247, 0.82);
+  --ink: #24201c;
+  --muted: #746b60;
+  --line: rgba(63, 52, 42, 0.16);
+  --seal: #a23a2b;
+  --seal-dark: #7f2b20;
+  --shadow: 0 18px 55px rgba(63, 45, 31, 0.1);
+  --radius: 20px;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  min-width: 320px;
+  background: radial-gradient(circle at 15% 5%, rgba(255,255,255,.76), transparent 28rem), linear-gradient(135deg, var(--paper), #efe7d9);
+  color: var(--ink);
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", "Noto Sans JP", sans-serif;
+  line-height: 1.55;
+}
+button, a { -webkit-tap-highlight-color: transparent; }
+button { font: inherit; }
+.site-header, main, footer { width: min(1120px, calc(100% - 40px)); margin-inline: auto; }
+.site-header { display: flex; align-items: center; justify-content: space-between; padding-block: 24px; }
+.brand { display: inline-flex; align-items: center; gap: 12px; color: inherit; text-decoration: none; }
+.brand-mark {
+  display: grid; width: 48px; height: 48px; place-items: center; border-radius: 10px;
+  background: var(--seal); color: #fffaf0; font-family: "Yu Mincho", "Hiragino Mincho ProN", "Noto Serif JP", serif;
+  font-size: 30px; box-shadow: 0 8px 22px rgba(127,43,32,.22); transform: rotate(-2deg);
+}
+.brand strong, .brand small { display: block; }
+.brand strong { font-family: "Yu Mincho", "Hiragino Mincho ProN", "Noto Serif JP", serif; font-size: 22px; line-height: 1.05; }
+.brand small { margin-top: 3px; color: var(--muted); font-size: 11px; letter-spacing: .08em; text-transform: uppercase; }
+.language-switcher { display: flex; align-items: center; gap: 8px; color: var(--muted); }
+.language-button { border: 0; background: transparent; color: var(--muted); cursor: pointer; font-size: 13px; font-weight: 700; letter-spacing: .08em; padding: 8px 4px; }
+.language-button.is-active { color: var(--seal); }
+.hero { max-width: 780px; padding: 88px 0 72px; }
+.eyebrow { margin: 0 0 14px; color: var(--seal); font-size: 12px; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; }
+h1, h2, h3, p { text-wrap: pretty; }
+h1, h2 { font-family: "Yu Mincho", "Hiragino Mincho ProN", Georgia, serif; font-weight: 600; letter-spacing: -.035em; }
+h1 { margin: 0; font-size: clamp(48px, 8vw, 88px); line-height: .98; }
+.hero-copy { max-width: 620px; margin: 28px 0 32px; color: var(--muted); font-size: clamp(17px, 2vw, 20px); }
+.primary-button, .secondary-button, .text-button { border-radius: 999px; cursor: pointer; font-weight: 750; transition: transform 160ms ease, background 160ms ease, color 160ms ease; }
+.primary-button, .secondary-button { min-height: 48px; padding: 12px 22px; }
+.primary-button { border: 1px solid var(--seal); background: var(--seal); color: #fffaf3; box-shadow: 0 10px 24px rgba(127,43,32,.16); }
+.primary-button:hover { background: var(--seal-dark); transform: translateY(-1px); }
+.primary-button:disabled { cursor: not-allowed; opacity: .45; }
+.secondary-button { border: 1px solid var(--line); background: transparent; color: var(--ink); }
+.secondary-button:hover { background: var(--paper-deep); transform: translateY(-1px); }
+.text-button { border: 0; background: transparent; color: var(--muted); padding: 8px; }
+.path { padding: 50px 0 92px; border-top: 1px solid var(--line); }
+.section-heading { display: flex; align-items: end; justify-content: space-between; margin-bottom: 28px; }
+h2 { margin: 0; font-size: clamp(34px, 5vw, 52px); line-height: 1.05; }
+.path-grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 14px; }
+.path-card {
+  position: relative; grid-column: span 3; min-height: 236px; padding: 24px 24px 64px; overflow: hidden;
+  border: 1px solid var(--line); border-radius: var(--radius); background: var(--card); color: inherit;
+  text-align: left; box-shadow: 0 8px 28px rgba(67,48,30,.04);
+}
+button.path-card { cursor: pointer; transition: transform 180ms ease, border-color 180ms ease, box-shadow 180ms ease; }
+button.path-card:hover { border-color: rgba(162,58,43,.38); box-shadow: var(--shadow); transform: translateY(-3px); }
+.path-card--intro { grid-column: span 6; min-height: 190px; padding-bottom: 24px; }
+.path-card--active { border-color: rgba(162,58,43,.42); }
+.card-number { position: absolute; top: 8px; right: 18px; color: rgba(162,58,43,.1); font-family: "Yu Mincho", "Hiragino Mincho ProN", serif; font-size: 76px; line-height: 1; }
+.path-card h3 { position: relative; margin: 50px 0 9px; font-family: "Yu Mincho", "Hiragino Mincho ProN", Georgia, serif; font-size: 24px; }
+.path-card p { position: relative; margin: 0; color: var(--muted); }
+.card-link { position: absolute; bottom: 22px; left: 24px; color: var(--muted); font-size: 12px; font-weight: 750; letter-spacing: .04em; text-transform: uppercase; }
+.path-card--active .card-link { color: var(--seal); }
+.practice { padding: 64px 0 96px; border-top: 1px solid var(--line); }
+.practice-header { display: flex; align-items: start; justify-content: space-between; margin-bottom: 26px; }
+.practice-card { width: min(700px, 100%); min-height: 480px; margin-inline: auto; padding: clamp(24px, 6vw, 52px); border: 1px solid var(--line); border-radius: 28px; background: rgba(255,254,249,.88); box-shadow: var(--shadow); text-align: center; }
+.progress-row { display: flex; justify-content: space-between; color: var(--muted); font-size: 12px; font-weight: 700; }
+.progress-track { height: 3px; margin: 10px 0 56px; overflow: hidden; border-radius: 999px; background: var(--paper-deep); }
+#progress-bar { display: block; width: 10%; height: 100%; background: var(--seal); transition: width 220ms ease; }
+.prompt-label { margin: 0 0 8px; color: var(--muted); font-size: 11px; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; }
+.reading { margin: 0; font-family: Georgia, "Times New Roman", serif; font-size: clamp(48px, 11vw, 76px); line-height: 1.08; }
+.meaning, .answer-reading { margin: 10px 0 0; color: var(--muted); font-size: 17px; }
+.paper-note { margin: 56px 0 16px; color: var(--muted); font-size: 13px; }
+.answer { margin: 6px 0 0; font-family: "Yu Mincho", "Hiragino Mincho ProN", "Noto Serif JP", serif; font-size: clamp(78px, 18vw, 124px); line-height: 1.1; }
+.answer-actions { display: flex; justify-content: center; gap: 10px; margin-top: 56px; }
+.summary-seal { display: grid; width: 90px; height: 90px; margin: 4px auto 24px; place-items: center; border: 3px solid var(--seal); border-radius: 50%; color: var(--seal); font-family: "Yu Mincho", "Hiragino Mincho ProN", serif; font-size: 48px; transform: rotate(-5deg); }
+#summary-view h3 { margin: 0; font-family: "Yu Mincho", "Hiragino Mincho ProN", Georgia, serif; font-size: 34px; }
+#summary-text { color: var(--muted); }
+.toast { position: fixed; right: 20px; bottom: 20px; z-index: 10; max-width: min(360px, calc(100% - 40px)); padding: 12px 16px; border-radius: 12px; background: var(--ink); color: #fffaf3; font-size: 13px; opacity: 0; pointer-events: none; transform: translateY(10px); transition: opacity 180ms ease, transform 180ms ease; }
+.toast.is-visible { opacity: 1; transform: translateY(0); }
+footer { display: flex; justify-content: space-between; gap: 24px; padding: 28px 0 42px; border-top: 1px solid var(--line); color: var(--muted); font-size: 12px; }
+[hidden] { display: none !important; }
+:focus-visible { outline: 3px solid rgba(162,58,43,.34); outline-offset: 3px; }
+
+@media (max-width: 760px) {
+  .site-header, main, footer { width: min(100% - 28px, 1120px); }
+  .site-header { padding-block: 16px; }
+  .brand-mark { width: 42px; height: 42px; font-size: 26px; }
+  .hero { padding: 66px 0 58px; }
+  .path-grid { display: block; }
+  .path-card { display: block; width: 100%; min-height: 210px; margin-bottom: 12px; }
+  .path { padding-bottom: 62px; }
+  .practice { padding: 50px 0 70px; }
+  .practice-header { gap: 10px; }
+  .practice-card { min-height: 440px; border-radius: 22px; }
+  .progress-track { margin-bottom: 44px; }
+  .answer-actions { flex-direction: column-reverse; }
+  .answer-actions button { width: 100%; }
+  footer { flex-direction: column; gap: 3px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { transition-duration: .01ms !important; }
+}

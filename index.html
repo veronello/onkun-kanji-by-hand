@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="音くん — practise on and kun readings by writing kanji on paper." />
+    <meta name="theme-color" content="#f4efe4" />
+    <title>音くん — Kanji by Hand</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="#home" aria-label="音くん home">
+        <span class="brand-mark" aria-hidden="true">音</span>
+        <span><strong>音くん</strong><small>Kanji by Hand</small></span>
+      </a>
+      <div class="language-switcher" aria-label="Language">
+        <button class="language-button" data-language="ru" type="button">RU</button>
+        <span aria-hidden="true">/</span>
+        <button class="language-button" data-language="en" type="button">EN</button>
+      </div>
+    </header>
+
+    <main id="home">
+      <section class="hero" aria-labelledby="hero-title">
+        <p class="eyebrow" data-i18n="eyebrow">On readings. Kun readings. Kanji by hand.</p>
+        <h1 id="hero-title" data-i18n="heroTitle">Read it. Remember it. Write it.</h1>
+        <p class="hero-copy" data-i18n="heroCopy">A quiet kanji practice companion for people who remember best with a pen and paper.</p>
+        <button class="primary-button" id="start-practice" type="button" data-i18n="start">Start with on readings</button>
+      </section>
+
+      <section class="path" aria-labelledby="path-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow" data-i18n="pathEyebrow">The practice path</p>
+            <h2 id="path-title" data-i18n="pathTitle">Five sections</h2>
+          </div>
+        </div>
+        <div class="path-grid">
+          <article class="path-card path-card--intro">
+            <span class="card-number">一</span>
+            <h3 data-i18n="aboutTitle">About the project</h3>
+            <p data-i18n="aboutText">Built from Japanese study drills first compiled by the author in 2013.</p>
+          </article>
+          <button class="path-card path-card--active" id="on-card" type="button">
+            <span class="card-number">二</span>
+            <h3 data-i18n="onTitle">On readings</h3>
+            <p data-i18n="onText">Recall kanji from Sino-Japanese compounds.</p>
+            <span class="card-link" data-i18n="available">Available now</span>
+          </button>
+          <button class="path-card" type="button" data-coming-soon>
+            <span class="card-number">三</span>
+            <h3 data-i18n="kunTitle">Kun readings</h3>
+            <p data-i18n="kunText">Recall kanji from native Japanese words.</p>
+            <span class="card-link" data-i18n="comingSoon">Coming soon</span>
+          </button>
+          <button class="path-card" type="button" data-coming-soon>
+            <span class="card-number">四</span>
+            <h3 data-i18n="mixedTitle">Mixed practice</h3>
+            <p data-i18n="mixedText">Switch freely between on and kun readings.</p>
+            <span class="card-link" data-i18n="comingSoon">Coming soon</span>
+          </button>
+          <button class="path-card" type="button" data-coming-soon>
+            <span class="card-number">五</span>
+            <h3 data-i18n="testTitle">Final test</h3>
+            <p data-i18n="testText">Complete a whole block before revealing the answers.</p>
+            <span class="card-link" data-i18n="comingSoon">Coming soon</span>
+          </button>
+        </div>
+      </section>
+
+      <section class="practice" id="practice" aria-labelledby="practice-title" hidden>
+        <div class="practice-header">
+          <div>
+            <p class="eyebrow" data-i18n="practiceEyebrow">Practice · On readings</p>
+            <h2 id="practice-title" data-i18n="practiceTitle">Write the word on paper</h2>
+          </div>
+          <button class="text-button" id="close-practice" type="button" data-i18n="close">Close</button>
+        </div>
+        <div class="practice-card" aria-live="polite">
+          <div class="progress-row"><span id="progress-text">1 / 10</span><span id="review-count"></span></div>
+          <div class="progress-track" aria-hidden="true"><span id="progress-bar"></span></div>
+          <div id="question-view">
+            <p class="prompt-label" data-i18n="promptLabel">Reading</p>
+            <p class="reading" id="reading">sottō</p>
+            <p class="meaning" id="meaning">fainting</p>
+            <p class="paper-note" data-i18n="paperNote">Write the answer in your notebook.</p>
+            <button class="primary-button" id="reveal-answer" type="button" data-i18n="reveal">Show answer</button>
+          </div>
+          <div id="answer-view" hidden>
+            <p class="prompt-label" data-i18n="answerLabel">Answer</p>
+            <p class="answer" id="answer">卒倒</p>
+            <p class="answer-reading" id="answer-reading">そっとう · sottō</p>
+            <div class="answer-actions">
+              <button class="secondary-button" id="mark-review" type="button" data-i18n="again">Repeat</button>
+              <button class="primary-button" id="mark-known" type="button" data-i18n="remembered">Remembered</button>
+            </div>
+          </div>
+          <div id="summary-view" hidden>
+            <p class="summary-seal" aria-hidden="true">済</p>
+            <h3 data-i18n="summaryTitle">Round complete</h3>
+            <p id="summary-text"></p>
+            <div class="answer-actions">
+              <button class="secondary-button" id="restart-all" type="button" data-i18n="restart">Start again</button>
+              <button class="primary-button" id="practice-review" type="button" data-i18n="reviewMissed">Practise marked words</button>
+            </div>
+          </div>
+        </div>
+      </section>
+      <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    </main>
+
+    <footer><span>音くん</span><span data-i18n="footer">Made for pens, paper, and patient recall.</span></footer>
+    <script src="script.js"></script>
+  </body>
+</html>
