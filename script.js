@@ -1,7 +1,5 @@
 const translations = {
   en: {
-    eyebrow: "On readings. Kun readings. Kanji by hand.", heroTitle: "Read it. Remember it. Write it.",
-    heroCopy: "A quiet kanji practice companion for people who remember best with a pen and paper.",
     pathEyebrow: "The practice path", pathTitle: "Five sections", aboutTitle: "About the project",
     aboutText: "The exercises draw on the author's own study materials, compiled during her university years starting in 2013, and are supplemented with new original exercises.", onTitle: "On readings",
     onText: "Recall kanji from Sino-Japanese compounds.", kunTitle: "Kun readings", kunText: "Recall kanji from native Japanese words.",
@@ -10,8 +8,6 @@ const translations = {
     soonToast: "This practice mode will be added next.", footer: "Made for pens, paper, and patient recall.",
   },
   ru: {
-    eyebrow: "Онные чтения. Кунные чтения. Кандзи от руки.", heroTitle: "Прочитай. Вспомни. Напиши.",
-    heroCopy: "Спокойный тренажёр кандзи для тех, кому лучше всего запоминается с ручкой и бумагой.",
     pathEyebrow: "Путь повторения", pathTitle: "Пять разделов", aboutTitle: "О проекте",
     aboutText: "Задания основаны на собственных учебных материалах автора, составленных в студенческие годы, начиная с 2013 года, и дополняются новыми авторскими упражнениями.",
     onTitle: "Онные чтения", onText: "Вспоминайте кандзи по японо-китайским сочетаниям.", kunTitle: "Кунные чтения",
