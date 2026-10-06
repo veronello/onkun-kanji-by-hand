@@ -2,7 +2,7 @@
 
 音くん (OnKun) is a Russian–English website in development for reviewing kanji and writing them by hand on paper.
 
-The exercises draw on the author's own study materials, compiled during her university years starting in 2013, with new original exercises planned.
+The exercises draw on the author's own study materials, compiled during her university years starting in 2013, alongside new original exercises.
 
 ## Current state
 
