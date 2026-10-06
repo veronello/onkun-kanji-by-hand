@@ -26,11 +26,21 @@ button, a { -webkit-tap-highlight-color: transparent; }
 button { font: inherit; }
 .site-header, main, footer { width: min(1120px, calc(100% - 40px)); margin-inline: auto; }
 .site-header { display: flex; align-items: center; justify-content: space-between; padding-block: 24px; }
-.brand { display: inline-flex; align-items: center; flex-shrink: 0; padding: 12px 18px; border-radius: 12px; background: var(--seal); color: #151a1e; text-decoration: none; }
-
-.brand strong, .brand small { margin-top: 4px; color: inherit; font-size: 11px; letter-spacing: .04em; white-space: nowrap; }
-.brand strong { font-family: "Yu Mincho", "Hiragino Mincho ProN", "Noto Serif JP", serif; font-size: 28px; line-height: 1.15; }
-.brand small { margin-top: 3px; color: var(--muted); font-size: 11px; letter-spacing: .08em; text-transform: uppercase; }
+.brand {
+  display: inline-flex; align-items: center; flex-shrink: 0;
+  padding: 12px 18px; border-radius: 12px;
+  background: var(--seal); color: #000; text-decoration: none;
+}
+.brand strong, .brand small { display: block; color: #000; }
+.brand strong {
+  font-family: "Yu Mincho", "Hiragino Mincho ProN", "Noto Serif JP", serif;
+  font-size: 28px; line-height: 1.15; letter-spacing: normal;
+}
+.brand small {
+  margin-top: 4px; font-size: 11px; font-weight: 600;
+  line-height: 1.4; letter-spacing: .02em; white-space: nowrap;
+  text-transform: none;
+}
 .language-switcher { display: flex; align-items: center; gap: 8px; color: var(--muted); }
 .language-button { border: 0; background: transparent; color: var(--muted); cursor: pointer; font-size: 13px; font-weight: 700; letter-spacing: .08em; padding: 8px 4px; }
 .language-button.is-active { color: var(--seal); }
