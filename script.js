@@ -5,7 +5,7 @@ const translations = {
     onText: "Recall kanji from Sino-Japanese compounds.", kunTitle: "Kun readings", kunText: "Recall kanji from native Japanese words.",
     mixedTitle: "Mixed practice", mixedText: "Switch freely between on and kun readings.", testTitle: "Final test",
     testText: "Complete a whole block before revealing the answers.", comingSoon: "Coming soon",
-    soonToast: "This practice mode will be added next.", footer: "Made for pens, paper, and patient recall.",
+    soonToast: "This practice mode will be added next.",
   },
   ru: {
     aboutTitle: "О проекте",
@@ -14,7 +14,7 @@ const translations = {
     kunText: "Вспоминайте кандзи по исконно японским словам.", mixedTitle: "Смешанный режим",
     mixedText: "Свободно переключайтесь между онными и кунными чтениями.", testTitle: "Контрольная",
     testText: "Пройдите весь блок и только потом откройте ответы.", comingSoon: "Скоро",
-    soonToast: "Этот режим будет добавлен следующим.", footer: "Для ручки, бумаги и спокойного вспоминания.",
+    soonToast: "Этот режим будет добавлен следующим.",
   },
 };
 
