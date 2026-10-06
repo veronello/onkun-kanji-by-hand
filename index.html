@@ -27,7 +27,6 @@
         <p class="eyebrow" data-i18n="eyebrow">On readings. Kun readings. Kanji by hand.</p>
         <h1 id="hero-title" data-i18n="heroTitle">Read it. Remember it. Write it.</h1>
         <p class="hero-copy" data-i18n="heroCopy">A quiet kanji practice companion for people who remember best with a pen and paper.</p>
-        <button class="primary-button" id="start-practice" type="button" data-i18n="start">Start with on readings</button>
       </section>
 
       <section class="path" aria-labelledby="path-title">
@@ -43,11 +42,11 @@
             <h3 data-i18n="aboutTitle">About the project</h3>
             <p data-i18n="aboutText">The exercises draw on the author's own study materials, compiled during her university years starting in 2013, and are supplemented with new original exercises.</p>
           </article>
-          <button class="path-card path-card--active" id="on-card" type="button">
+          <button class="path-card" id="on-card" type="button" data-coming-soon>
             <span class="card-number">二</span>
             <h3 data-i18n="onTitle">On readings</h3>
             <p data-i18n="onText">Recall kanji from Sino-Japanese compounds.</p>
-            <span class="card-link" data-i18n="available">Available now</span>
+            <span class="card-link" data-i18n="comingSoon">Coming soon</span>
           </button>
           <button class="path-card" type="button" data-coming-soon>
             <span class="card-number">三</span>
@@ -70,44 +69,6 @@
         </div>
       </section>
 
-      <section class="practice" id="practice" aria-labelledby="practice-title" hidden>
-        <div class="practice-header">
-          <div>
-            <p class="eyebrow" data-i18n="practiceEyebrow">Practice · On readings</p>
-            <h2 id="practice-title" data-i18n="practiceTitle">Write the word on paper</h2>
-          </div>
-          <button class="text-button" id="close-practice" type="button" data-i18n="close">Close</button>
-        </div>
-        <div class="practice-card" aria-live="polite">
-          <div class="progress-row"><span id="progress-text">1 / 10</span><span id="review-count"></span></div>
-          <div class="progress-track" aria-hidden="true"><span id="progress-bar"></span></div>
-          <div id="question-view">
-            <p class="prompt-label" data-i18n="promptLabel">Reading</p>
-            <p class="reading" id="reading">sottō</p>
-            <p class="meaning" id="meaning">fainting</p>
-            <p class="paper-note" data-i18n="paperNote">Write the answer in your notebook.</p>
-            <button class="primary-button" id="reveal-answer" type="button" data-i18n="reveal">Show answer</button>
-          </div>
-          <div id="answer-view" hidden>
-            <p class="prompt-label" data-i18n="answerLabel">Answer</p>
-            <p class="answer" id="answer">卒倒</p>
-            <p class="answer-reading" id="answer-reading">そっとう · sottō</p>
-            <div class="answer-actions">
-              <button class="secondary-button" id="mark-review" type="button" data-i18n="again">Repeat</button>
-              <button class="primary-button" id="mark-known" type="button" data-i18n="remembered">Remembered</button>
-            </div>
-          </div>
-          <div id="summary-view" hidden>
-            <p class="summary-seal" aria-hidden="true">済</p>
-            <h3 data-i18n="summaryTitle">Round complete</h3>
-            <p id="summary-text"></p>
-            <div class="answer-actions">
-              <button class="secondary-button" id="restart-all" type="button" data-i18n="restart">Start again</button>
-              <button class="primary-button" id="practice-review" type="button" data-i18n="reviewMissed">Practise marked words</button>
-            </div>
-          </div>
-        </div>
-      </section>
       <div class="toast" id="toast" role="status" aria-live="polite"></div>
     </main>
 
