@@ -3,13 +3,13 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="音くん — practise on and kun readings by writing kanji on paper." />
+    <meta name="description" content="KANJI ON — practise on and kun readings by writing kanji on paper." />
     <meta name="theme-color" content="#f8f9fa" />
-    <title>音くん — Kanji by Hand</title>
+    <title>KANJI ON — Kanji by Hand</title>
     <link rel="icon" href="favicon.ico?v=green1" sizes="any" />
     <link rel="icon" href="favicon.svg?v=green1" type="image/svg+xml" />
     <link rel="apple-touch-icon" href="apple-touch-icon-green-v1.png" sizes="180x180" />
-    <meta name="apple-mobile-web-app-title" content="OnKun" />
+    <meta name="apple-mobile-web-app-title" content="KANJI ON" />
     <script>
       try {
         if (localStorage.getItem("onkun-theme") === "dark") {
@@ -18,12 +18,16 @@
         }
       } catch {}
     </script>
-    <link rel="stylesheet" href="styles.css?v=20261007-calm1" />
+    <link rel="stylesheet" href="styles.css?v=20261007-kanjion1" />
   </head>
   <body>
     <header class="site-header">
-      <a class="brand" href="#home" aria-label="音くん home">
-        <span><strong>音くん</strong><small>Kanji by hand</small></span>
+      <a class="brand" href="#home" aria-label="KANJI ON — Kanji by hand">
+        <span class="brand-wordmark" aria-hidden="true">
+          <span class="brand-kanji">KANJI</span>
+          <span class="brand-switch"><span>ON</span><span class="brand-knob"></span></span>
+        </span>
+        <span class="brand-tagline" aria-hidden="true">Kanji by hand</span>
       </a>
       <div class="header-controls">
       <div class="language-switcher" aria-label="Language">
@@ -73,7 +77,7 @@
       <div class="toast" id="toast" role="status" aria-live="polite"></div>
     </main>
 
-    <footer><span>音くん · 2026</span></footer>
+    <footer><span>2026</span></footer>
     <script src="script.js?v=20261007-calm1"></script>
   </body>
 </html>

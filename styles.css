@@ -41,21 +41,30 @@ body {
 button, a { -webkit-tap-highlight-color: transparent; }
 button { font: inherit; }
 .site-header, main, footer { width: min(1120px, calc(100% - 40px)); margin-inline: auto; }
-.site-header { display: flex; align-items: center; justify-content: space-between; padding-block: 24px; }
+.site-header { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding-block: 24px; }
 .brand {
-  display: inline-flex; align-items: center; flex-shrink: 0;
-  padding: 12px 18px; border-radius: 12px;
-  background: #e8f1e7; color: #143f2d; text-decoration: none;
+  display: inline-flex; flex-direction: column; align-items: center;
+  flex-shrink: 0; padding-block: 6px; color: var(--ink); text-decoration: none;
 }
-.brand strong, .brand small { display: block; color: #143f2d; }
-.brand strong {
-  font-family: "Yu Mincho", "Hiragino Mincho ProN", "Noto Serif JP", serif;
-  font-size: 28px; line-height: 1.15; letter-spacing: normal;
+.brand-wordmark {
+  display: flex; align-items: center; gap: .18em;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: clamp(26px, 7vw, 38px); font-weight: 800; line-height: 1;
 }
-.brand small {
-  margin-top: 4px; font-size: 11px; font-weight: 600;
-  line-height: 1.4; letter-spacing: .02em; white-space: nowrap;
-  text-transform: none;
+.brand-kanji { letter-spacing: -.045em; }
+.brand-switch {
+  display: inline-flex; align-items: center; justify-content: space-between;
+  gap: .22em; padding: .15em .17em .15em .28em;
+  border-radius: 999px; background: #3e8e4f; color: #fff;
+  font-size: .66em; line-height: 1;
+}
+.brand-knob {
+  display: block; flex: 0 0 auto; width: 1.1em; height: 1.1em;
+  border-radius: 50%; background: #fff;
+}
+.brand-tagline {
+  margin-top: 7px; font-size: clamp(10px, 2.8vw, 12px);
+  line-height: 1.4; letter-spacing: .14em; white-space: nowrap;
 }
 .language-switcher { display: flex; align-items: center; gap: 8px; color: var(--muted); }
 .language-button { border: 0; background: transparent; color: var(--muted); cursor: pointer; font-size: 13px; font-weight: 700; letter-spacing: .08em; padding: 8px 4px; }
