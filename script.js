@@ -18,7 +18,9 @@ const translations = {
   },
 };
 
-const storedLanguage = localStorage.getItem("onkun-language");
+function readPreference(key) { try { return localStorage.getItem(key); } catch { return null; } }
+function savePreference(key, value) { try { localStorage.setItem(key, value); } catch {} }
+const storedLanguage = readPreference("onkun-language");
 const browserLanguage = navigator.language.toLowerCase().startsWith("ru") ? "ru" : "en";
 let language = storedLanguage === "ru" || storedLanguage === "en" ? storedLanguage : browserLanguage;
 const toast = document.querySelector("#toast");
@@ -26,7 +28,7 @@ let toastTimer;
 
 function setLanguage(nextLanguage) {
   language = nextLanguage;
-  localStorage.setItem("onkun-language", language);
+  savePreference("onkun-language", language);
   document.documentElement.lang = language;
   document.querySelectorAll("[data-i18n]").forEach((element) => {
     element.textContent = translations[language][element.dataset.i18n];
@@ -36,6 +38,7 @@ function setLanguage(nextLanguage) {
     button.classList.toggle("is-active", isActive);
     button.setAttribute("aria-pressed", String(isActive));
   });
+  updateThemeButton();
   if (toast.classList.contains("is-visible")) toast.textContent = translations[language].soonToast;
 }
 
@@ -48,4 +51,19 @@ function showComingSoon() {
 
 document.querySelectorAll("[data-language]").forEach((button) => button.addEventListener("click", () => setLanguage(button.dataset.language)));
 document.querySelectorAll("[data-coming-soon]").forEach((button) => button.addEventListener("click", showComingSoon));
+const themeToggle = document.querySelector("#theme-toggle");
+function updateThemeButton() {
+  const dark = document.documentElement.dataset.theme === "dark";
+  const label = language === "ru" ? (dark ? "Светлая тема" : "Тёмная тема") : (dark ? "Light theme" : "Dark theme");
+  themeToggle.textContent = label;
+  themeToggle.setAttribute("aria-label", language === "ru" ? "Тёмная тема" : "Dark theme");
+  themeToggle.setAttribute("aria-pressed", String(dark));
+}
+themeToggle.addEventListener("click", () => {
+  const theme = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
+  document.documentElement.dataset.theme = theme;
+  document.querySelector('meta[name="theme-color"]').content = theme === "dark" ? "#191919" : "#f8f9fa";
+  savePreference("onkun-theme", theme);
+  updateThemeButton();
+});
 setLanguage(language);

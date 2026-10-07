@@ -8,7 +8,7 @@ The exercises draw on the author's own study materials, compiled during her univ
 
 The site contains the project description and four practice-mode placeholders. Sample exercises have been removed while the content is being prepared; practice sessions are not available yet.
 
-The interface includes a Russian–English language switcher, a charcoal-grey palette with a pale-green wordmark background and a green ON icon, an 音くん wordmark, and an ON icon for browser tabs and the home screen.
+The interface includes a Russian–English language switcher, a soft-white default theme with graphite text and muted green accents, and an optional dark theme. The theme choice is saved in the browser. The 音くん wordmark and green ON icon appear on the site and in browser or home-screen shortcuts.
 
 ## Planned practice modes
 
