@@ -43,7 +43,7 @@ button { font: inherit; }
 .site-header, main, footer { width: min(1120px, calc(100% - 40px)); margin-inline: auto; }
 .site-header { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding-block: 24px; }
 .brand {
-  display: inline-flex; flex-direction: column; align-items: center;
+  display: inline-flex; flex-direction: column; align-items: flex-start;
   flex-shrink: 0; padding-block: 6px; color: var(--ink); text-decoration: none;
 }
 .brand-wordmark {
