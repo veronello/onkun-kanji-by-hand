@@ -1,6 +1,8 @@
 const translations = {
   en: {
     aboutTitle: "About the project",
+    miscTitle: "Miscellaneous",
+    miscText: "Sources, articles, interesting materials, and photos.",
     aboutText: "The exercises draw on the author's own study materials, compiled during her university years starting in 2013, and are supplemented with new original exercises.", onTitle: "On readings",
     onText: "Kanji review through compounds with on readings.", kunTitle: "Kun readings", kunText: "Kanji review through words with kun readings.",
     mixedTitle: "Mixed practice", mixedText: "Kanji review with a mix of on and kun readings.", testTitle: "Final test",
@@ -9,6 +11,8 @@ const translations = {
   },
   ru: {
     aboutTitle: "О проекте",
+    miscTitle: "Разное",
+    miscText: "Источники, статьи, интересные материалы и фотографии.",
     aboutText: "Задания основаны на собственных учебных материалах автора, составленных в студенческие годы, начиная с 2013 года, и дополняются новыми авторскими упражнениями.",
     onTitle: "Онные чтения", onText: "Повторение иероглифов по сочетаниям с онными чтениями.", kunTitle: "Кунные чтения",
     kunText: "Повторение иероглифов по словам с кунными чтениями.", mixedTitle: "Смешанный режим",
