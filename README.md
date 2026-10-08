@@ -25,4 +25,4 @@ Open `index.html` in a browser. The site uses HTML, CSS, and JavaScript, with no
 
 ## Copyright
 
-Source code licensing will be defined separately. Exercise data, written content, branding, and visual identity are not licensed for reuse at this stage.
+Source code is licensed under the [MIT License](LICENSE). Exercise data, written content, branding, and visual identity are excluded from this license and are not licensed for reuse at this stage.
