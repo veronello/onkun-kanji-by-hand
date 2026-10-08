@@ -47,6 +47,8 @@ button { font: inherit; }
   flex-shrink: 0; padding-block: 6px; color: var(--ink); text-decoration: none;
 }
 .brand-wordmark {
+  /* Optical alignment: compensate for the bold K's left sidebearing. */
+  transform: translateX(-.045em);
   display: flex; align-items: center; gap: .18em;
   font-family: Arial, Helvetica, sans-serif;
   font-size: clamp(26px, 7vw, 38px); font-weight: 800; line-height: 1;
