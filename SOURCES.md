@@ -1,4 +1,12 @@
-# ON set 1 — source notes
+# Project sources
+
+## Jōyō kanji reference workbook
+
+[joyo_kanji_2010_extracted.xlsx](sources/joyo_kanji_2010_extracted.xlsx)
+
+User-provided Excel extraction of the 2010 Jōyō kanji table, added on 2026-10-09 as reference material for preparing exercises. The uploaded workbook is preserved unchanged. It is not yet connected to the site's exercises; the first ON set remains based on the author's student notes below.
+
+## ON set 1 — source notes
 
 Selection of 10 prompts from the first page of the author-provided 2013 student materials (IMG_3393(1).jpeg). This is a sample, not a transcription of the entire page. Order follows the selected items in the source. The screenshot itself is not published.
 

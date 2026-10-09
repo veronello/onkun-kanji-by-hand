@@ -23,6 +23,11 @@ The interface includes a Russian–English language switcher, a soft-white defau
 
 The ON practice flow is reading a romanized prompt and meaning, writing the whole word on paper, comparing it with the correct kanji, and marking words for further review. Kana is shown with the answer. There is no timer or automatic handwriting grading. See [source notes](SOURCES.md) for the first set.
 
+## Source materials
+
+- [Jōyō kanji 2010 — Excel reference](sources/joyo_kanji_2010_extracted.xlsx)
+- [Source notes and references](SOURCES.md)
+
 ## Run locally
 
 Open `index.html` in a browser. The site uses HTML, CSS, and JavaScript, with no build step or server required.
