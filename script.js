@@ -43,6 +43,7 @@ function setLanguage(nextLanguage) {
     button.setAttribute("aria-pressed", String(isActive));
   });
   updateThemeButton();
+  document.querySelector(".brand").setAttribute("aria-label", language === "ru" ? "KANJI ON — на главную" : "KANJI ON — home");
   renderOn();
   if (toast.classList.contains("is-visible")) toast.textContent = translations[language].soonToast;
 }
@@ -161,7 +162,23 @@ function advanceOn(needsReview) {
   renderOn();onUI(onState.stage==='results'?'on-result-title':'on-reading').focus();
 }
 onUI('on-card').addEventListener('click',()=>{ onUI('on-practice').hidden=false; document.querySelector('.path').hidden=true; renderOn(); onUI('on-title').focus(); });
-onUI('close-on').addEventListener('click',()=>{onUI('on-practice').hidden=true;document.querySelector('.path').hidden=false;onUI('on-card').focus();});
+function showHome(fromLogo = false) {
+  // Preserve onState so reopening ON resumes the current word.
+  onUI('on-practice').hidden = true;
+  document.querySelector('.path').hidden = false;
+  if (fromLogo) {
+    onUI('path-title').focus({preventScroll:true});
+    window.scrollTo({top:0, behavior:'instant'});
+  } else {
+    onUI('on-card').focus();
+  }
+}
+onUI('close-on').addEventListener('click',()=>showHome());
+document.querySelector('.brand').addEventListener('click',(event)=>{
+  if (event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
+  event.preventDefault();
+  showHome(true);
+});
 onUI('start-review').addEventListener('click',()=>startOn('review'));
 onUI('start-test').addEventListener('click',()=>startOn('test'));
 ['start-saved','repeat-on'].forEach(id=>onUI(id).addEventListener('click',()=>startOn('review',true)));
