@@ -8,9 +8,7 @@ The exercises draw on the author's own study materials, compiled during her univ
 
 ## Current state
 
-The ON section contains a working 10-word set selected from the first page of the author’s 2013 notes. Practice reveals each answer on demand; the test reveals all answers at the end. Answers are written on paper and self-assessed. Marked words can be repeated separately, with marks saved in this browser when local storage is available.
-
-KUN, ON-KUN, OFF, and the Miscellaneous collection remain placeholders. The test inside the first ON set is available now; the separate OFF section is not yet active.
+The site contains the project description, placeholders for ON, KUN, ON-KUN and OFF, and a Miscellaneous / Разное section. The trial 10-word ON exercise has been removed while the exercise format is being reconsidered.
 
 The interface includes a Russian–English language switcher, a soft-white default theme with graphite text and muted green accents, and an optional dark theme. The theme choice is saved in the browser. The KANJI ON wordmark and green ON icon appear on the site and in browser or home-screen shortcuts.
 
@@ -21,11 +19,13 @@ The interface includes a Russian–English language switcher, a soft-white defau
 - **Mixed practice:** kanji review with a mix of on and kun readings.
 - **Final test:** a full-block recall test with answers shown at the end.
 
-The ON practice flow is reading a romanized prompt and meaning, writing the whole word on paper, comparing it with the correct kanji, and marking words for further review. Kana is shown with the answer. There is no timer or automatic handwriting grading. See [source notes](SOURCES.md) for the first set.
+Practice is intended for handwriting on paper. No exercise set is currently active.
 
 ## Source materials
 
 - [Jōyō kanji 2010 — Excel reference](sources/joyo_kanji_2010_extracted.xlsx)
+- [joyo_kanji_2010_vs_exercises_2013_candidates.xlsx](sources/joyo_kanji_2010_vs_exercises_2013_candidates.xlsx)
+- [joyo_kanji_2010_vs_exercises_2013_with_hints.xlsx](sources/joyo_kanji_2010_vs_exercises_2013_with_hints.xlsx)
 - [Source notes and references](SOURCES.md)
 
 ## Run locally

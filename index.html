@@ -18,7 +18,7 @@
         }
       } catch {}
     </script>
-    <link rel="stylesheet" href="styles.css?v=20261009-practice1" />
+    <link rel="stylesheet" href="styles.css?v=20261009-placeholder2" />
   </head>
   <body>
     <header class="site-header">
@@ -51,11 +51,11 @@
           <article class="path-card path-card--intro">
             <p data-i18n="aboutText">The exercises draw on the author's own study materials, compiled during her university years starting in 2013, and are supplemented with new original exercises.</p>
           </article>
-          <button class="path-card" id="on-card" type="button" aria-controls="on-practice">
+          <button class="path-card" id="on-card" type="button" data-coming-soon>
             <span class="mode-badge" aria-hidden="true">ON</span>
             <h3 data-i18n="onTitle">On readings</h3>
             <p data-i18n="onText">Kanji review through compounds with on readings.</p>
-            <span class="card-link" data-i18n="openSet">10 words · Open set</span>
+            <span class="card-link" data-i18n="comingSoon">Coming soon</span>
           </button>
           <button class="path-card" type="button" data-coming-soon>
             <span class="mode-badge" aria-hidden="true">KUN</span>
@@ -84,32 +84,12 @@
         </div>
       </section>
 
-      <section id="on-practice" class="on-practice" hidden aria-labelledby="on-title">
-        <div class="on-heading"><div><span class="mode-badge">ON</span><h2 id="on-title" tabindex="-1" data-i18n="setTitle">Set 1 · Student notes</h2></div><button id="close-on" class="secondary-button" data-i18n="closeSet">Back to sections</button></div>
-        <p data-i18n="setIntro">10 compounds selected from the first page of the author's 2013 study notes. Writing on paper, with self-assessment.</p>
-        <div id="on-setup" class="on-panel">
-          <p data-i18n="paperInstructions">The prompt gives a reading and a meaning. The answer is the whole word in kanji, written on paper.</p>
-          <p class="on-small" data-i18n="readingNote">ō and ū mark long vowels. Kana appears with the answer.</p>
-          <div class="on-buttons"><button id="start-review" class="primary-button" data-i18n="startReview">Practice · answers after each word</button><button id="start-test" class="secondary-button" data-i18n="startTest">Test · answers at the end</button><button id="start-saved" class="secondary-button" data-i18n="startSaved">Review marked words</button></div>
-          <p id="saved-count" class="on-small" aria-live="polite"></p>
-        </div>
-        <div id="on-session" class="on-panel" hidden>
-          <p id="on-progress" class="on-small" aria-live="polite"></p>
-          <progress id="on-meter" max="10" value="0" aria-label="Progress"></progress>
-          <h3 id="on-reading" class="on-reading" tabindex="-1"></h3><p id="on-meaning" class="on-meaning"></p>
-          <div id="on-answer" hidden><p id="on-kanji" lang="ja" class="on-kanji"></p><p id="on-kana" lang="ja"></p></div>
-          <div class="on-buttons"><button id="reveal-on" class="primary-button" data-i18n="reveal">Show answer</button><button id="next-test" class="primary-button" data-i18n="nextWritten" hidden>Written · next word</button></div>
-          <div id="on-rating" class="on-buttons" hidden><button id="remembered-on" class="primary-button" data-i18n="remembered">Remembered</button><button id="again-on" class="secondary-button" data-i18n="again">Repeat later</button></div>
-        </div>
-        <div id="on-results" class="on-panel" hidden><h3 tabindex="-1" id="on-result-title" data-i18n="resultTitle">Self-check</h3><p id="on-result-text"></p><p class="on-small" data-i18n="resultNote">Comparison with your paper answers. Mark words that need another round.</p><div id="on-result-list"></div><div class="on-buttons"><button id="repeat-on" class="primary-button" data-i18n="startSaved">Review marked words</button><button id="reset-on" class="secondary-button" data-i18n="restart">Back to set</button></div></div>
-      </section>
 
       <div class="toast" id="toast" role="status" aria-live="polite"></div>
     </main>
 
     <footer><span>2026</span></footer>
-    <script src="on-data.js?v=20261009-practice1"></script>
-    <script src="script.js?v=20261009-home1"></script>
+    <script src="script.js?v=20261009-placeholder2"></script>
   </body>
 </html>
 

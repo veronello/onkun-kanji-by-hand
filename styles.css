@@ -158,26 +158,3 @@ footer { display: flex; justify-content: space-between; gap: 24px; padding: 28px
   font-size: 22px; font-weight: 800; white-space: nowrap;
 }
 .path-card .mode-badge + h3 { margin-top: 16px; }
-
-
-/* Paper-based on-reading practice. */
-.on-practice { padding: 36px 0 64px; border-top: 1px solid var(--line); scroll-margin-top: 20px; }
-.on-heading { display:flex; justify-content:space-between; align-items:start; gap:20px; }
-.on-heading h2 { margin-top:16px; font-size:clamp(28px,5vw,42px); }
-.on-practice > p { max-width:720px; color:var(--muted); }
-.on-panel { max-width:740px; margin:24px auto 0; padding:clamp(20px,5vw,36px); border:1px solid var(--line); border-radius:20px; background:var(--card); }
-.on-small { color:var(--muted); font-size:14px; }
-.on-buttons { display:flex; flex-wrap:wrap; gap:12px; margin-top:24px; }
-.on-buttons button { flex:1 1 180px; }
-.on-buttons button:disabled { opacity:.5; cursor:default; }
-#on-session { text-align:center; }
-#on-meter { width:100%; height:6px; accent-color:var(--seal); }
-.on-reading { font-size:clamp(36px,9vw,60px); margin:32px 0 8px; line-height:1.15; overflow-wrap:anywhere; }
-.on-meaning { font-size:20px; color:var(--muted); }
-.on-kanji { font-family:'Yu Mincho','Hiragino Mincho ProN','Noto Serif JP',serif; font-size:clamp(64px,15vw,96px); margin:24px 0 0; line-height:1.4; }
-.on-result-row { padding:18px 0; border-bottom:1px solid var(--line); }
-.on-result-row p { margin:4px 0; }
-.on-result-row [lang="ja"] { font-size:28px; }
-.on-result-row label { display:flex; gap:10px; align-items:center; min-height:44px; cursor:pointer; }
-.on-result-row input { width:20px; height:20px; accent-color:var(--seal); }
-@media(max-width:560px) { .on-heading { flex-direction:column; } .on-buttons { flex-direction:column; } .on-buttons button { flex:auto; width:100%; } }
