@@ -1,16 +1,26 @@
 const translations = {
   en: {
     aboutTitle: "About the project",
+    kanjiTitle: "Kanji cards",
+    kanjiText: "Kanji, readings, meanings, and compounds.",
+    reservedTitle: "To be decided",
+    reservedText: "A space for a future section.",
+    sourcesLink: "Source materials",
     miscTitle: "Miscellaneous",
     miscText: "Sources, articles, interesting materials, and photos.",
     aboutText: "The exercises draw on the author's own study materials, compiled during her university years starting in 2013, and are supplemented with new original exercises.", onTitle: "On readings",
     onText: "Kanji review through compounds with on readings.", kunTitle: "Kun readings", kunText: "Kanji review through words with kun readings.",
     mixedTitle: "Mixed practice", mixedText: "Kanji review with a mix of on and kun readings.", testTitle: "Final test",
     testText: "A full-block recall test with answers shown at the end.", comingSoon: "Coming soon",
-    soonToast: "This practice mode will be added next.",
+    soonToast: "This section is not available yet.",
   },
   ru: {
     aboutTitle: "О проекте",
+    kanjiTitle: "Карточки с иероглифами",
+    kanjiText: "Иероглифы, чтения, значения и сочетания.",
+    reservedTitle: "Пока не решила",
+    reservedText: "Место для будущего раздела.",
+    sourcesLink: "Исходные материалы",
     miscTitle: "Разное",
     miscText: "Источники, статьи, интересные материалы и фотографии.",
     aboutText: "Задания основаны на собственных учебных материалах автора, составленных в студенческие годы, начиная с 2013 года, и дополняются новыми авторскими упражнениями.",
@@ -18,7 +28,7 @@ const translations = {
     kunText: "Повторение иероглифов по словам с кунными чтениями.", mixedTitle: "Смешанный режим",
     mixedText: "Повторение иероглифов по онным и кунным чтениям вперемешку.", testTitle: "Контрольная",
     testText: "Проверка всего блока с показом ответов в конце.", comingSoon: "Скоро",
-    soonToast: "Этот режим будет добавлен следующим.",
+    soonToast: "Этот раздел пока недоступен.",
   },
 };
 

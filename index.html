@@ -18,7 +18,7 @@
         }
       } catch {}
     </script>
-    <link rel="stylesheet" href="styles.css?v=20261009-placeholder2" />
+    <link rel="stylesheet" href="styles.css?v=20261010-sections1" />
   </head>
   <body>
     <header class="site-header">
@@ -51,6 +51,18 @@
           <article class="path-card path-card--intro">
             <p data-i18n="aboutText">The exercises draw on the author's own study materials, compiled during her university years starting in 2013, and are supplemented with new original exercises.</p>
           </article>
+          <button class="path-card" type="button" data-coming-soon>
+            <span class="mode-badge" aria-hidden="true">KANJI</span>
+            <h3 data-i18n="kanjiTitle">Kanji cards</h3>
+            <p data-i18n="kanjiText">Kanji, readings, meanings, and compounds.</p>
+            <span class="card-link" data-i18n="comingSoon">Coming soon</span>
+          </button>
+          <article class="path-card">
+            <span class="mode-badge" aria-hidden="true">•••</span>
+            <h3 data-i18n="reservedTitle">To be decided</h3>
+            <p data-i18n="reservedText">A space for a future section.</p>
+            <span class="card-link" data-i18n="comingSoon">Coming soon</span>
+          </article>
           <button class="path-card" id="on-card" type="button" data-coming-soon>
             <span class="mode-badge" aria-hidden="true">ON</span>
             <h3 data-i18n="onTitle">On readings</h3>
@@ -75,12 +87,6 @@
             <p data-i18n="testText">A full-block recall test with answers shown at the end.</p>
             <span class="card-link" data-i18n="comingSoon">Coming soon</span>
           </button>
-          <article class="path-card" id="misc">
-            <span class="mode-badge" aria-hidden="true">MISC</span>
-            <h3 data-i18n="miscTitle">Miscellaneous</h3>
-            <p data-i18n="miscText">Sources, articles, interesting materials, and photos.</p>
-            <span class="card-link" data-i18n="comingSoon">Coming soon</span>
-          </article>
         </div>
       </section>
 
@@ -88,8 +94,15 @@
       <div class="toast" id="toast" role="status" aria-live="polite"></div>
     </main>
 
-    <footer><span>2026</span></footer>
-    <script src="script.js?v=20261009-placeholder2"></script>
+    <footer>
+      <span>2026</span>
+      <details class="footer-misc" id="misc">
+        <summary data-i18n="miscTitle">Miscellaneous</summary>
+        <p data-i18n="miscText">Sources, articles, interesting materials, and photos.</p>
+        <a href="https://github.com/veronello/onkun-kanji-by-hand/blob/main/SOURCES.md" data-i18n="sourcesLink">Source materials</a>
+      </details>
+    </footer>
+    <script src="script.js?v=20261010-sections1"></script>
   </body>
 </html>
 

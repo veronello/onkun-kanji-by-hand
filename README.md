@@ -8,12 +8,14 @@ The exercises draw on the author's own study materials, compiled during her univ
 
 ## Current state
 
-The site contains the project description, placeholders for ON, KUN, ON-KUN and OFF, and a Miscellaneous / Разное section. The trial 10-word ON exercise has been removed while the exercise format is being reconsidered.
+The site contains the project description, a six-card grid for KANJI, an undecided section, ON, KUN, ON-KUN and OFF. Miscellaneous / Разное is available in the footer, with a source-materials link. The trial 10-word ON exercise has been removed while the exercise format is being reconsidered.
 
 The interface includes a Russian–English language switcher, a soft-white default theme with graphite text and muted green accents, and an optional dark theme. The theme choice is saved in the browser. The KANJI ON wordmark and green ON icon appear on the site and in browser or home-screen shortcuts.
 
 ## Practice modes
 
+- **Kanji cards:** kanji, readings, meanings, and compounds.
+- **Reserved section:** its purpose is still to be decided.
 - **On readings:** kanji review through compounds with on readings.
 - **Kun readings:** kanji review through words with kun readings.
 - **Mixed practice:** kanji review with a mix of on and kun readings.

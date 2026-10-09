@@ -158,3 +158,8 @@ footer { display: flex; justify-content: space-between; gap: 24px; padding: 28px
   font-size: 22px; font-weight: 800; white-space: nowrap;
 }
 .path-card .mode-badge + h3 { margin-top: 16px; }
+
+.footer-misc { max-width: 420px; }
+.footer-misc summary { width: fit-content; cursor: pointer; color: var(--seal); padding-block: 8px; }
+.footer-misc p { margin: 8px 0; }
+.footer-misc a { display: inline-block; padding-block: 8px; color: var(--seal); }
