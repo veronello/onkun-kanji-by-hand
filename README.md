@@ -8,7 +8,7 @@ The exercises draw on the author's own study materials, compiled during her univ
 
 ## Current state
 
-The site contains the project description, a five-card grid for KANJI, ON, KUN, ON-KUN and OFF. On desktop, Kanji cards occupies the left half of its own row; mobile shows all five cards consecutively. The footer contains the year and a direct source-materials link. The KANJI section contains the first 12 reference cards (亜–安), with Russian and English meanings, single-card and grid views, and light/dark theme support. These cards follow the author’s selected examples; header readings follow the Jōyō table. The trial 10-word ON exercise remains removed while the exercise format is being reconsidered.
+The site contains the project description, a four-card grid for KANJI, ON, KUN and OFF. On desktop, Kanji cards occupies the left half of its own row; mobile shows all four cards consecutively. The footer contains the year and a direct source-materials link. The KANJI section contains the first 12 reference cards (亜–安), with Russian and English meanings, single-card and grid views, and light/dark theme support. These cards follow the author’s selected examples; header readings follow the Jōyō table. The trial 10-word ON exercise remains removed while the exercise format is being reconsidered.
 
 The interface includes a Russian–English language switcher, a soft-white default theme with graphite text and muted green accents, and an optional dark theme. The theme choice is saved in the browser. The KANJI ON wordmark and green ON icon appear on the site and in browser or home-screen shortcuts.
 
@@ -17,7 +17,6 @@ The interface includes a Russian–English language switcher, a soft-white defau
 - **Kanji cards:** kanji, readings, meanings, and compounds.
 - **ON readings:** kanji review through compounds with on readings.
 - **KUN readings:** kanji review through words with kun readings.
-- **Mixed practice:** kanji review with a mix of on and kun readings.
 - **Final test:** a full-block recall test with answers shown at the end.
 
 Practice is intended for handwriting on paper. No exercise set is currently active.
