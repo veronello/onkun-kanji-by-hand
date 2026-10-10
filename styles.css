@@ -44,7 +44,7 @@ button { font: inherit; }
 .site-header { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding-block: 24px; }
 .brand {
   display: inline-flex; flex-direction: column; align-items: flex-start;
-  flex-shrink: 0; padding-block: 6px; color: var(--ink); text-decoration: none;
+  flex-shrink: 0; padding-block: 6px; color: var(--ink); cursor: default;
 }
 .brand-wordmark {
   /* Optical alignment: compensate for the bold K's left sidebearing. */
@@ -165,4 +165,4 @@ footer { display: flex; justify-content: space-between; gap: 24px; padding: 28px
   #on-card { grid-column: 1 / span 3; }
 }
 
-.footer-sources { color: var(--seal); padding-block: 8px; width: fit-content; }
+.footer-sources { display: inline-flex; align-items: center; min-height: 44px; color: var(--seal); padding-block: 8px; max-width: 100%; width: fit-content; font-size: 14px; text-decoration: underline; text-underline-offset: 3px; }

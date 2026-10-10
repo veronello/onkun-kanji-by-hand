@@ -3,7 +3,7 @@ const translations = {
     aboutTitle: "About the project",
     kanjiTitle: "Kanji cards",
     kanjiText: "Kanji, readings, meanings, and compounds.",
-    sourcesLink: "Source materials",
+    sourcesLink: "Sources (Excel) on GitHub",
     aboutText: "The exercises draw on the author's own study materials, compiled during her university years starting in 2013, and are supplemented with new original exercises.", onTitle: "ON readings",
     onText: "Kanji review through compounds with on readings.", kunTitle: "KUN readings", kunText: "Kanji review through words with kun readings.",
     mixedTitle: "Mixed practice", mixedText: "Kanji review with a mix of on and kun readings.", testTitle: "Final test",
@@ -14,7 +14,7 @@ const translations = {
     aboutTitle: "О проекте",
     kanjiTitle: "Карточки с иероглифами",
     kanjiText: "Иероглифы, чтения, значения и сочетания.",
-    sourcesLink: "Исходные материалы",
+    sourcesLink: "Источники (Excel) на GitHub",
     aboutText: "Задания основаны на собственных учебных материалах автора, составленных в студенческие годы, начиная с 2013 года, и дополняются новыми авторскими упражнениями.",
     onTitle: "Онные чтения", onText: "Повторение иероглифов по сочетаниям с онными чтениями.", kunTitle: "Кунные чтения",
     kunText: "Повторение иероглифов по словам с кунными чтениями.", mixedTitle: "Смешанный режим",
@@ -45,7 +45,6 @@ function setLanguage(nextLanguage) {
     button.setAttribute("aria-pressed", String(isActive));
   });
   updateThemeButton();
-  document.querySelector(".brand").setAttribute("aria-label", language === "ru" ? "KANJI ON — на главную" : "KANJI ON — home");
   if (toast.classList.contains("is-visible")) toast.textContent = translations[language].soonToast;
 }
 
@@ -74,14 +73,4 @@ themeToggle.addEventListener("click", () => {
   updateThemeButton();
 });
 
-
-
-
-// The wordmark returns to the home section without reloading the page.
-document.querySelector('.brand').addEventListener('click', (event) => {
-  if (event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
-  event.preventDefault();
-  document.getElementById('path-title').focus({preventScroll:true});
-  window.scrollTo({top:0, behavior:'instant'});
-});
 setLanguage(language);
