@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="KANJI ON — practise on and kun readings by writing kanji on paper." />
+    <meta name="theme-color" content="#f8f9fa" />
+    <title>KUN practice — KANJI ON</title>
+    <link rel="icon" href="favicon.ico?v=green1" sizes="any" />
+    <link rel="icon" href="favicon.svg?v=green1" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="apple-touch-icon-green-v1.png" sizes="180x180" />
+    <meta name="apple-mobile-web-app-title" content="KANJI ON" />
+    <script>
+      try {
+        if (localStorage.getItem("onkun-theme") === "dark") {
+          document.documentElement.dataset.theme = "dark";
+          document.querySelector('meta[name="theme-color"]').content = "#191919";
+        }
+      } catch {}
+    </script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400;500&display=swap">
+    <link rel="stylesheet" href="on-drill.css?v=20261010-drill1" />
+    <link rel="stylesheet" href="styles.css?v=20261010-cards1" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="./" aria-label="KANJI ON — home">
+        <span class="brand-wordmark" aria-hidden="true">
+          <span class="brand-kanji">KANJI</span>
+          <span class="brand-switch"><span>ON</span><span class="brand-knob"></span></span>
+        </span>
+        <span class="brand-tagline" aria-hidden="true">Kanji by hand</span>
+      </a>
+      <div class="header-controls">
+      <div class="language-switcher" aria-label="Language">
+        <button class="language-button" data-language="ru" type="button">RU</button>
+        <span aria-hidden="true">/</span>
+        <button class="language-button" data-language="en" type="button">EN</button>
+      </div>
+      <button class="theme-toggle" id="theme-toggle" type="button" aria-pressed="false">Dark theme</button>
+      </div>
+    </header>
+
+    <main class="drill-main">
+      <nav class="drill-navigation"><a href="./" data-i18n="cardsBack">← Back to sections</a></nav>
+<div id="on-drill">
+  <h2 id="od-title">Кунные чтения</h2>
+  <p id="od-subtitle" class="od-subtitle">Примеры из карточек № 1–12</p>
+  <section class="od-exercise" aria-labelledby="od-title">
+    <div class="od-counter" id="od-counter">Слово 1 из 10</div>
+    <progress id="od-progress" max="10" value="1" aria-label="Текущее слово"></progress>
+    <div id="od-question">
+      <p class="od-instruction" id="od-instruction">Напиши на бумаге</p>
+      <div class="od-reading" id="od-reading">awaremu</div>
+      <div class="od-meaning" id="od-meaning">жалеть; сострадать</div>
+      <div class="od-answer-space"><div id="od-answer" hidden><div id="od-answer-label" class="od-instruction">Сравни со своей записью</div><div id="od-kanji" class="od-kanji" lang="ja"></div><div id="od-note" class="od-note"></div></div></div>
+    </div>
+    <div id="od-finished" hidden><h3 id="od-finish-title">Повторение завершено</h3><p id="od-finish-text">Все 10 примеров пройдены.</p></div>
+    <button id="od-action" class="od-primary" type="button" aria-controls="od-answer">Показать ответ</button>
+    <button id="od-back" class="od-back" type="button" disabled>← Предыдущее слово</button>
+  </section>
+  <p id="od-live" class="od-sr" aria-live="polite"></p>
+</div>
+
+      <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    </main>
+    <footer>
+      <span>2026</span>
+      <a class="footer-sources" href="https://github.com/veronello/onkun-kanji-by-hand/blob/main/SOURCES.md" data-i18n="sourcesLink">Sources (Excel) on GitHub</a>
+    </footer>
+    <script src="script.js?v=20261010-kun1"></script>
+    <script src="kun-drill.js?v=20261010-kun1"></script>
+  </body>
+</html>
+
+
+

@@ -16,10 +16,10 @@ The interface includes a Russian–English language switcher, a soft-white defau
 
 - **Kanji cards:** kanji, readings, meanings, and compounds.
 - **ON readings:** a self-paced handwriting drill with all 44 examples from cards 1–12, including kun and irregular readings. Read the romanization and meaning, write on paper, then reveal the answer and continue. Russian and English are supported.
-- **KUN readings:** kanji review through words with kun readings.
+- **KUN readings:** the same self-paced handwriting drill with 10 examples using kun readings of the target kanji from cards 1–12, in Russian and English.
 - **Final test:** a full-block recall test with answers shown at the end.
 
-Practice is intended for handwriting on paper. The first ON drill is active; KUN and Final test are still planned.
+Practice is intended for handwriting on paper. The first ON and KUN drills are active; Final test is still planned.
 
 ## Source materials
 
