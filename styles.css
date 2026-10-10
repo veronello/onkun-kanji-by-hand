@@ -163,3 +163,8 @@ footer { display: flex; justify-content: space-between; gap: 24px; padding: 28px
 .footer-misc summary { width: fit-content; cursor: pointer; color: var(--seal); padding-block: 8px; }
 .footer-misc p { margin: 8px 0; }
 .footer-misc a { display: inline-block; padding-block: 8px; color: var(--seal); }
+
+/* Start the readings on a new row; leave space beside Kanji cards. */
+@media (min-width: 761px) {
+  #on-card { grid-column: 1 / span 3; }
+}
