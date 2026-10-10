@@ -2,6 +2,8 @@ const translations = {
   en: {
     aboutTitle: "About the project",
     kanjiTitle: "Kanji cards",
+    openCards: "12 kanji · Open cards",
+    cardsBack: "← Back to sections",
     kanjiText: "Kanji, readings, meanings, and compounds.",
     sourcesLink: "Sources (Excel) on GitHub",
     aboutText: "The exercises draw on the author's own study materials, compiled during her university years starting in 2013, and are supplemented with new original exercises.", onTitle: "ON readings",
@@ -13,6 +15,8 @@ const translations = {
   ru: {
     aboutTitle: "О проекте",
     kanjiTitle: "Карточки с иероглифами",
+    openCards: "12 иероглифов · Открыть карточки",
+    cardsBack: "← К разделам",
     kanjiText: "Иероглифы, чтения, значения и сочетания.",
     sourcesLink: "Источники (Excel) на GitHub",
     aboutText: "Задания основаны на собственных учебных материалах автора, составленных в студенческие годы, начиная с 2013 года, и дополняются новыми авторскими упражнениями.",
@@ -45,6 +49,7 @@ function setLanguage(nextLanguage) {
     button.setAttribute("aria-pressed", String(isActive));
   });
   updateThemeButton();
+  document.dispatchEvent(new CustomEvent("onkun-language-change", { detail: language }));
   if (toast.classList.contains("is-visible")) toast.textContent = translations[language].soonToast;
 }
 
@@ -74,3 +79,4 @@ themeToggle.addEventListener("click", () => {
 });
 
 setLanguage(language);
+

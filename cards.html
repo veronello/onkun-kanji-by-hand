@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="KANJI ON — practise on and kun readings by writing kanji on paper." />
+    <meta name="theme-color" content="#f8f9fa" />
+    <title>Kanji cards — KANJI ON</title>
+    <link rel="icon" href="favicon.ico?v=green1" sizes="any" />
+    <link rel="icon" href="favicon.svg?v=green1" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="apple-touch-icon-green-v1.png" sizes="180x180" />
+    <meta name="apple-mobile-web-app-title" content="KANJI ON" />
+    <script>
+      try {
+        if (localStorage.getItem("onkun-theme") === "dark") {
+          document.documentElement.dataset.theme = "dark";
+          document.querySelector('meta[name="theme-color"]').content = "#191919";
+        }
+      } catch {}
+    </script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400;500&display=swap">
+    <link rel="stylesheet" href="cards.css?v=20261010-cards1" />
+    <link rel="stylesheet" href="styles.css?v=20261010-cards1" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="./" aria-label="KANJI ON — home">
+        <span class="brand-wordmark" aria-hidden="true">
+          <span class="brand-kanji">KANJI</span>
+          <span class="brand-switch"><span>ON</span><span class="brand-knob"></span></span>
+        </span>
+        <span class="brand-tagline" aria-hidden="true">Kanji by hand</span>
+      </a>
+      <div class="header-controls">
+      <div class="language-switcher" aria-label="Language">
+        <button class="language-button" data-language="ru" type="button">RU</button>
+        <span aria-hidden="true">/</span>
+        <button class="language-button" data-language="en" type="button">EN</button>
+      </div>
+      <button class="theme-toggle" id="theme-toggle" type="button" aria-pressed="false">Dark theme</button>
+      </div>
+    </header>
+
+    <main class="cards-main">
+      <nav class="cards-navigation"><a href="./" data-i18n="cardsBack">← Back to sections</a></nav>
+<div id="kanji-cards">
+  <header class="kc-toolbar">
+    <h2 id="kc-title">Карточки кандзи</h2>
+  </header>
+  <div class="kc-viewbar">
+    <div class="kc-switch" role="group" id="kc-viewgroup" aria-label="Вид карточек">
+      <button type="button" data-view="single" aria-pressed="true">По одной</button>
+      <button type="button" data-view="grid" aria-pressed="false">Сетка</button>
+    </div>
+  </div>
+  <div id="kc-content" class="kc-content"></div>
+  <nav id="kc-pagination" class="kc-pagination" aria-label="Листать карточки">
+    <button type="button" id="kc-prev">← Назад</button>
+    <button type="button" id="kc-next">Дальше →</button>
+  </nav>
+  <p id="kc-status" class="kc-sr" aria-live="polite"></p>
+</div>
+
+      <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    </main>
+    <footer>
+      <span>2026</span>
+      <a class="footer-sources" href="https://github.com/veronello/onkun-kanji-by-hand/blob/main/SOURCES.md" data-i18n="sourcesLink">Sources (Excel) on GitHub</a>
+    </footer>
+    <script src="script.js?v=20261010-cards1"></script>
+    <script src="cards.js?v=20261010-cards1"></script>
+  </body>
+</html>
+
+

@@ -166,3 +166,8 @@ footer { display: flex; justify-content: space-between; gap: 24px; padding: 28px
 }
 
 .footer-sources { display: inline-flex; align-items: center; min-height: 44px; color: var(--seal); padding-block: 8px; max-width: 100%; width: fit-content; font-size: 14px; text-decoration: underline; text-underline-offset: 3px; }
+
+
+a.brand { cursor: pointer; }
+a.path-card { display: block; text-decoration: none; cursor: pointer; }
+a.path-card:hover { border-color: var(--seal); box-shadow: var(--shadow); }

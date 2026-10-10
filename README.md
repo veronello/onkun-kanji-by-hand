@@ -8,7 +8,7 @@ The exercises draw on the author's own study materials, compiled during her univ
 
 ## Current state
 
-The site contains the project description, a five-card grid for KANJI, ON, KUN, ON-KUN and OFF. On desktop, Kanji cards occupies the left half of its own row; mobile shows all five cards consecutively. The footer contains the year and a direct source-materials link. The trial 10-word ON exercise has been removed while the exercise format is being reconsidered.
+The site contains the project description, a five-card grid for KANJI, ON, KUN, ON-KUN and OFF. On desktop, Kanji cards occupies the left half of its own row; mobile shows all five cards consecutively. The footer contains the year and a direct source-materials link. The KANJI section contains the first 12 reference cards (亜–安), with Russian and English meanings, single-card and grid views, and light/dark theme support. These cards follow the author’s selected examples; header readings follow the Jōyō table. The trial 10-word ON exercise remains removed while the exercise format is being reconsidered.
 
 The interface includes a Russian–English language switcher, a soft-white default theme with graphite text and muted green accents, and an optional dark theme. The theme choice is saved in the browser. The KANJI ON wordmark and green ON icon appear on the site and in browser or home-screen shortcuts.
 
@@ -36,4 +36,5 @@ Open `index.html` in a browser. The site uses HTML, CSS, and JavaScript, with no
 ## Copyright
 
 Source code is licensed under the [MIT License](LICENSE). Exercise data, written content, branding, and visual identity are excluded from this license and are not licensed for reuse at this stage.
+
 
