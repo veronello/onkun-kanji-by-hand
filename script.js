@@ -3,11 +3,12 @@ const translations = {
     aboutTitle: "About the project",
     kanjiTitle: "Kanji cards",
     openCards: "12 kanji · Open cards",
+    openOn: "44 examples · Start practice",
     cardsBack: "← Back to sections",
     kanjiText: "Kanji, readings, meanings, and compounds.",
     sourcesLink: "Sources (Excel) on GitHub",
     aboutText: "The exercises draw on the author's own study materials, compiled during her university years starting in 2013, and are supplemented with new original exercises.", onTitle: "ON readings",
-    onText: "Kanji review through compounds with on readings.", kunTitle: "KUN readings", kunText: "Kanji review through words with kun readings.", testTitle: "Final test",
+    onText: "Review words and compounds from cards No. 1–12.", kunTitle: "KUN readings", kunText: "Kanji review through words with kun readings.", testTitle: "Final test",
     testText: "A full-block recall test with answers shown at the end.", comingSoon: "Coming soon",
     soonToast: "This section is not available yet.",
   },
@@ -15,11 +16,12 @@ const translations = {
     aboutTitle: "О проекте",
     kanjiTitle: "Карточки с иероглифами",
     openCards: "12 иероглифов · Открыть карточки",
+    openOn: "44 примера · Начать повторение",
     cardsBack: "← К разделам",
     kanjiText: "Иероглифы, чтения, значения и сочетания.",
     sourcesLink: "Источники (Excel) на GitHub",
     aboutText: "Задания основаны на собственных учебных материалах автора, составленных в студенческие годы, начиная с 2013 года, и дополняются новыми авторскими упражнениями.",
-    onTitle: "Онные чтения", onText: "Повторение иероглифов по сочетаниям с онными чтениями.", kunTitle: "Кунные чтения",
+    onTitle: "Онные чтения", onText: "Повторение слов и сочетаний из карточек № 1–12.", kunTitle: "Кунные чтения",
     kunText: "Повторение иероглифов по словам с кунными чтениями.", testTitle: "Контрольная",
     testText: "Проверка всего блока с показом ответов в конце.", comingSoon: "Скоро",
     soonToast: "Этот раздел пока недоступен.",
@@ -77,4 +79,5 @@ themeToggle.addEventListener("click", () => {
 });
 
 setLanguage(language);
+
 

@@ -15,11 +15,11 @@ The interface includes a Russian–English language switcher, a soft-white defau
 ## Practice modes
 
 - **Kanji cards:** kanji, readings, meanings, and compounds.
-- **ON readings:** kanji review through compounds with on readings.
+- **ON readings:** a self-paced handwriting drill with all 44 examples from cards 1–12, including kun and irregular readings. Read the romanization and meaning, write on paper, then reveal the answer and continue. Russian and English are supported.
 - **KUN readings:** kanji review through words with kun readings.
 - **Final test:** a full-block recall test with answers shown at the end.
 
-Practice is intended for handwriting on paper. No exercise set is currently active.
+Practice is intended for handwriting on paper. The first ON drill is active; KUN and Final test are still planned.
 
 ## Source materials
 
@@ -35,5 +35,6 @@ Open `index.html` in a browser. The site uses HTML, CSS, and JavaScript, with no
 ## Copyright
 
 Source code is licensed under the [MIT License](LICENSE). Exercise data, written content, branding, and visual identity are excluded from this license and are not licensed for reuse at this stage.
+
 
 
