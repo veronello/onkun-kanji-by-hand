@@ -1,7 +1,7 @@
 
 (() => {
   const root = document.getElementById('kanji-cards');
-  const data = [
+  const originalData = [
     { id: 1, kanji: '亜', on: ['a'], kun: [], meaning: ['вторичный; суб-; Азия', 'secondary; sub-; Asia'], words: [
       ['亜鉛', 'aen', 'цинк', 'zinc'],
       ['亜麻', 'ama', 'лён', 'flax'],
@@ -71,6 +71,14 @@
       ['安い', 'yasui', 'дешёвый; недорогой', 'cheap; inexpensive']
     ]}
   ];
+  // Only the experimental branch uses these official Excel examples.
+  // The existing twelve fully translated cards remain the default.
+  const previewRequested = new URLSearchParams(window.location.search).has('excel-preview');
+  const data = previewRequested && Array.isArray(window.ONKUN_OFFICIAL_PREVIEW_CARDS)
+    ? window.ONKUN_OFFICIAL_PREVIEW_CARDS : originalData;
+  const escapeHtml = value => String(value ?? '').replace(/[&<>"']/g, char => ({
+    '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;'
+  })[char]);
   const copy = {
     ru: {title: 'Карточки кандзи', single: 'По одной', grid: 'Сетка', prev: '← Назад', next: 'Дальше →', open: 'Открыть', view: 'Вид карточек', nav: 'Листать карточки', card: 'Карточка'},
     en: {title: 'Kanji cards', single: 'One card', grid: 'Grid', prev: '← Previous', next: 'Next →', open: 'Open', view: 'Card view', nav: 'Browse cards', card: 'Card'}
@@ -85,13 +93,26 @@
   function cardMarkup(card) {
     const english = language === 'en';
     const t = copy[language];
-    const on = card.on.length ? `<div class="kc-reading-group"><div class="kc-reading-label">ON</div><div class="kc-reading">${card.on.join(' · ')}</div></div>` : '';
-    const kun = card.kun.length ? `<div class="kc-reading-group"><div class="kc-reading-label">KUN</div>${card.kun.map(r => `<div class="kc-reading">${r[0]}</div><div class="kc-reading-meaning">${r[english ? 2 : 1]}</div>`).join('')}</div>` : '';
-    return `<article class="kc-sheet" aria-label="${t.card} ${card.id}: ${card.kanji}">
-      <div class="kc-meta"><span>${english ? 'No.' : '№'} ${card.id}</span>${view === 'grid' ? `<button type="button" class="kc-expand" data-open="${card.id - 1}" aria-label="${t.open}: ${card.kanji}">${t.open}</button>` : ''}</div>
-      <div class="kc-head"><h3 class="kc-kanji" lang="ja">${card.kanji}</h3><div>${on}${kun}</div></div>
-      <p class="kc-meaning">${card.meaning[english ? 1 : 0]}</p>
-      <ul class="kc-words">${card.words.map(w => `<li class="kc-word"><span class="kc-word-jp" lang="ja">${w[0]}</span><div class="kc-word-detail"><div class="kc-word-reading">${w[1]}</div><div class="kc-word-meaning">${w[english ? 3 : 2]}${w[4] ? `<span class="kc-note">${w[english ? 5 : 4]}</span>` : ''}</div></div></li>`).join('')}</ul>
+    const on = card.on.length
+      ? `<div class="kc-reading-group"><div class="kc-reading-label">ON</div><div class="kc-reading">${card.on.map(escapeHtml).join(' · ')}</div></div>` : '';
+    const kun = card.kun.length
+      ? `<div class="kc-reading-group"><div class="kc-reading-label">KUN</div>${card.kun.map(r => {
+          const meaning = r[english ? 2 : 1];
+          return `<div class="kc-reading">${escapeHtml(r[0])}</div>${meaning ? `<div class="kc-reading-meaning">${escapeHtml(meaning)}</div>` : ''}`;
+        }).join('')}</div>` : '';
+    const meaning = card.meaning[english ? 1 : 0];
+    const wordRows = card.words.map(w => {
+      const translated = w[english ? 3 : 2];
+      const note = w[english ? 5 : 4];
+      const readingHtml = w[1] ? `<div class="kc-word-reading">${escapeHtml(w[1])}</div>` : '';
+      const meaningHtml = translated ? `<div class="kc-word-meaning">${escapeHtml(translated)}${note ? `<span class="kc-note">${escapeHtml(note)}</span>` : ''}</div>` : '';
+      return `<li class="kc-word"><span class="kc-word-jp" lang="ja">${escapeHtml(w[0])}</span><div class="kc-word-detail">${readingHtml}${meaningHtml}</div></li>`;
+    }).join('');
+    return `<article class="kc-sheet" aria-label="${escapeHtml(t.card)} ${card.id}: ${escapeHtml(card.kanji)}">
+      <div class="kc-meta"><span>${english ? 'No.' : '№'} ${card.id}</span>${view === 'grid' ? `<button type="button" class="kc-expand" data-open="${card.id - 1}" aria-label="${escapeHtml(t.open)}: ${escapeHtml(card.kanji)}">${escapeHtml(t.open)}</button>` : ''}</div>
+      <div class="kc-head"><h3 class="kc-kanji" lang="ja">${escapeHtml(card.kanji)}</h3><div>${on}${kun}</div></div>
+      ${meaning ? `<p class="kc-meaning">${escapeHtml(meaning)}</p>` : ''}
+      <ul class="kc-words">${wordRows}</ul>
     </article>`;
   }
   function render() {
