@@ -1,0 +1,788 @@
+{
+  "EX-00001": {
+    "jp": "亜流",
+    "romaji": "aryū",
+    "ru": "последователь; подражатель",
+    "en": "follower; imitator",
+    "noteRu": "Значение зависит от контекста: последователь школы либо подражатель без оригинальности.",
+    "noteEn": "Context: follower of a school, or an unoriginal imitator.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E4%BA%9C%E6%B5%81-428361"
+      }
+    ]
+  },
+  "EX-00002": {
+    "jp": "亜麻",
+    "romaji": "ama",
+    "ru": "лён",
+    "en": "flax",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E4%BA%9C%E9%BA%BB-426862"
+      }
+    ]
+  },
+  "EX-00003": {
+    "jp": "亜熱帯",
+    "romaji": "anettai",
+    "ru": "субтропики; субтропический пояс",
+    "en": "subtropics; subtropical zone",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E4%BA%9C%E7%86%B1%E5%B8%AF-26463"
+      }
+    ]
+  },
+  "EX-00004": {
+    "jp": "哀愁",
+    "romaji": "aishū",
+    "ru": "грусть; меланхолия",
+    "en": "sadness; melancholy",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%93%80%E6%84%81-421361"
+      }
+    ]
+  },
+  "EX-00005": {
+    "jp": "哀願",
+    "romaji": "aigan",
+    "ru": "мольба; горячая просьба",
+    "en": "pleading; earnest appeal",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%93%80%E9%A1%98-421168"
+      }
+    ]
+  },
+  "EX-00006": {
+    "jp": "悲哀",
+    "romaji": "hiai",
+    "ru": "горе; печаль",
+    "en": "sorrow; grief",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%82%B2%E5%93%80-607615"
+      }
+    ]
+  },
+  "EX-00007": {
+    "jp": "哀れ",
+    "romaji": "aware",
+    "ru": "жалость; сострадание; жалкий",
+    "en": "pity; compassion; pitiful",
+    "noteRu": "Существительное или な-прилагательное; здесь даны современные основные значения.",
+    "noteEn": "Noun or na-adjective; principal modern senses shown.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%93%80%E3%82%8C-429018"
+      }
+    ]
+  },
+  "EX-00008": {
+    "jp": "哀れな話",
+    "romaji": "aware na hanashi",
+    "ru": "печальная история",
+    "en": "a sad story",
+    "noteRu": "Перевод сочетания по значениям 哀れ и 話; возможна также ситуация, вызывающая жалость.",
+    "noteEn": "Phrase translation based on 哀れ and 話; may also describe a pitiful situation.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%93%80%E3%82%8C-429018"
+      },
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E8%A9%B1-603466"
+      }
+    ]
+  },
+  "EX-00009": {
+    "jp": "哀れがる",
+    "romaji": "awaregaru",
+    "ru": "жалеть; проявлять сочувствие",
+    "en": "to pity; to show sympathy",
+    "noteRu": "Здесь современное сочувствие; в старых текстах есть и другие оттенки чувства.",
+    "noteEn": "Modern sympathy sense; older texts include other emotional senses.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%93%80%E3%82%8C%E3%81%8C%E3%82%8B-2004385"
+      }
+    ]
+  },
+  "EX-00010": {
+    "jp": "哀れむ",
+    "romaji": "awaremu",
+    "ru": "жалеть; сострадать",
+    "en": "to pity; to sympathize",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典",
+        "url": "https://kotobank.jp/jeword/%E5%93%80%E3%82%8C%E3%82%80"
+      }
+    ]
+  },
+  "EX-00011": {
+    "jp": "哀れみ",
+    "romaji": "awaremi",
+    "ru": "жалость; сострадание",
+    "en": "pity; compassion",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%93%80%E3%82%8C%E3%81%BF-429023"
+      }
+    ]
+  },
+  "EX-00012": {
+    "jp": "挨拶",
+    "romaji": "aisatsu",
+    "ru": "приветствие",
+    "en": "greeting",
+    "noteRu": "Также вступительная речь или обращение на мероприятии.",
+    "noteEn": "Also an opening address or remarks at an event.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%8C%A8%E6%8B%B6-23677"
+      }
+    ]
+  },
+  "EX-00013": {
+    "jp": "愛情",
+    "romaji": "aijō",
+    "ru": "любовь; привязанность",
+    "en": "love; affection",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%84%9B%E6%83%85-421371"
+      }
+    ]
+  },
+  "EX-00014": {
+    "jp": "愛読",
+    "romaji": "aidoku",
+    "ru": "чтение с удовольствием",
+    "en": "reading with pleasure",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典",
+        "url": "https://kotobank.jp/jeword/%E6%84%9B%E8%AA%AD"
+      }
+    ]
+  },
+  "EX-00015": {
+    "jp": "恋愛",
+    "romaji": "ren'ai",
+    "ru": "романтическая любовь",
+    "en": "romantic love",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%81%8B%E6%84%9B-662001"
+      }
+    ]
+  },
+  "EX-00016": {
+    "jp": "曖昧",
+    "romaji": "aimai",
+    "ru": "неясный; двусмысленный",
+    "en": "vague; ambiguous",
+    "noteRu": "Здесь неясность; отдельное значение — сомнительный, подозрительный.",
+    "noteEn": "Unclear sense shown; another sense is dubious or questionable.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%9B%96%E6%98%A7-23877"
+      }
+    ]
+  },
+  "EX-00017": {
+    "jp": "悪事",
+    "romaji": "akuji",
+    "ru": "злодеяние; дурной поступок",
+    "en": "wrongdoing; evil deed",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%82%AA%E4%BA%8B-423350"
+      }
+    ]
+  },
+  "EX-00018": {
+    "jp": "悪意",
+    "romaji": "akui",
+    "ru": "злой умысел; недоброжелательность",
+    "en": "malice; ill will",
+    "noteRu": "В юридическом контексте: знание определённых обстоятельств; не обязательно злой умысел.",
+    "noteEn": "In legal usage: knowledge of certain circumstances, not necessarily malice.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%82%AA%E6%84%8F-24656"
+      }
+    ]
+  },
+  "EX-00019": {
+    "jp": "醜悪",
+    "romaji": "shūaku",
+    "ru": "безобразный; отвратительный",
+    "en": "ugly; repulsive",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E9%86%9C%E6%82%AA-526225"
+      }
+    ]
+  },
+  "EX-00020": {
+    "jp": "悪寒",
+    "romaji": "okan",
+    "ru": "озноб",
+    "en": "chills",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%82%AA%E5%AF%92-451419"
+      }
+    ]
+  },
+  "EX-00021": {
+    "jp": "好悪",
+    "romaji": "kōo",
+    "ru": "симпатии и антипатии",
+    "en": "likes and dislikes",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%A5%BD%E6%82%AA-494140"
+      }
+    ]
+  },
+  "EX-00022": {
+    "jp": "憎悪",
+    "romaji": "zōo",
+    "ru": "ненависть",
+    "en": "hatred",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%86%8E%E6%82%AA-551835"
+      }
+    ]
+  },
+  "EX-00023": {
+    "jp": "悪い",
+    "romaji": "warui",
+    "ru": "плохой",
+    "en": "bad",
+    "noteRu": "Конкретный перевод зависит от того, что оценивается: качество, состояние или поступок.",
+    "noteEn": "Exact translation depends on quality, condition or conduct.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%82%AA%E3%81%84-665844"
+      }
+    ]
+  },
+  "EX-00024": {
+    "jp": "悪さ",
+    "romaji": "warusa",
+    "ru": "плохое качество; озорство",
+    "en": "poor quality; mischief",
+    "noteRu": "Два основных значения: плохое состояние/качество и шалости.",
+    "noteEn": "Two principal senses: bad condition/quality and mischief.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%82%AA%E3%81%95-665863"
+      }
+    ]
+  },
+  "EX-00025": {
+    "jp": "悪者",
+    "romaji": "warumono",
+    "ru": "злодей; дурной человек",
+    "en": "villain; bad person",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%82%AA%E8%80%85-665896"
+      }
+    ]
+  },
+  "EX-00026": {
+    "jp": "握手",
+    "romaji": "akushu",
+    "ru": "рукопожатие",
+    "en": "handshake",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%8F%A1%E6%89%8B-423367"
+      }
+    ]
+  },
+  "EX-00027": {
+    "jp": "握力",
+    "romaji": "akuryoku",
+    "ru": "сила хвата",
+    "en": "grip strength",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%8F%A1%E5%8A%9B-24822"
+      }
+    ]
+  },
+  "EX-00028": {
+    "jp": "掌握",
+    "romaji": "shōaku",
+    "ru": "овладение; контроль",
+    "en": "command; control",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%8E%8C%E6%8F%A1-530540"
+      }
+    ]
+  },
+  "EX-00029": {
+    "jp": "握る",
+    "romaji": "nigiru",
+    "ru": "сжимать; держать в руке",
+    "en": "to grasp; to grip",
+    "noteRu": "Также держать под контролем; конкретное значение зависит от дополнения.",
+    "noteEn": "Also to control; the object determines the sense.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%8F%A1%E3%82%8B-591216"
+      }
+    ]
+  },
+  "EX-00030": {
+    "jp": "握り",
+    "romaji": "nigiri",
+    "ru": "захват; рукоятка; нигири",
+    "en": "grip; handle; nigiri",
+    "noteRu": "Без контекста значение не выбрано: действие, рукоятка или сокращение названия еды.",
+    "noteEn": "No single sense selected: act of gripping, handle, or abbreviated food name.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%8F%A1%E3%82%8A-591198"
+      }
+    ]
+  },
+  "EX-00031": {
+    "jp": "一握り",
+    "romaji": "hitonigiri",
+    "ru": "горсть; небольшое количество",
+    "en": "a handful; a small amount",
+    "noteRu": "Буквально горсть; переносно немного или небольшая группа.",
+    "noteEn": "Literally a handful; figuratively a small amount or group.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E4%B8%80%E6%8F%A1-2006633"
+      }
+    ]
+  },
+  "EX-00032": {
+    "jp": "圧力",
+    "romaji": "atsuryoku",
+    "ru": "давление",
+    "en": "pressure",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%9C%A7%E5%8A%9B-26093"
+      }
+    ]
+  },
+  "EX-00033": {
+    "jp": "圧迫",
+    "romaji": "appaku",
+    "ru": "сдавливание; давление",
+    "en": "compression; pressure",
+    "noteRu": "Физическое сдавливание или давление на человека, страну, бюджет.",
+    "noteEn": "Physical compression or pressure on a person, country or budget.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%9C%A7%E8%BF%AB-425589"
+      }
+    ]
+  },
+  "EX-00034": {
+    "jp": "気圧",
+    "romaji": "kiatsu",
+    "ru": "атмосферное давление",
+    "en": "atmospheric pressure",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%B0%97%E5%9C%A7-49816"
+      }
+    ]
+  },
+  "EX-00035": {
+    "jp": "扱う",
+    "romaji": "atsukau",
+    "ru": "обращаться с; заниматься",
+    "en": "to handle; to deal with",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%89%B1%E3%81%86-425433"
+      }
+    ]
+  },
+  "EX-00036": {
+    "jp": "扱い",
+    "romaji": "atsukai",
+    "ru": "обращение; обработка",
+    "en": "treatment; handling",
+    "noteRu": "Манера обращения с человеком либо работа с предметом.",
+    "noteEn": "Treatment of a person or handling of an object.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%89%B1%E3%81%84-425430"
+      }
+    ]
+  },
+  "EX-00037": {
+    "jp": "客扱い",
+    "romaji": "kyakuatsukai",
+    "ru": "обращение с гостями; отношение как к гостю",
+    "en": "hospitality; treating someone as a guest",
+    "noteRu": "Два значения: обслуживание гостей и обращение с человеком как с гостем.",
+    "noteEn": "Two senses: entertaining guests and treating someone as a guest.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://dictionary.goo.ne.jp/jn/index/%E3%81%8D%E3%82%83/"
+      }
+    ]
+  },
+  "EX-00038": {
+    "jp": "宛てる",
+    "romaji": "ateru",
+    "ru": "адресовать",
+    "en": "to address",
+    "noteRu": "Именно 宛てる: направлять письмо или посылку адресату.",
+    "noteEn": "Specifically 宛てる: to direct a letter or parcel to a recipient.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%BD%93%E3%81%A6%E3%82%8B-425784"
+      }
+    ]
+  },
+  "EX-00039": {
+    "jp": "宛先",
+    "romaji": "atesaki",
+    "ru": "адрес получателя; адресат",
+    "en": "recipient’s address; addressee",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%AE%9B%E5%85%88-425726"
+      }
+    ]
+  },
+  "EX-00040": {
+    "jp": "嵐",
+    "romaji": "arashi",
+    "ru": "буря; шторм",
+    "en": "storm; tempest",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%B5%90-27744"
+      }
+    ]
+  },
+  "EX-00041": {
+    "jp": "砂嵐",
+    "romaji": "sunaarashi",
+    "ru": "песчаная буря",
+    "en": "sandstorm",
+    "noteRu": "Также «снег»/помехи на телевизионном экране.",
+    "noteEn": "Also television static or snow.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%A0%82%E5%B5%90-542740"
+      }
+    ]
+  },
+  "EX-00042": {
+    "jp": "安全",
+    "romaji": "anzen",
+    "ru": "безопасность; безопасный",
+    "en": "safety; safe",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%AE%89%E5%85%A8-29237"
+      }
+    ]
+  },
+  "EX-00043": {
+    "jp": "安価",
+    "romaji": "anka",
+    "ru": "недорогой; низкая цена",
+    "en": "inexpensive; low price",
+    "noteRu": "Здесь низкая цена; переносно — дешёвый, малоценный.",
+    "noteEn": "Low-price sense shown; figuratively cheap or of little value.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%AE%89%E4%BE%A1-429069"
+      }
+    ]
+  },
+  "EX-00044": {
+    "jp": "不安",
+    "romaji": "fuan",
+    "ru": "тревога; беспокойство",
+    "en": "anxiety; unease",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E4%B8%8D%E5%AE%89-122480"
+      }
+    ]
+  },
+  "EX-00045": {
+    "jp": "安い",
+    "romaji": "yasui",
+    "ru": "дешёвый; недорогой",
+    "en": "cheap; inexpensive",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%AE%89%E3%81%84-648307"
+      }
+    ]
+  },
+  "EX-00046": {
+    "jp": "安らかだ",
+    "romaji": "yasuraka da",
+    "ru": "спокоен; безмятежен",
+    "en": "is peaceful; is tranquil",
+    "noteRu": "Форма 安らか + だ; перевод относится ко всему выражению.",
+    "noteEn": "安らか + だ; translation covers the whole expression.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%AE%89%E3%82%89%E3%81%8B-648394"
+      }
+    ]
+  }
+}

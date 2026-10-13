@@ -8,7 +8,9 @@ The exercises draw on the author's own study materials, compiled during her univ
 
 ## Current state
 
-The site contains the project description, a four-card grid for KANJI, ON, KUN and OFF. On desktop, Kanji cards occupies the left half of its own row; mobile shows all four cards consecutively. The footer contains the year and a direct source-materials link. The KANJI section contains the first 12 reference cards (亜–安), with Russian and English meanings, single-card and grid views, and light/dark theme support. These cards follow the author’s selected examples; header readings follow the Jōyō table. The trial 10-word ON exercise remains removed while the exercise format is being reconsidered.
+This experimental branch connects the KANJI cards to the unchanged reviewed workbook from 13 October 2026. It contains all 2,136 kanji and 9,555 source records. The first 12 kanji have 46 individually prepared Russian and English example translations. Other translations are pending. Cards support One card, a paginated Grid, database scope selection (all / first 12), search by kanji or number, and light/dark themes. Unconfirmed readings and reference templates are marked and their romanization is not published. Existing ON/KUN drills keep their separate sample data.
+
+See [integration report and update instructions](docs/excel-integration.md) and [translation review](docs/translations-12.md).
 
 The interface includes a Russian–English language switcher, a soft-white default theme with graphite text and muted green accents, and an optional dark theme. The theme choice is saved in the browser. The KANJI ON wordmark and green ON icon appear on the site and in browser or home-screen shortcuts.
 
@@ -30,7 +32,13 @@ Practice is intended for handwriting on paper. The first ON and KUN drills are a
 
 ## Run locally
 
-Open `index.html` in a browser. The site uses HTML, CSS, and JavaScript, with no build step or server required.
+Serve the repository over HTTP because cards fetch JSON chunks:
+
+```sh
+python3 -m http.server 8765
+```
+
+Open `http://localhost:8765/cards.html`. No JavaScript build is required. `file://` cannot load the database. Use `cards.html?excel-preview` for the first-12 preview, or select First 12 in the toolbar.
 
 ## Copyright
 

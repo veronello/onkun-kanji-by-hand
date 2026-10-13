@@ -9,7 +9,7 @@
     --kc-line: var(--line);
     
     container-type: inline-size;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif, "Noto Serif JP";
     font-size: 16px;
     line-height: 1.45;
     background: var(--kc-page);
@@ -80,3 +80,14 @@
 .cards-navigation { padding: 22px 0 0; border-top: 1px solid var(--line); }
 .cards-navigation a { color: var(--seal); display: inline-flex; align-items: center; min-height: 44px; }
 .cards-main { padding-bottom: 50px; }
+
+#kanji-cards .kc-database { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; }
+#kanji-cards .kc-search-form { margin-bottom: 16px; }
+#kanji-cards .kc-search-form label { display: block; font-size: 14px; margin-bottom: 6px; color: var(--kc-subtle); }
+#kanji-cards .kc-search-form > div { display: flex; gap: 8px; }
+#kanji-cards input { font: inherit; width: 160px; min-width: 0; color: var(--kc-ink); background: var(--kc-paper); border: 1px solid var(--kc-line); border-radius: 10px; padding: 9px 12px; min-height: 44px; }
+#kanji-cards .kc-range, #kanji-cards #kc-search-message { font-size: 14px; color: var(--kc-subtle); }
+#kanji-cards #kc-search-message:empty { display: none; }
+#kanji-cards .kc-review { font-weight: 500; }
+#kanji-cards .kc-source-note { font-size: 13px; margin-top: 12px; color: var(--kc-subtle); overflow-wrap: anywhere; white-space: pre-line; }
+#kanji-cards .kc-source-note summary { cursor: pointer; min-height: 32px; }
