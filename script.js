@@ -16,6 +16,8 @@ const translations = {
     onTitle: "ON readings",
     onText: "Kanji review through on-reading compounds.", kunTitle: "KUN readings", kunText: "Kanji review through words with kun readings.", testTitle: "Final test",
     testText: "A full-block recall test with answers shown at the end.", comingSoon: "Coming soon",
+    miscTitle: "Miscellaneous",
+    miscText: "Sources, articles, interesting materials, and photos.",
     soonToast: "This section is not available yet.",
   },
   ru: {
@@ -35,6 +37,8 @@ const translations = {
     onTitle: "Онные чтения", onText: "Повторение иероглифов по онным сочетаниям.", kunTitle: "Кунные чтения",
     kunText: "Повторение иероглифов по словам с кунными чтениями.", testTitle: "Контрольная",
     testText: "Проверка всего блока с показом ответов в конце.", comingSoon: "Скоро",
+    miscTitle: "Разное",
+    miscText: "Источники, статьи, интересные материалы и фотографии.",
     soonToast: "Этот раздел пока недоступен.",
   },
 };
