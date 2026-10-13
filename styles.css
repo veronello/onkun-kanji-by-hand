@@ -96,7 +96,9 @@ h2 { margin: 0; font-size: clamp(34px, 5vw, 52px); line-height: 1.05; }
 }
 button.path-card { cursor: pointer; transition: transform 180ms ease, border-color 180ms ease, box-shadow 180ms ease; }
 button.path-card:hover { border-color: rgba(108,151,120,.6); box-shadow: var(--shadow); transform: translateY(-3px); }
-.path-card--intro { grid-column: span 6; min-height: 190px; padding-bottom: 24px; }
+.path-card--intro { grid-column: span 6; min-height: 0; padding-bottom: 24px; }
+.path-card--intro #about-more p { margin-top: 12px; }
+.about-toggle { margin-top: 12px; padding: 4px 0; border: 0; background: transparent; color: var(--seal); font-weight: 750; cursor: pointer; text-decoration: underline; text-underline-offset: 3px; }
 .path-card--active { border-color: rgba(108,151,120,.55); }
 .card-number { position: absolute; top: 8px; right: 18px; color: rgba(108,151,120,.15); font-family: "Yu Mincho", "Hiragino Mincho ProN", serif; font-size: 76px; line-height: 1; }
 .path-card h3 { position: relative; margin: 50px 0 9px; font-family: Georgia, "Times New Roman", serif; font-size: 24px; letter-spacing: normal; word-spacing: normal; }
@@ -130,6 +132,7 @@ footer { display: flex; justify-content: space-between; gap: 24px; padding: 28px
   .hero { padding: 66px 0 58px; }
   .path-grid { display: block; }
   .path-card { display: block; width: 100%; min-height: 210px; margin-bottom: 12px; }
+  .path-card--intro { min-height: 0; }
   .path { padding-bottom: 62px; }
   .practice { padding: 50px 0 70px; }
   .practice-header { gap: 10px; }
