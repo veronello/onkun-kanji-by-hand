@@ -18,7 +18,7 @@
         }
       } catch {}
     </script>
-    <link rel="stylesheet" href="styles.css?v=20261010-cards1" />
+    <link rel="stylesheet" href="styles.css?v=20261013-about1" />
   </head>
   <body>
     <header class="site-header">
@@ -49,7 +49,13 @@
         </div>
         <div class="path-grid">
           <article class="path-card path-card--intro">
-            <p data-i18n="aboutText">The exercises draw on the author's own study materials, compiled during her university years starting in 2013, and are supplemented with new original exercises.</p>
+            <p data-i18n="aboutText">Kanji ON is a project designed to help learners review Japanese kanji included in the official Jōyō Kanji List (常用漢字表, 2010 revision).</p>
+            <div id="about-more" hidden>
+              <p data-i18n="aboutText2">The project is intended for learners who have already studied the required set of kanji and wish to refresh their knowledge and bring it back into active use.</p>
+              <p data-i18n="aboutText3">The review process consists of exercises based on on-reading compounds and kun-readings, requiring learners to write the corresponding kanji by hand.</p>
+              <p data-i18n="aboutText4">An additional knowledge assessment test is currently under development.</p>
+            </div>
+            <button class="about-toggle" id="about-toggle" type="button" aria-expanded="false" aria-controls="about-more" data-i18n="readMore">Read more</button>
           </article>
           <a class="path-card path-card--active" href="cards.html">
             <span class="mode-badge" aria-hidden="true">KANJI</span>
@@ -86,7 +92,7 @@
       <span>2026</span>
       <a class="footer-sources" href="https://github.com/veronello/onkun-kanji-by-hand/blob/main/SOURCES.md" data-i18n="sourcesLink">Sources (Excel) on GitHub</a>
     </footer>
-    <script src="script.js?v=20261010-kun1"></script>
+    <script src="script.js?v=20261013-about1"></script>
   </body>
 </html>
 
