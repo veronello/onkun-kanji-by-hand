@@ -51,11 +51,14 @@ def import_workbook(source, output):
         if t:
             assert t['jp'] == r[4] and t['romaji'] == r[7], f'Stale translation: {r[0]}'
             assert t['sources'] and t['status'] == 'dictionary-reviewed'
+            assert t.get('reviewFlag') in (None, 'sense-selection')
+        metadata = dict(id=r[0], excelRow=excel_row, group=r[5], type=r[6],
+                        romajiStatus=r[18], eligible=eligible, originalExample=r[3],
+                        annotation=r[16], source=r[14], translationStatus=t.get('status', 'pending'))
+        if t.get('reviewFlag'):
+            metadata['translationReview'] = t['reviewFlag']
         words = [r[4], r[7] if eligible else '', r[8] or t.get('ru', ''),
-                 r[9] or t.get('en', ''), t.get('noteRu', ''), t.get('noteEn', ''),
-                 dict(id=r[0], excelRow=excel_row, group=r[5], type=r[6],
-                      romajiStatus=r[18], eligible=eligible, originalExample=r[3],
-                      annotation=r[16], source=r[14], translationStatus=t.get('status', 'pending'))]
+                 r[9] or t.get('en', ''), t.get('noteRu', ''), t.get('noteEn', ''), metadata]
         cards[int(r[1])]['words'].append(words)
         if not eligible:
             deferred.append(dict(id=r[0], kanji=r[2], jp=r[4], romaji=r[7],

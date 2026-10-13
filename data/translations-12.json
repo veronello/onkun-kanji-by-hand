@@ -784,5 +784,879 @@
         "url": "https://kotobank.jp/word/%E5%AE%89%E3%82%89%E3%81%8B-648394"
       }
     ]
+  },
+  "EX-00047": {
+    "jp": "案文",
+    "romaji": "anbun",
+    "ru": "проект текста; черновик документа",
+    "en": "draft text; draft document",
+    "noteRu": "Также старое значение «копия рукописи»; здесь проект текста.",
+    "noteEn": "Historical sense: a manuscript copy; draft sense shown.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%A1%88%E6%96%87-429734"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00048": {
+    "jp": "案内",
+    "romaji": "annai",
+    "ru": "путеводные указания; информация; приглашение",
+    "en": "guidance; information; invitation",
+    "noteRu": "Контекст определяет: указания, сведения или приглашение.",
+    "noteEn": "Context selects guidance, information, or invitation.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%A1%88%E5%86%85-29545"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00049": {
+    "jp": "新案",
+    "romaji": "shin'an",
+    "ru": "новая идея; новый проект",
+    "en": "new idea; new design",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%96%B0%E6%A1%88-536613"
+      }
+    ]
+  },
+  "EX-00050": {
+    "jp": "暗示",
+    "romaji": "anji",
+    "ru": "намёк; внушение",
+    "en": "hint; suggestion",
+    "noteRu": "В психологии также «внушение»; без контекста значение не сужено.",
+    "noteEn": "Psychology: suggestion; context is needed to select a sense.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%9A%97%E7%A4%BA-29167"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00051": {
+    "jp": "暗愚",
+    "romaji": "angu",
+    "ru": "невежественность и глупость; неразумный",
+    "en": "ignorance and folly; foolish",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%9A%97%E6%84%9A-429115"
+      }
+    ]
+  },
+  "EX-00052": {
+    "jp": "明暗",
+    "romaji": "meian",
+    "ru": "свет и тень; удачи и неудачи",
+    "en": "light and shade; contrasting fortunes",
+    "noteRu": "Буквально свет и тень, переносно контраст судьбы.",
+    "noteEn": "Literal light and shade; figurative contrasting fortunes.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%98%8E%E6%9A%97-141046"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00053": {
+    "jp": "暗い",
+    "romaji": "kurai",
+    "ru": "тёмный; мрачный",
+    "en": "dark; gloomy",
+    "noteRu": "Прилагательное: о свете или мрачном настроении.",
+    "noteEn": "Adjective: lighting or a gloomy mood.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%9A%97%E3%81%84-485347"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00054": {
+    "jp": "暗がり",
+    "romaji": "kuragari",
+    "ru": "темнота; тёмное место",
+    "en": "darkness; a dark place",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%9A%97%E3%81%8C%E3%82%8A-485469"
+      }
+    ]
+  },
+  "EX-00055": {
+    "jp": "以上",
+    "romaji": "ijō",
+    "ru": "не менее; выше; вышеупомянутое",
+    "en": "at least; above; the foregoing",
+    "noteRu": "Числовая граница обычно включается; также ссылка на сказанное выше.",
+    "noteEn": "A numerical threshold is normally inclusive; also refers to the foregoing.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E4%BB%A5%E4%B8%8A-432324"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00056": {
+    "jp": "以内",
+    "romaji": "inai",
+    "ru": "в пределах; не позднее указанного срока",
+    "en": "within; no later than the stated time",
+    "noteRu": "При числовом или временном пределе граница включается.",
+    "noteEn": "With a number or time limit, the boundary is included.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E4%BB%A5%E5%86%85-435061"
+      }
+    ]
+  },
+  "EX-00057": {
+    "jp": "以後",
+    "romaji": "igo",
+    "ru": "после; впредь",
+    "en": "after; from now on",
+    "noteRu": "Может отсчитываться от указанного момента либо от настоящего.",
+    "noteEn": "May refer to a stated time or the present.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E4%BB%A5%E5%BE%8C-431678"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00058": {
+    "jp": "衣服",
+    "romaji": "ifuku",
+    "ru": "одежда",
+    "en": "clothing",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E8%A1%A3%E6%9C%8D-32044"
+      }
+    ]
+  },
+  "EX-00059": {
+    "jp": "衣食住",
+    "romaji": "ishokujū",
+    "ru": "одежда, еда и жильё; основы быта",
+    "en": "clothing, food and shelter; necessities of life",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E8%A1%A3%E9%A3%9F%E4%BD%8F-432378"
+      }
+    ]
+  },
+  "EX-00060": {
+    "jp": "作業衣",
+    "romaji": "sagyōi",
+    "ru": "рабочая одежда",
+    "en": "work clothes",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E4%BD%9C%E6%A5%AD%E8%A1%A3-681469"
+      }
+    ]
+  },
+  "EX-00061": {
+    "jp": "衣",
+    "romaji": "koromo",
+    "ru": "одежда; одеяние; панировка",
+    "en": "clothing; robe; batter or coating",
+    "noteRu": "衣 имеет также значение оболочки пищи; выбор требует контекста.",
+    "noteEn": "衣 can also mean a food coating; context selects the sense.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E8%A1%A3-51239"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00062": {
+    "jp": "羽衣",
+    "romaji": "hagoromo",
+    "ru": "небесное одеяние; оперение",
+    "en": "celestial feather robe; plumage",
+    "noteRu": "В мифе — одеяние небесной девы; возможны другие значения, включая название пьесы.",
+    "noteEn": "Mythological robe; other uses include feathers and a play title.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%BE%BD%E8%A1%A3-33346"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00063": {
+    "jp": "位置",
+    "romaji": "ichi",
+    "ru": "местоположение; положение",
+    "en": "location; position",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E4%BD%8D%E7%BD%AE-433174"
+      }
+    ]
+  },
+  "EX-00064": {
+    "jp": "第一位",
+    "romaji": "daiichii",
+    "ru": "первое место; высшая позиция",
+    "en": "first place; top rank",
+    "noteRu": "Сочетание 第一 + 位 / 一位; без контекста это место в ранжировании.",
+    "noteEn": "Combination of 第一 and 位 / 一位; rank sense without further context.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E4%B8%80%E4%BD%8D-433182"
+      },
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E7%AC%AC%E4%B8%80-556329"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00065": {
+    "jp": "各位",
+    "romaji": "kakui",
+    "ru": "уважаемые коллеги; уважаемые все",
+    "en": "dear all; esteemed colleagues",
+    "noteRu": "Вежливое письменное обращение к группе, не титул одного человека.",
+    "noteEn": "Formal address to a group, not an individual title.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%90%84%E4%BD%8D-460054"
+      }
+    ]
+  },
+  "EX-00066": {
+    "jp": "位",
+    "romaji": "kurai",
+    "ru": "ранг; положение; разряд числа",
+    "en": "rank; position; place value",
+    "noteRu": "Возможны социальный ранг и математический разряд.",
+    "noteEn": "May mean social rank or a numerical place value.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E4%BD%8D-429901"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00067": {
+    "jp": "位取り",
+    "romaji": "kuraidori",
+    "ru": "определение разряда числа; установление ранга",
+    "en": "determining place value; assigning rank",
+    "noteRu": "Обычно математический разряд; также оценка ранга и позиция в сёги.",
+    "noteEn": "Usually place value; also ranking or a shogi position.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E4%BD%8D%E5%8F%96%E3%82%8A-485381"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00068": {
+    "jp": "位する",
+    "romaji": "kuraisuru",
+    "ru": "занимать место или положение",
+    "en": "to occupy a place or position",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E4%BD%8D%E3%81%99%E3%82%8B-485371"
+      }
+    ]
+  },
+  "EX-00069": {
+    "jp": "囲碁",
+    "romaji": "igo",
+    "ru": "го (настольная игра)",
+    "en": "go (board game)",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%9B%B2%E7%A2%81-30333"
+      }
+    ]
+  },
+  "EX-00070": {
+    "jp": "包囲",
+    "romaji": "hōi",
+    "ru": "окружение; осада",
+    "en": "encirclement; siege",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%8C%85%E5%9B%B2-627005"
+      }
+    ]
+  },
+  "EX-00071": {
+    "jp": "範囲",
+    "romaji": "han'i",
+    "ru": "диапазон; пределы; область",
+    "en": "range; scope; area",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%AF%84%E5%9B%B2-7518"
+      }
+    ]
+  },
+  "EX-00072": {
+    "jp": "囲む",
+    "romaji": "kakomu",
+    "ru": "окружать; обводить рамкой",
+    "en": "to surround; to enclose",
+    "noteRu": "Также «играть партию» в го или маджонг, окружив доску.",
+    "noteEn": "Can also mean playing a game around a go or mahjong board.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%9B%B2%E3%82%80-460767"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00073": {
+    "jp": "囲み",
+    "romaji": "kakomi",
+    "ru": "окружение; рамка; осада",
+    "en": "enclosure; box; siege",
+    "noteRu": "Осада либо рамка заметки; смысл зависит от контекста.",
+    "noteEn": "May be a siege or boxed article; context selects the sense.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%9B%B2%E3%81%BF-461509"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00074": {
+    "jp": "囲う",
+    "romaji": "kakou",
+    "ru": "ограждать; скрывать; хранить про запас",
+    "en": "to enclose; to shelter; to store",
+    "noteRu": "Также «содержать любовницу» в определённом социальном контексте.",
+    "noteEn": "Also “to keep a mistress” in a specific social context.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%9B%B2%E3%81%86-461390"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00075": {
+    "jp": "囲い",
+    "romaji": "kakoi",
+    "ru": "ограда; ограждение; окружение",
+    "en": "fence; enclosure; surrounding",
+    "noteRu": "В сёги также оборонительная формация вокруг короля.",
+    "noteEn": "In shogi, also a defensive formation around the king.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%9B%B2%E3%81%84-461358"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00076": {
+    "jp": "医学",
+    "romaji": "igaku",
+    "ru": "медицина (наука)",
+    "en": "medicine; medical science",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%8C%BB%E5%AD%A6-30019"
+      }
+    ]
+  },
+  "EX-00077": {
+    "jp": "医療",
+    "romaji": "iryō",
+    "ru": "медицинская помощь; лечение",
+    "en": "medical care; treatment",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%8C%BB%E7%99%82-436484"
+      }
+    ]
+  },
+  "EX-00078": {
+    "jp": "名医",
+    "romaji": "meii",
+    "ru": "выдающийся врач",
+    "en": "excellent physician",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%90%8D%E5%8C%BB-642856"
+      }
+    ]
+  },
+  "EX-00079": {
+    "jp": "依頼",
+    "romaji": "irai",
+    "ru": "просьба; поручение; зависимость от другого",
+    "en": "request; commission; reliance on another",
+    "noteRu": "Просьба или поручение; второе словарное значение — упование на другого.",
+    "noteEn": "A request or commission; dictionary also records reliance on another.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E4%BE%9D%E9%A0%BC-436282"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00080": {
+    "jp": "依拠",
+    "romaji": "ikyo",
+    "ru": "опора на; следование образцу",
+    "en": "reliance on; basing something on",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E4%BE%9D%E6%8B%A0-431338"
+      }
+    ]
+  },
+  "EX-00081": {
+    "jp": "依然",
+    "romaji": "izen",
+    "ru": "по-прежнему; без изменений",
+    "en": "still; as before",
+    "noteRu": "Часто в сочетании 依然として «по-прежнему».",
+    "noteEn": "Often 依然として, “still/as before”.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E4%BE%9D%E7%84%B6-432676"
+      }
+    ]
+  },
+  "EX-00082": {
+    "jp": "帰依",
+    "romaji": "kie",
+    "ru": "обращение к вере; глубокая религиозная преданность",
+    "en": "religious devotion; taking refuge in a faith",
+    "noteRu": "Религиозное, часто буддийское употребление.",
+    "noteEn": "Religious, often Buddhist usage.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%B8%B0%E4%BE%9D-49887"
+      }
+    ]
+  },
+  "EX-00083": {
+    "jp": "委任",
+    "romaji": "inin",
+    "ru": "поручение полномочий или работы; делегирование",
+    "en": "entrusting a task or authority; delegation",
+    "noteRu": "Также специальное юридическое значение договора поручения.",
+    "noteEn": "Also a legal sense: a mandate contract.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%A7%94%E4%BB%BB-762"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00084": {
+    "jp": "委員",
+    "romaji": "iin",
+    "ru": "член комитета; уполномоченное лицо",
+    "en": "committee member; appointed representative",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%A7%94%E5%93%A1-430587"
+      }
+    ]
+  },
+  "EX-00085": {
+    "jp": "委細",
+    "romaji": "isai",
+    "ru": "подробности; все обстоятельства",
+    "en": "details; all the particulars",
+    "noteRu": "Может выступать наречно: «всё до мелочей».",
+    "noteEn": "Can function adverbially: “in every detail”.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%A7%94%E7%B4%B0-431764"
+      }
+    ]
+  },
+  "EX-00086": {
+    "jp": "委ねる",
+    "romaji": "yudaneru",
+    "ru": "поручать; вверять; отдавать себя",
+    "en": "to entrust; to leave to someone; to devote oneself",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%A7%94%E3%81%AD%E3%82%8B-651949"
+      }
+    ]
+  },
+  "EX-00087": {
+    "jp": "威力",
+    "romaji": "iryoku",
+    "ru": "мощь; сила воздействия",
+    "en": "power; force",
+    "noteRu": "В юридическом употреблении есть специальное определение силы воздействия.",
+    "noteEn": "The legal term has a more specific definition of coercive force.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%A8%81%E5%8A%9B-436515"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00088": {
+    "jp": "威圧",
+    "romaji": "iatsu",
+    "ru": "давление силой или авторитетом; запугивание",
+    "en": "coercive pressure; intimidation",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%A8%81%E5%9C%A7-429955"
+      }
+    ]
+  },
+  "EX-00089": {
+    "jp": "示威",
+    "romaji": "shii",
+    "ru": "демонстрация силы; демонстрация решимости",
+    "en": "show of force; demonstration",
+    "noteRu": "Словарь даёт основное чтение じい и вариант しい; ромадзи H сохранено как shii.",
+    "noteEn": "Dictionary gives じい and variant しい; workbook H shii is preserved.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%A4%BA%E5%A8%81-515449"
+      }
+    ]
+  },
+  "EX-00090": {
+    "jp": "為政者",
+    "romaji": "iseisha",
+    "ru": "правитель; политический руководитель",
+    "en": "ruler; political leader",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%82%BA%E6%94%BF%E8%80%85-432588"
+      }
+    ]
+  },
+  "EX-00091": {
+    "jp": "行為",
+    "romaji": "kōi",
+    "ru": "действие; поступок",
+    "en": "act; conduct",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E8%A1%8C%E7%82%BA-61390"
+      }
+    ]
+  },
+  "EX-00092": {
+    "jp": "作為",
+    "romaji": "sakui",
+    "ru": "преднамеренное создание; искусственность; сознательное действие",
+    "en": "deliberate creation; contrivance; affirmative act",
+    "noteRu": "Значение зависит от области: создание, подтасовка или юридическое «действие», в отличие от бездействия.",
+    "noteEn": "Context: creation, fabrication, or legal affirmative act versus omission.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E4%BD%9C%E7%82%BA-509531"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00093": {
+    "jp": "畏敬",
+    "romaji": "ikei",
+    "ru": "благоговение; почтительное восхищение",
+    "en": "reverence; awe",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%95%8F%E6%95%AC-431547"
+      }
+    ]
+  },
+  "EX-00094": {
+    "jp": "畏怖",
+    "romaji": "ifu",
+    "ru": "трепетный страх; благоговейный страх",
+    "en": "awe; dread",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%95%8F%E6%80%96-435587"
+      }
+    ]
+  },
+  "EX-00095": {
+    "jp": "畏れる",
+    "romaji": "osoreru",
+    "ru": "испытывать благоговение; почтительно страшиться",
+    "en": "to revere; to stand in awe of",
+    "noteRu": "Именно написание 畏れる: почтительное благоговение, не просто страх перед опасностью.",
+    "noteEn": "Spelling 畏れる emphasizes reverence rather than ordinary fear of danger.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%81%90%E3%82%8C%E3%82%8B-452757"
+      }
+    ]
+  },
+  "EX-00096": {
+    "jp": "畏れ",
+    "romaji": "osore",
+    "ru": "благоговение; почтительный трепет",
+    "en": "awe; reverent fear",
+    "noteRu": "Написание 畏れ указывает на почтительное благоговение.",
+    "noteEn": "Spelling 畏れ points to reverential awe.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-13",
+    "method": "Editorial RU/EN glosses from Shogakukan Japanese dictionary definitions; multiple senses retained when context is absent.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%81%90%E3%82%8C-40475"
+      }
+    ]
   }
 }
