@@ -8,7 +8,7 @@ The exercises draw on the author's own study materials, compiled during her univ
 
 ## Current state
 
-This experimental branch connects the KANJI cards to the unchanged reviewed workbook from 13 October 2026. It contains all 2,136 kanji and 9,555 source records. The first 24 kanji have 96 individually prepared Russian and English example translations (46 from the first batch, 50 from the second). Other translations are pending. Cards support One card, a paginated Grid, database scope selection (all / first 12), search by kanji or number, and light/dark themes. In Grid, each card shows up to three examples until its Show more button is opened; One card always shows every example. Context-dependent translations carry a manual sense-selection flag. Unconfirmed readings and reference templates are marked and their romanization is not published. Existing ON/KUN drills keep their separate sample data.
+This experimental branch connects the KANJI cards to the unchanged reviewed workbook from 13 October 2026. It contains all 2,136 kanji and 9,555 source records. The first 24 kanji have 96 individually prepared Russian and English example translations (46 from the first batch, 50 from the second). Other translations are pending. Cards support One card, a paginated Grid, search by kanji or number, and light/dark themes. In Grid, each card shows up to three examples until its Show more button is opened; One card always shows every example. Context-dependent translations carry a manual sense-selection flag. Unconfirmed readings and reference templates are marked and their romanization is not published. Existing ON/KUN drills keep their separate sample data.
 
 See [integration report and update instructions](docs/excel-integration.md), [first translation batch](docs/translations-12.md), and [second translation batch](docs/translations-13-24.md).
 
@@ -38,7 +38,7 @@ Serve the repository over HTTP because cards fetch JSON chunks:
 python3 -m http.server 8765
 ```
 
-Open `http://localhost:8765/cards.html`. No JavaScript build is required. `file://` cannot load the database. Use `cards.html?excel-preview` for the first-12 preview, or select First 12 in the toolbar.
+Open `http://localhost:8765/cards.html`. No JavaScript build is required. `file://` cannot load the database. The complete database is always available. The old `?excel-preview` URL also opens the complete database.
 
 ## Copyright
 
