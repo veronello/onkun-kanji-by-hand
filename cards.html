@@ -19,7 +19,7 @@
       } catch {}
     </script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400;500&display=swap">
-    <link rel="stylesheet" href="cards.css?v=excel-full-1" />
+    <link rel="stylesheet" href="cards.css?v=excel-full-2" />
     <link rel="stylesheet" href="styles.css?v=20261010-cards1" />
   </head>
   <body>
@@ -53,16 +53,11 @@
       <button type="button" data-view="grid" aria-pressed="false">Сетка</button>
     </div>
   </div>
-  <div class="kc-database" id="kc-database" role="group" aria-label="Database">
-    <button type="button" data-scope="2136">All 2,136</button>
-    <button type="button" data-scope="12">First 12</button>
-  </div>
   <form id="kc-search-form" class="kc-search-form">
     <label id="kc-search-label" for="kc-search">Kanji or number</label>
     <div><input id="kc-search" type="search" autocomplete="off" maxlength="12"><button id="kc-go" type="submit">Find</button></div>
     <p id="kc-search-message" role="status"></p>
   </form>
-  <p id="kc-range" class="kc-range"></p>
   <div id="kc-error" hidden role="alert"><p id="kc-error-text"></p><button id="kc-retry" type="button">Retry</button></div>
   <div id="kc-content" class="kc-content"></div>
   <nav id="kc-pagination" class="kc-pagination" aria-label="Листать карточки">
@@ -79,7 +74,7 @@
       <a class="footer-sources" href="https://github.com/veronello/onkun-kanji-by-hand/blob/feature/excel-12-card-preview/SOURCES.md" data-i18n="sourcesLink">Sources (Excel) on GitHub</a>
     </footer>
     <script src="script.js?v=20261010-cards1"></script>
-    <script src="cards.js?v=excel-full-1"></script>
+    <script src="cards.js?v=excel-full-2"></script>
   </body>
 </html>
 
