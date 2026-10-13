@@ -5,13 +5,12 @@
     '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;'
   })[char]);
   const copy = {
-    ru: {title:'Карточки кандзи', single:'По одной', grid:'Сетка', prev:'← Назад', next:'Дальше →', open:'Открыть', more:'Показать ещё', less:'Свернуть', senseReview:'Выбор значения требует контекста и ручной проверки', view:'Вид карточек', nav:'Листать карточки', card:'Карточка', all:'Все 2 136', preview:'Первые 12', scope:'База', search:'Иероглиф или номер', go:'Найти', page:'Карточки', loading:'Загрузка…', error:'Не удалось загрузить базу. Попробуй ещё раз.', retry:'Повторить', pending:'Чтение требует проверки', template:'Служебный шаблон — не упражнение', manual:'Чтение принято после ручного обсуждения', missing:'Перевод ещё не подготовлен', empty:'В базе нет примеров для этого иероглифа.', noMatch:'Иероглиф или номер не найден.', range:'Иероглиф находится за пределами первых 12. Выбери полную базу.'},
-    en: {title:'Kanji cards', single:'One card', grid:'Grid', prev:'← Previous', next:'Next →', open:'Open', more:'Show more', less:'Show less', senseReview:'Sense selection needs context and manual review', view:'Card view', nav:'Browse cards', card:'Card', all:'All 2,136', preview:'First 12', scope:'Database', search:'Kanji or number', go:'Find', page:'Cards', loading:'Loading…', error:'Could not load the database. Please try again.', retry:'Retry', pending:'Reading needs review', template:'Reference template — not an exercise', manual:'Reading accepted after manual discussion', missing:'Translation not prepared yet', empty:'No examples for this kanji in the database.', noMatch:'Kanji or number not found.', range:'This kanji is outside the first 12. Select the full database.'}
+    ru: {title:'Карточки кандзи', single:'По одной', grid:'Сетка', prev:'← Назад', next:'Дальше →', open:'Открыть', more:'Показать ещё', less:'Свернуть', senseReview:'Выбор значения требует контекста и ручной проверки', view:'Вид карточек', nav:'Листать карточки', card:'Карточка', search:'Иероглиф или номер', go:'Найти', page:'Карточки', loading:'Загрузка…', error:'Не удалось загрузить базу. Попробуй ещё раз.', retry:'Повторить', pending:'Чтение требует проверки', template:'Служебный шаблон — не упражнение', manual:'Чтение принято после ручного обсуждения', missing:'Перевод ещё не подготовлен', empty:'В базе нет примеров для этого иероглифа.', noMatch:'Иероглиф или номер не найден.'},
+    en: {title:'Kanji cards', single:'One card', grid:'Grid', prev:'← Previous', next:'Next →', open:'Open', more:'Show more', less:'Show less', senseReview:'Sense selection needs context and manual review', view:'Card view', nav:'Browse cards', card:'Card', search:'Kanji or number', go:'Find', page:'Cards', loading:'Loading…', error:'Could not load the database. Please try again.', retry:'Retry', pending:'Reading needs review', template:'Reference template — not an exercise', manual:'Reading accepted after manual discussion', missing:'Translation not prepared yet', empty:'No examples for this kanji in the database.', noMatch:'Kanji or number not found.'}
   };
   const PAGE_SIZE = 12;
   let language = document.documentElement.lang === 'ru' ? 'ru' : 'en';
   let view = window.matchMedia('(min-width: 1000px)').matches ? 'grid' : 'single';
-  let scope = new URLSearchParams(location.search).has('excel-preview') ? 12 : 2136;
   let index = 0, manifest, generation = 0;
   const cache = new Map();
   const expandedCards = new Set();
@@ -22,7 +21,6 @@
   const search = root.querySelector('#kc-search');
   const status = root.querySelector('#kc-status');
   const error = root.querySelector('#kc-error');
-  const controls = root.querySelector('#kc-database');
   async function fetchJson(url) {
     const response = await fetch(url);
     if (!response.ok) throw new Error(`${response.status}: ${url}`);
@@ -66,8 +64,6 @@
     root.querySelector('#kc-title').textContent = t.title;
     root.querySelector('#kc-viewgroup').setAttribute('aria-label', t.view);
     root.querySelectorAll('[data-view]').forEach(b => {b.textContent = t[b.dataset.view]; b.setAttribute('aria-pressed', String(b.dataset.view === view));});
-    root.querySelectorAll('[data-scope]').forEach(b => {b.textContent = Number(b.dataset.scope) === 12 ? t.preview : t.all; b.setAttribute('aria-pressed', String(Number(b.dataset.scope) === scope));});
-    controls.setAttribute('aria-label', t.scope);
     root.querySelector('#kc-search-label').textContent = t.search;
     root.querySelector('#kc-go').textContent = t.go;
     root.querySelector('#kc-retry').textContent = t.retry;
@@ -83,10 +79,10 @@
     try {
       if (!manifest) manifest = await fetchJson('data/excel/manifest.json');
       if (token !== generation) return;
-      scope = Math.min(scope, manifest.stats.kanji);
-      index = Math.min(index, scope - 1);
+      const total = manifest.stats.kanji;
+      index = Math.min(index, total - 1);
       const start = view === 'grid' ? Math.floor(index / PAGE_SIZE) * PAGE_SIZE : index;
-      const end = Math.min(scope, start + (view === 'grid' ? PAGE_SIZE : 1));
+      const end = Math.min(total, start + (view === 'grid' ? PAGE_SIZE : 1));
       const chunks = await Promise.all(Array.from(new Set(Array.from({length:end-start}, (_,i) => Math.floor((start+i)/manifest.chunkSize))), getChunk));
       if (token !== generation) return;
       const cards = chunks.flat().filter(c => c.id > start && c.id <= end);
@@ -94,14 +90,13 @@
       visibleCards = cards;
       content.innerHTML = cards.map((c,i) => cardMarkup(c, start+i)).join('');
       content.setAttribute('aria-busy', 'false');
-      previous.disabled = start === 0; next.disabled = end === scope;
-      root.querySelector('#kc-range').textContent = `${t.page} ${start+1}–${end} / ${scope}`;
-      status.textContent = `${t.page} ${start+1}–${end} / ${scope}`;
+      previous.disabled = start === 0; next.disabled = end === total;
+      status.textContent = `${t.page} ${start+1}–${end} / ${total}`;
     } catch (err) {
       if (token !== generation) return;
       content.innerHTML = ''; content.setAttribute('aria-busy', 'false');
       error.hidden = false; root.querySelector('#kc-error-text').textContent = t.error;
-      root.querySelector('#kc-range').textContent = ''; status.textContent = t.error;
+      status.textContent = t.error;
       console.error('Kanji database:', err);
     }
   }
@@ -117,7 +112,6 @@
       content.querySelector(`[data-toggle-examples="${id}"]`).focus({preventScroll:true});
     }
     else if (b.dataset.view) {view = b.dataset.view; render();}
-    else if (b.dataset.scope) {scope = Number(b.dataset.scope); index = Math.min(index, scope-1); render();}
     else if (b.hasAttribute('data-open')) {index = Number(b.dataset.open); view = 'single'; render(); root.querySelector('[data-view="single"]').focus({preventScroll:true}); root.scrollIntoView({block:'start', behavior:'instant'});}
     else if (b.id === 'kc-prev' && !b.disabled) {index = view === 'grid' ? Math.max(0, Math.floor(index/PAGE_SIZE)*PAGE_SIZE-PAGE_SIZE) : index-1; render();}
     else if (b.id === 'kc-next' && !b.disabled) {index = view === 'grid' ? Math.floor(index/PAGE_SIZE)*PAGE_SIZE+PAGE_SIZE : index+1; render();}
@@ -129,7 +123,6 @@
     const q = search.value.trim(), t = copy[language];
     const card = manifest.index.find(c => c.kanji === q || (/^\d+$/.test(q) && c.id === Number(q)));
     if (!card) {status.textContent = t.noMatch; root.querySelector('#kc-search-message').textContent = t.noMatch; return;}
-    if (card.id > scope) {status.textContent = t.range; root.querySelector('#kc-search-message').textContent = t.range; return;}
     root.querySelector('#kc-search-message').textContent = ''; index = card.id-1; render();
   });
   document.addEventListener('onkun-language-change', event => {if (copy[event.detail]) {language = event.detail; root.querySelector('#kc-search-message').textContent = ''; render();}});
