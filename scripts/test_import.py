@@ -55,21 +55,34 @@ class ImportTests(unittest.TestCase):
     def test_translations_and_empty_kanji(self):
         first = [w for c in self.cards[:12] for w in c['words']]
         second = [w for c in self.cards[12:24] for w in c['words']]
+        third = [w for c in self.cards[24:48] for w in c['words']]
         self.assertEqual(len(first),46)
         self.assertEqual(len(second),50)
+        self.assertEqual(len(third),101)
         self.assertTrue(all(w[2] and w[3] for w in first))
         self.assertTrue(all(w[2] and w[3] for w in second))
-        self.assertTrue(all(not w[2] and not w[3] for c in self.cards[24:] for w in c['words']))
+        self.assertTrue(all(w[2] and w[3] for w in third))
+        self.assertTrue(all(not w[2] and not w[3] for c in self.cards[48:] for w in c['words']))
         translations = json.loads((ROOT/'data/translations-12.json').read_text())
-        self.assertEqual(len(translations),96)
-        self.assertEqual(sum(bool(t.get('reviewFlag')) for t in translations.values()),20)
-        for w in first + second:
+        self.assertEqual(len(translations),197)
+        self.assertEqual(sum(bool(t.get('reviewFlag')) for t in translations.values()),60)
+        self.assertEqual(sum(bool(w[6].get('translationReview')) for w in third),40)
+        self.assertEqual([w[6]['id'] for w in third],[f'EX-{n:05d}' for n in range(97,198)])
+        for w in first + second + third:
             t = translations[w[6]['id']]
             self.assertEqual((w[0],w[1]),(t['jp'],t['romaji']))
             self.assertEqual((w[2],w[3]),(t['ru'],t['en']))
-            self.assertTrue(t['sources'] and all(s['url'].startswith(('https://kotobank.jp/','https://dictionary.goo.ne.jp/')) for s in t['sources']))
+            self.assertTrue(t['sources'] and all(s['url'].startswith(('https://kotobank.jp/','https://dictionary.goo.ne.jp/','https://www.kanjipedia.jp/')) for s in t['sources']))
             self.assertEqual(w[6].get('translationReview'),t.get('reviewFlag'))
         self.assertEqual([c['id'] for c in self.cards if not c['words']],[1423])
+
+    def test_previous_96_translation_entries_preserved(self):
+        translations = json.loads((ROOT/'data/translations-12.json').read_text())
+        previous = {f'EX-{n:05d}': translations[f'EX-{n:05d}'] for n in range(1,97)}
+        normalized = json.dumps(previous,sort_keys=True,ensure_ascii=False,separators=(',',':')).encode()
+        # Baseline from c5a6f68; change only after explicitly reviewing earlier translations.
+        self.assertEqual(hashlib.sha256(normalized).hexdigest(),
+                         'abdffe8b3ddb6e8fb155423eb91ab162e90915609776be80d2ee0d7c30cf4c8b')
 
     def test_rebuild_is_deterministic_and_read_only(self):
         before = self.source.read_bytes()

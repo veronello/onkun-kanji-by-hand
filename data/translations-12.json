@@ -1658,5 +1658,1826 @@
         "url": "https://kotobank.jp/word/%E6%81%90%E3%82%8C-40475"
       }
     ]
+  },
+  "EX-00097": {
+    "jp": "胃腸",
+    "romaji": "ichō",
+    "ru": "желудок и кишечник",
+    "en": "stomach and intestines",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E8%83%83%E8%85%B8-433800"
+      }
+    ]
+  },
+  "EX-00098": {
+    "jp": "胃酸",
+    "romaji": "isan",
+    "ru": "желудочная кислота",
+    "en": "gastric acid",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E8%83%83%E9%85%B8-431879"
+      }
+    ]
+  },
+  "EX-00099": {
+    "jp": "胃弱",
+    "romaji": "ijaku",
+    "ru": "слабость желудка; ослабленное пищеварение",
+    "en": "weak digestion; impaired stomach function",
+    "noteRu": "Словарное описание ослабленной функции желудка; конкретный диагноз не подразумевается.",
+    "noteEn": "Dictionary description of weakened stomach function, not a specific diagnosis.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E8%83%83%E5%BC%B1-432259"
+      }
+    ]
+  },
+  "EX-00100": {
+    "jp": "尉官",
+    "romaji": "ikan",
+    "ru": "младшие офицеры (лейтенанты и капитаны)",
+    "en": "company-grade officers",
+    "noteRu": "Общее название офицерских званий 大尉・中尉・少尉 и 一尉・二尉・三尉; не унтер-офицеры.",
+    "noteEn": "Collective term for captain/lieutenant-level commissioned ranks, not non-commissioned officers.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%B0%89%E5%AE%98-431076"
+      }
+    ]
+  },
+  "EX-00101": {
+    "jp": "一尉",
+    "romaji": "ichii",
+    "ru": "капитан Сил самообороны Японии; капитан-лейтенант (флот)",
+    "en": "captain (GSDF/ASDF); lieutenant (MSDF)",
+    "noteRu": "Звание 一等陸・海・空尉. Название эквивалента зависит от рода войск; русские названия даны по уровню звания.",
+    "noteEn": "Rank 一等陸・海・空尉. The equivalent title depends on the service branch.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E4%B8%80%E5%B0%89-2006635"
+      },
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%BB%8D%E9%9A%8A%E9%9A%8E%E7%B4%9A%E8%A1%A8"
+      },
+      {
+        "dictionary": "小学館 プログレッシブ ロシア語辞典（露和編）",
+        "url": "https://kotobank.jp/rujaword/%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00102": {
+    "jp": "大尉",
+    "romaji": "taii",
+    "ru": "капитан (воинское звание)",
+    "en": "captain (army/air force rank)",
+    "noteRu": "При H taii показано армейское звание; в старом флоте читалось daii. Есть также исторические названия должностей.",
+    "noteEn": "H taii is preserved; the former navy used daii. Historical official titles are also recorded.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%A4%A7%E5%B0%89-556310"
+      },
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%BB%8D%E9%9A%8A%E9%9A%8E%E7%B4%9A%E8%A1%A8"
+      },
+      {
+        "dictionary": "小学館 プログレッシブ ロシア語辞典（露和編）",
+        "url": "https://kotobank.jp/rujaword/%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00103": {
+    "jp": "異論",
+    "romaji": "iron",
+    "ru": "возражение; особое мнение",
+    "en": "objection; differing opinion",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%95%B0%E8%AB%96-436820"
+      }
+    ]
+  },
+  "EX-00104": {
+    "jp": "異同",
+    "romaji": "idō",
+    "ru": "различия; расхождения",
+    "en": "differences; discrepancies",
+    "noteRu": "В современном словарном определении — различия; 同 здесь не добавляет значение сходства.",
+    "noteEn": "The modern definition is differences; 同 does not add a separate similarity sense.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%95%B0%E5%90%8C-434827"
+      }
+    ]
+  },
+  "EX-00105": {
+    "jp": "奇異",
+    "romaji": "kii",
+    "ru": "странность; необычный",
+    "en": "strangeness; unusual",
+    "noteRu": "Существительное или な-прилагательное.",
+    "noteEn": "Noun or na-adjective.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%A5%87%E7%95%B0-472110"
+      }
+    ]
+  },
+  "EX-00106": {
+    "jp": "異にする",
+    "romaji": "koto ni suru",
+    "ru": "отличаться; быть иным",
+    "en": "to differ; to be different",
+    "noteRu": "Обычно «отличаться чем-либо»; словарь также даёт «быть исключительно выдающимся».",
+    "noteEn": "Usually to differ in something; the dictionary also records being exceptionally distinguished.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%95%B0%E3%81%AB%E3%81%99%E3%82%8B-502888"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00107": {
+    "jp": "異なる",
+    "romaji": "kotonaru",
+    "ru": "отличаться; быть различным",
+    "en": "to differ; to be different",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%95%B0%E3%81%AA%E3%82%8B-503139"
+      }
+    ]
+  },
+  "EX-00108": {
+    "jp": "移転",
+    "romaji": "iten",
+    "ru": "переезд; перенос; передача прав",
+    "en": "relocation; transfer of rights",
+    "noteRu": "Физический переезд либо передача прав; дополнение определяет значение.",
+    "noteEn": "Physical relocation or transfer of rights; the object selects the sense.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%A7%BB%E8%BB%A2-434766"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00109": {
+    "jp": "移民",
+    "romaji": "imin",
+    "ru": "переселение в другую страну; переселенец",
+    "en": "emigration or immigration; emigrant or immigrant",
+    "noteRu": "Переселение на постоянное жительство или переселенец; эмиграция/иммиграция зависит от точки отсчёта.",
+    "noteEn": "Permanent migration or a person who migrates; emigration/immigration depends on the point of reference.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%A7%BB%E6%B0%91-32276"
+      },
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E7%A7%BB%E6%B0%91"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00110": {
+    "jp": "推移",
+    "romaji": "suii",
+    "ru": "изменение со временем; развитие событий; течение времени",
+    "en": "change over time; course of events; passage of time",
+    "noteRu": "Изменение ситуации либо течение времени.",
+    "noteEn": "Changes in a situation or passage of time.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%8E%A8%E7%A7%BB-539490"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00111": {
+    "jp": "移る",
+    "romaji": "utsuru",
+    "ru": "переезжать; переходить; передаваться (о болезни)",
+    "en": "to move; to shift; to spread (of an illness)",
+    "noteRu": "Непереходный глагол: перемещение, смена состояния или распространение болезни.",
+    "noteEn": "Intransitive: movement, a change of state, or transmission of illness.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%A7%BB%E3%82%8B-440930"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00112": {
+    "jp": "移り変わり",
+    "romaji": "utsurikawari",
+    "ru": "смена; перемены с течением времени",
+    "en": "change; transition over time",
+    "noteRu": "Словарная запись 移り変（わ）り включает исходное написание с わ.",
+    "noteEn": "Dictionary spelling 移り変（わ）り includes the workbook form with わ.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%A7%BB%E3%82%8A%E5%A4%89%E3%82%8A-440917"
+      }
+    ]
+  },
+  "EX-00113": {
+    "jp": "移す",
+    "romaji": "utsusu",
+    "ru": "перемещать; переносить; передавать (болезнь)",
+    "en": "to move; to transfer; to transmit (an illness)",
+    "noteRu": "Переходный глагол; перенос предмета, внимания или передача болезни.",
+    "noteEn": "Transitive: moving an object, shifting attention, or transmitting illness.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%A7%BB%E3%81%99-440805"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00114": {
+    "jp": "萎縮",
+    "romaji": "ishuku",
+    "ru": "сжатие; атрофия; робость",
+    "en": "shrinking; atrophy; timidity",
+    "noteRu": "Физическое сжатие, медицинская атрофия либо психологическая скованность.",
+    "noteEn": "Physical shrinking, medical atrophy, or psychological inhibition.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E8%90%8E%E7%B8%AE-30673"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00115": {
+    "jp": "萎える",
+    "romaji": "naeru",
+    "ru": "слабеть; падать духом; вянуть",
+    "en": "to weaken; to lose heart; to wilt",
+    "noteRu": "О теле или духе — ослабевать; о растениях — вянуть.",
+    "noteEn": "Loss of bodily strength or spirit; plants wilt.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E8%90%8E%E3%81%88%E3%82%8B-587466"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00116": {
+    "jp": "偉大",
+    "romaji": "idai",
+    "ru": "великий; выдающийся",
+    "en": "great; outstanding",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%81%89%E5%A4%A7-432864"
+      }
+    ]
+  },
+  "EX-00117": {
+    "jp": "偉人",
+    "romaji": "ijin",
+    "ru": "выдающийся человек",
+    "en": "a great person",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%81%89%E4%BA%BA-432407"
+      }
+    ]
+  },
+  "EX-00118": {
+    "jp": "偉観",
+    "romaji": "ikan",
+    "ru": "величественное зрелище; великолепный вид",
+    "en": "a magnificent sight; a grand view",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%81%89%E8%A6%B3-431080"
+      }
+    ]
+  },
+  "EX-00119": {
+    "jp": "偉い",
+    "romaji": "erai",
+    "ru": "выдающийся; высокопоставленный",
+    "en": "admirable; high-ranking",
+    "noteRu": "О человеке — выдающийся или высокопоставленный; разговорно также «ужасный, тяжёлый, утомительный».",
+    "noteEn": "Of a person: admirable or high-ranking; colloquially also severe, troublesome, or tiring.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%81%89%E3%81%84-446800"
+      },
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%81%89%E3%81%84"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00120": {
+    "jp": "偉ぶる",
+    "romaji": "eraburu",
+    "ru": "важничать; держаться высокомерно",
+    "en": "to act important; to put on airs",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%81%89%E3%81%B6%E3%82%8B-446817"
+      }
+    ]
+  },
+  "EX-00121": {
+    "jp": "椅子",
+    "romaji": "isu",
+    "ru": "стул; кресло; должность (перен.)",
+    "en": "chair; post (figurative)",
+    "noteRu": "Предмет мебели либо переносно должность/пост.",
+    "noteEn": "Furniture or, figuratively, an official position.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%A4%85%E5%AD%90-30732"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00122": {
+    "jp": "語彙",
+    "romaji": "goi",
+    "ru": "лексика; словарный запас",
+    "en": "vocabulary; lexicon",
+    "noteRu": "Слова, которыми пользуется человек, язык или область; не только число известных слов.",
+    "noteEn": "Words used by a person, language, or field, not merely the number of known words.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E8%AA%9E%E5%BD%99-61254"
+      }
+    ]
+  },
+  "EX-00123": {
+    "jp": "意見",
+    "romaji": "iken",
+    "ru": "мнение; увещевание",
+    "en": "opinion; admonition",
+    "noteRu": "Как существительное — мнение; со する возможно увещевание или замечание человеку.",
+    "noteEn": "As a noun, an opinion; with する, it can mean admonishing someone.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%84%8F%E8%A6%8B-30325"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00124": {
+    "jp": "意味",
+    "romaji": "imi",
+    "ru": "значение; смысл; значимость",
+    "en": "meaning; sense; significance",
+    "noteRu": "Значение слова/поступка либо его важность.",
+    "noteEn": "Meaning of a word or act, or its importance.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%84%8F%E5%91%B3-32260"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00125": {
+    "jp": "決意",
+    "romaji": "ketsui",
+    "ru": "решимость; твёрдое решение",
+    "en": "determination; resolve",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%B1%BA%E6%84%8F-490307"
+      }
+    ]
+  },
+  "EX-00126": {
+    "jp": "違反",
+    "romaji": "ihan",
+    "ru": "нарушение правил или договора",
+    "en": "violation of rules or an agreement",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E9%81%95%E5%8F%8D-435558"
+      }
+    ]
+  },
+  "EX-00127": {
+    "jp": "違法",
+    "romaji": "ihō",
+    "ru": "противозаконность; незаконный",
+    "en": "illegality; unlawful",
+    "noteRu": "Нарушение закона или установленных правил; в сочетаниях — «незаконный».",
+    "noteEn": "Contrary to law or regulations; “unlawful” in attributive use.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E9%81%95%E6%B3%95-435718"
+      }
+    ]
+  },
+  "EX-00128": {
+    "jp": "相違",
+    "romaji": "sōi",
+    "ru": "различие; расхождение",
+    "en": "difference; discrepancy",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%9B%B8%E9%81%95-551788"
+      }
+    ]
+  },
+  "EX-00129": {
+    "jp": "違う",
+    "romaji": "chigau",
+    "ru": "отличаться; быть неправильным",
+    "en": "to differ; to be wrong",
+    "noteRu": "Может означать отличие или несоответствие правильному ответу/договорённости.",
+    "noteEn": "May mean being different or being wrong relative to an answer or agreement.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E9%81%95%E3%81%86-559103"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00130": {
+    "jp": "違い",
+    "romaji": "chigai",
+    "ru": "различие; ошибка",
+    "en": "difference; mistake",
+    "noteRu": "Различие между вещами либо ошибка.",
+    "noteEn": "A difference between things or an error.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E9%81%95%E3%81%84-559087"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00131": {
+    "jp": "間違う",
+    "romaji": "machigau",
+    "ru": "ошибаться; быть неправым",
+    "en": "to make a mistake; to be wrong",
+    "noteRu": "Показаны значения ошибочного действия или неправильного суждения; не заменено на другую японскую форму.",
+    "noteEn": "An erroneous act or a wrong judgment; the Japanese verb form is preserved.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E9%96%93%E9%81%95%E3%81%86"
+      }
+    ]
+  },
+  "EX-00132": {
+    "jp": "違える",
+    "romaji": "chigaeru",
+    "ru": "делать иначе; ошибаться; нарушать (обещание)",
+    "en": "to change; to get wrong; to break (a promise)",
+    "noteRu": "Также перекрещивать и повреждать мышцу/сустав; без дополнения точный смысл не выбран.",
+    "noteEn": "Also to cross things or strain a muscle/joint; no exact sense is selected without an object.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E9%81%95%E3%81%88%E3%82%8B-559110"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00133": {
+    "jp": "見違える",
+    "romaji": "michigaeru",
+    "ru": "принимать за кого-то или что-то другое; ошибаться при распознавании",
+    "en": "to mistake for someone or something else; to misread",
+    "noteRu": "Часто о сильной перемене внешности «не узнать»; возможно также неверно прочитать карту.",
+    "noteEn": "Often used when someone has changed beyond recognition; can also mean misreading a map.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E8%A6%8B%E9%81%95%E3%81%88%E3%82%8B-638486"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00134": {
+    "jp": "間違える",
+    "romaji": "machigaeru",
+    "ru": "ошибаться; путать одно с другим",
+    "en": "to make a mistake; to confuse one thing with another",
+    "noteRu": "Ошибка действия либо путаница при выборе/распознавании.",
+    "noteEn": "An error in an action or confusion in choosing or identifying something.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E9%96%93%E9%81%95%E3%81%88%E3%82%8B-634586"
+      }
+    ]
+  },
+  "EX-00135": {
+    "jp": "維持",
+    "romaji": "iji",
+    "ru": "поддержание; сохранение состояния",
+    "en": "maintenance; preservation of a state",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%B6%AD%E6%8C%81-431932"
+      }
+    ]
+  },
+  "EX-00136": {
+    "jp": "維新",
+    "romaji": "ishin",
+    "ru": "коренное обновление; Реставрация Мэйдзи",
+    "en": "radical renewal; Meiji Restoration",
+    "noteRu": "Общее политическое/общественное обновление либо конкретно Реставрация Мэйдзи.",
+    "noteEn": "General political/social renewal or specifically the Meiji Restoration.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%B6%AD%E6%96%B0-432403"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00137": {
+    "jp": "繊維",
+    "romaji": "sen'i",
+    "ru": "волокно",
+    "en": "fiber",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%B9%8A%E7%B6%AD-87967"
+      }
+    ]
+  },
+  "EX-00138": {
+    "jp": "慰安",
+    "romaji": "ian",
+    "ru": "утешение; отдых",
+    "en": "comfort; recreation",
+    "noteRu": "Утешение и забота о восстановлении сил после трудов; не только развлечение.",
+    "noteEn": "Comfort and relief after hard work, not merely entertainment.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%85%B0%E5%AE%89-429964"
+      },
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%85%B0%E5%AE%89"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00139": {
+    "jp": "慰問",
+    "romaji": "imon",
+    "ru": "посещение с целью поддержать и утешить",
+    "en": "a visit to offer comfort or support",
+    "noteRu": "Визит к страдающим или оказавшимся в тяжёлых обстоятельствах для моральной поддержки.",
+    "noteEn": "Visiting people in difficult circumstances to offer support.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%85%B0%E5%95%8F-436130"
+      }
+    ]
+  },
+  "EX-00140": {
+    "jp": "慰労",
+    "romaji": "irō",
+    "ru": "выражение благодарности за труды",
+    "en": "appreciation for hard work",
+    "noteRu": "Благодарность за усилия; денежное вознаграждение само по себе не подразумевается.",
+    "noteEn": "Recognition of effort; a monetary reward is not implied.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%85%B0%E5%8A%B4-436672"
+      },
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%85%B0%E5%8A%B4"
+      }
+    ]
+  },
+  "EX-00141": {
+    "jp": "慰める",
+    "romaji": "nagusameru",
+    "ru": "утешать; успокаивать",
+    "en": "to comfort; to console",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%85%B0%E3%82%81%E3%82%8B-588423"
+      }
+    ]
+  },
+  "EX-00142": {
+    "jp": "慰め",
+    "romaji": "nagusame",
+    "ru": "утешение; отрада",
+    "en": "comfort; consolation",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%85%B0%E3%82%81-588419"
+      }
+    ]
+  },
+  "EX-00143": {
+    "jp": "慰む",
+    "romaji": "nagusamu",
+    "ru": "находить утешение; развлекаться",
+    "en": "to find comfort; to amuse oneself",
+    "noteRu": "Возможны успокоение собственного сердца, развлечение за чей-либо счёт и книжная форма 慰める.",
+    "noteEn": "May mean finding comfort, making sport of someone, or the literary form of 慰める.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%85%B0%E3%82%80-588418"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00144": {
+    "jp": "慰み",
+    "romaji": "nagusami",
+    "ru": "развлечение; отрада; потеха",
+    "en": "amusement; diversion; an object of amusement",
+    "noteRu": "Занятие для отрады либо объект насмешек/потехи.",
+    "noteEn": "An activity that gives pleasure or an object of mockery/amusement.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%85%B0%E3%81%BF-588412"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00145": {
+    "jp": "遺棄",
+    "romaji": "iki",
+    "ru": "оставление на произвол судьбы; выбрасывание",
+    "en": "abandonment; discarding",
+    "noteRu": "Слово употребляется о брошенных людях или вещах; специальные юридические значения требуют своего контекста.",
+    "noteEn": "Used for abandoned people or discarded things; legal senses require their own context.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E9%81%BA%E6%A3%84-431133"
+      }
+    ]
+  },
+  "EX-00146": {
+    "jp": "遺産",
+    "romaji": "isan",
+    "ru": "наследство; наследие",
+    "en": "inheritance; legacy",
+    "noteRu": "Имущество после смерти либо культурное/историческое наследие.",
+    "noteEn": "Property left at death or cultural/historical legacy.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E9%81%BA%E7%94%A3-431883"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00147": {
+    "jp": "遺失",
+    "romaji": "ishitsu",
+    "ru": "утрата; потеря вещи",
+    "en": "loss of an item; misplacement",
+    "noteRu": "Вещь забыта или потеряна; в юридическом употреблении — непреднамеренная утрата владения.",
+    "noteEn": "An item is forgotten or lost; the legal sense involves involuntary loss of possession.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E9%81%BA%E5%A4%B1-432122"
+      }
+    ]
+  },
+  "EX-00148": {
+    "jp": "遺言",
+    "romaji": "yuigon",
+    "ru": "последние распоряжения; завещание",
+    "en": "last wishes; a will",
+    "noteRu": "H yuigon: оставленные на случай смерти слова/распоряжения; юридическое чтение igon не подставляется.",
+    "noteEn": "H yuigon covers wishes or words left for after death; the legal reading igon is not substituted.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E9%81%BA%E8%A8%80-30367"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00149": {
+    "jp": "緯度",
+    "romaji": "ido",
+    "ru": "географическая широта",
+    "en": "latitude",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%B7%AF%E5%BA%A6-31657"
+      }
+    ]
+  },
+  "EX-00150": {
+    "jp": "北緯",
+    "romaji": "hokui",
+    "ru": "северная широта",
+    "en": "north latitude",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%8C%97%E7%B7%AF-629371"
+      }
+    ]
+  },
+  "EX-00151": {
+    "jp": "経緯",
+    "romaji": "keii",
+    "ru": "ход событий; обстоятельства; основа и уток",
+    "en": "course of events; circumstances; warp and weft",
+    "noteRu": "При H keii возможны обстоятельства события, ткацкие нити, долгота и широта; без контекста смысл не сужен.",
+    "noteEn": "With H keii: an event’s background, textile threads, or longitude and latitude; context is needed.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%B5%8C%E7%B7%AF-431210"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00152": {
+    "jp": "域内",
+    "romaji": "ikinai",
+    "ru": "внутри региона; в пределах территории",
+    "en": "within an area or region",
+    "noteRu": "Внутри некоторой заданной области; конкретная территория в примере не названа.",
+    "noteEn": "Within a specified area; the example does not name that area.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%9F%9F%E5%86%85-431284"
+      }
+    ]
+  },
+  "EX-00153": {
+    "jp": "地域",
+    "romaji": "chiiki",
+    "ru": "регион; район",
+    "en": "region; area",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%9C%B0%E5%9F%9F-95581"
+      }
+    ]
+  },
+  "EX-00154": {
+    "jp": "区域",
+    "romaji": "kuiki",
+    "ru": "зона; участок; район",
+    "en": "zone; district; area",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%8C%BA%E5%9F%9F-482159"
+      }
+    ]
+  },
+  "EX-00155": {
+    "jp": "育児",
+    "romaji": "ikuji",
+    "ru": "уход за ребёнком; воспитание детей",
+    "en": "childcare; child-rearing",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E8%82%B2%E5%85%90-30195"
+      }
+    ]
+  },
+  "EX-00156": {
+    "jp": "教育",
+    "romaji": "kyōiku",
+    "ru": "образование; воспитание",
+    "en": "education; training",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%95%99%E8%82%B2-52367"
+      }
+    ]
+  },
+  "EX-00157": {
+    "jp": "発育",
+    "romaji": "hatsuiku",
+    "ru": "рост; физическое развитие",
+    "en": "growth; physical development",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%99%BA%E8%82%B2-114885"
+      }
+    ]
+  },
+  "EX-00158": {
+    "jp": "育つ",
+    "romaji": "sodatsu",
+    "ru": "расти; развиваться",
+    "en": "to grow; to develop",
+    "noteRu": "Непереходный глагол; также развитие способностей, организаций или чувств.",
+    "noteEn": "Intransitive; also the development of abilities, organizations, or feelings.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E8%82%B2%E3%81%A4-554533"
+      }
+    ]
+  },
+  "EX-00159": {
+    "jp": "育ち",
+    "romaji": "sodachi",
+    "ru": "рост; воспитание",
+    "en": "growth; upbringing",
+    "noteRu": "Физический рост либо условия и характер воспитания.",
+    "noteEn": "Physical growth or the circumstances and manner of upbringing.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%82%B2%E3%81%A1"
+      },
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E8%82%B2-431397"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00160": {
+    "jp": "育てる",
+    "romaji": "sodateru",
+    "ru": "растить; воспитывать; развивать",
+    "en": "to raise; to bring up; to develop",
+    "noteRu": "Переходный глагол: растить человека/растение или развивать способности и организации.",
+    "noteEn": "Transitive: raising people/plants or developing abilities and organizations.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E8%82%B2%E3%81%A6%E3%82%8B-554538"
+      }
+    ]
+  },
+  "EX-00161": {
+    "jp": "育て親",
+    "romaji": "sodateoya",
+    "ru": "приёмный родитель; человек, воспитавший ребёнка",
+    "en": "foster parent; a person who raised a child",
+    "noteRu": "育て親 указан как синоним 里親; связанная статья 育ての親 описывает воспитавшего ребёнка человека. Юридическое усыновление не подразумевается автоматически.",
+    "noteEn": "育て親 is recorded as a synonym of 里親; related 育ての親 describes the person who raised a child. Legal adoption is not automatically implied.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E8%82%B2%E3%81%A6%E3%81%AE%E8%A6%AA-554537"
+      },
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E9%87%8C%E8%A6%AA-511382"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00162": {
+    "jp": "育む",
+    "romaji": "hagukumu",
+    "ru": "взращивать; беречь и развивать",
+    "en": "to nurture; to foster",
+    "noteRu": "Буквально птица растит птенца; шире — заботливо развивать жизнь, отношения или начинания.",
+    "noteEn": "Literally a bird nurturing its young; more broadly caring for life, relationships, or endeavors.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E8%82%B2%E3%82%80-600155"
+      }
+    ]
+  },
+  "EX-00163": {
+    "jp": "一度",
+    "romaji": "ichido",
+    "ru": "один раз; однажды",
+    "en": "once; one time",
+    "noteRu": "Однократное действие; в конструкции 一度… — «однажды / как только…».",
+    "noteEn": "One occurrence; in 一度… constructions, “once/once something happens”.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E4%B8%80%E5%BA%A6-433481"
+      }
+    ]
+  },
+  "EX-00164": {
+    "jp": "一座",
+    "romaji": "ichiza",
+    "ru": "присутствующие; труппа; собрание",
+    "en": "those present; troupe; gathering",
+    "noteRu": "Собравшиеся люди либо театральная труппа; у слова есть и специальные счётные значения.",
+    "noteEn": "People gathered together or a theatrical troupe; specialized counting uses also exist.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E4%B8%80%E5%BA%A7-433323"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00165": {
+    "jp": "第一",
+    "romaji": "daiichi",
+    "ru": "первый; лучший; прежде всего",
+    "en": "first; foremost; above all",
+    "noteRu": "Порядок, превосходство, приоритет либо вводное «прежде всего».",
+    "noteEn": "Order, excellence, priority, or introductory “above all”.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%AC%AC%E4%B8%80-556329"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00166": {
+    "jp": "一般",
+    "romaji": "ippan",
+    "ru": "общий; обычный; широкая публика",
+    "en": "general; ordinary; the general public",
+    "noteRu": "Общее свойство, обычность либо широкая публика; часть речи зависит от сочетания.",
+    "noteEn": "A shared property, ordinariness, or the general public; grammatical use depends on the phrase.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E4%B8%80%E8%88%AC-434542"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00167": {
+    "jp": "同一",
+    "romaji": "dōitsu",
+    "ru": "одинаковый; один и тот же",
+    "en": "identical; one and the same",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%90%8C%E4%B8%80-579501"
+      }
+    ]
+  },
+  "EX-00168": {
+    "jp": "統一",
+    "romaji": "tōitsu",
+    "ru": "объединение; единство; унификация",
+    "en": "unification; unity; standardization",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "日本漢字能力検定協会 漢字ペディア",
+        "url": "https://www.kanjipedia.jp/kotoba/0005213100"
+      },
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E7%B5%B1%E4%B8%80"
+      }
+    ]
+  },
+  "EX-00169": {
+    "jp": "一息",
+    "romaji": "hitoiki",
+    "ru": "один вздох; передышка; ещё немного усилий",
+    "en": "a breath; a short rest; a little more effort",
+    "noteRu": "Дыхание, короткая передышка или ещё немного усилий.",
+    "noteEn": "A breath, brief rest, or a little more effort.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E4%B8%80%E6%81%AF-611244"
+      },
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E4%B8%80%E6%81%AF"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00170": {
+    "jp": "一筋",
+    "romaji": "hitosuji",
+    "ru": "одна нить или полоса; всецело преданный (чему-либо)",
+    "en": "a single strand or streak; wholeheartedly devoted",
+    "noteRu": "Существительное — одна нить/полоса; な-прилагательное — преданность одному делу.",
+    "noteEn": "As a noun: one strand/streak; as a na-adjective: dedication to one pursuit.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E4%B8%80%E7%AD%8B-611446"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00171": {
+    "jp": "一月目",
+    "romaji": "hitotsukime",
+    "ru": "первый месяц",
+    "en": "the first month",
+    "noteRu": "Состав 一月（ひとつき） + 目: первый месяц периода, не январь. Перевод проверен по компонентам; отдельная статья сочетания не найдена.",
+    "noteEn": "一月（ひとつき） + ordinal suffix 目: the first month of a period, not January. Checked by components; no separate compound entry was found.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN gloss of the exact workbook expression, checked against dictionary definitions of its components; no missing content supplied.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E4%B8%80%E6%9C%88-433222"
+      },
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%9B%AE-142190"
+      }
+    ]
+  },
+  "EX-00172": {
+    "jp": "一つ",
+    "romaji": "hitotsu",
+    "ru": "один; одна штука",
+    "en": "one; one item",
+    "noteRu": "Основное значение — один предмет; наречно может смягчать просьбу или приглашать попробовать. Нужна полная фраза.",
+    "noteEn": "Usually one item; adverbially it can soften a request or invite a trial. A full phrase is needed.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E4%B8%80%E3%81%A4-611479"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00173": {
+    "jp": "壱万円",
+    "romaji": "ichiman'en",
+    "ru": "десять тысяч иен",
+    "en": "ten thousand yen",
+    "noteRu": "壱 — финансовое написание 一; 万 = 10 000, 円 = иена. Сумма, а не автоматически название банкноты.",
+    "noteEn": "壱 is the formal financial spelling of 一; 万 = 10,000 and 円 = yen. An amount, not automatically a banknote.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN gloss of the exact workbook expression, checked against dictionary definitions of its components; no missing content supplied.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%A3%B1-433177"
+      },
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E4%B8%87-606000"
+      },
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%86%86-37934"
+      }
+    ]
+  },
+  "EX-00174": {
+    "jp": "逸話",
+    "romaji": "itsuwa",
+    "ru": "занимательная история; эпизод из жизни",
+    "en": "an anecdote; an episode from someone's life",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E9%80%B8%E8%A9%B1-22529"
+      }
+    ]
+  },
+  "EX-00175": {
+    "jp": "逸品",
+    "romaji": "ippin",
+    "ru": "выдающееся изделие; шедевр",
+    "en": "an outstanding item; a masterpiece",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E9%80%B8%E5%93%81-434609"
+      }
+    ]
+  },
+  "EX-00176": {
+    "jp": "逸する",
+    "romaji": "issuru",
+    "ru": "упускать; отклоняться; терять",
+    "en": "to miss; to deviate; to lose",
+    "noteRu": "Упустить шанс, выйти за рамки нормы или утратить текст; различаются и переходное, и непереходное употребления.",
+    "noteEn": "Missing a chance, departing from a norm, or losing a text; both transitive and intransitive uses occur.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E9%80%B8%E3%81%99%E3%82%8B-434273"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00177": {
+    "jp": "茨城県",
+    "romaji": "ibarakiken",
+    "ru": "префектура Ибараки",
+    "en": "Ibaraki Prefecture",
+    "noteRu": "Собственное географическое название: префектура Японии. Исходная помета 備考 и H ibarakiken сохранены.",
+    "noteEn": "A geographical proper name: a Japanese prefecture. The workbook 備考 annotation and H ibarakiken are preserved.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E8%8C%A8%E5%9F%8E%E7%9C%8C-31992"
+      }
+    ]
+  },
+  "EX-00178": {
+    "jp": "芋",
+    "romaji": "imo",
+    "ru": "крахмалистый клубень или корнеплод",
+    "en": "a starchy tuber or root vegetable",
+    "noteRu": "Может обозначать картофель, батат, таро или ямс; без контекста конкретный вид не выбран.",
+    "noteEn": "May refer to potato, sweet potato, taro, or yam; no species is selected without context.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E8%8A%8B-32297"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00179": {
+    "jp": "里芋",
+    "romaji": "satoimo",
+    "ru": "таро (растение и съедобные клубни)",
+    "en": "taro (plant and edible corms)",
+    "noteRu": "Название растения и его съедобных клубней; не обычный картофель.",
+    "noteEn": "The plant and its edible corms, not ordinary potato.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E9%87%8C%E8%8A%8B-511319"
+      }
+    ]
+  },
+  "EX-00180": {
+    "jp": "焼き芋",
+    "romaji": "yakiimo",
+    "ru": "печёный батат",
+    "en": "roasted sweet potato",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "講談社 和・洋・中・エスニック 世界の料理がわかる辞典",
+        "url": "https://kotobank.jp/word/%E7%84%BC%E3%81%8D%E8%8A%8B-1496380"
+      }
+    ]
+  },
+  "EX-00181": {
+    "jp": "引力",
+    "romaji": "inryoku",
+    "ru": "сила притяжения",
+    "en": "attractive force",
+    "noteRu": "Общее притяжение между телами; включает гравитационные и другие силы, не только силу тяжести.",
+    "noteEn": "General attraction between bodies, including gravitational and other forces, not gravity alone.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%BC%95%E5%8A%9B-33311"
+      }
+    ]
+  },
+  "EX-00182": {
+    "jp": "引退",
+    "romaji": "intai",
+    "ru": "уход с должности; завершение карьеры",
+    "en": "retirement; withdrawal from active service",
+    "noteRu": "Уход из активной деятельности; не обязательно выход на пенсию по возрасту.",
+    "noteEn": "Leaving active work or competition, not necessarily age-based retirement.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%BC%95%E9%80%80-208147"
+      }
+    ]
+  },
+  "EX-00183": {
+    "jp": "索引",
+    "romaji": "sakuin",
+    "ru": "указатель (в книге)",
+    "en": "index (in a book)",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%B4%A2%E5%BC%95-3698"
+      }
+    ]
+  },
+  "EX-00184": {
+    "jp": "引く",
+    "romaji": "hiku",
+    "ru": "тянуть; вычитать; проводить линию; искать в словаре",
+    "en": "to pull; to subtract; to draw a line; to look up",
+    "noteRu": "Многозначный глагол: выбор зависит от дополнения. Не подменён омонимами 弾く・挽く・轢く.",
+    "noteEn": "Polysemous verb: the object selects the sense. Not replaced with homophones 弾く, 挽く, or 轢く.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%BC%95%E3%81%8F-609321"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00185": {
+    "jp": "字引",
+    "romaji": "jibiki",
+    "ru": "словарь",
+    "en": "dictionary",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%AD%97%E5%BC%95-523030"
+      }
+    ]
+  },
+  "EX-00186": {
+    "jp": "引ける",
+    "romaji": "hikeru",
+    "ru": "заканчиваться (о работе); робеть; отступать",
+    "en": "to end (of work or school); to feel hesitant; to draw back",
+    "noteRu": "Самостоятельный глагол: конец работы или робость; также возможна потенциальная форма 引く «мочь тянуть». Нужна фраза.",
+    "noteEn": "Independent verb: finishing work or hesitation; also potentially the ability form of 引く, “can pull”. A phrase is needed.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%BC%95%E3%81%91%E3%82%8B-609476"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00187": {
+    "jp": "印刷",
+    "romaji": "insatsu",
+    "ru": "печать (текста или изображений)",
+    "en": "printing",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%8D%B0%E5%88%B7-32866"
+      }
+    ]
+  },
+  "EX-00188": {
+    "jp": "印象",
+    "romaji": "inshō",
+    "ru": "впечатление",
+    "en": "impression",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%8D%B0%E8%B1%A1-32909"
+      }
+    ]
+  },
+  "EX-00189": {
+    "jp": "調印",
+    "romaji": "chōin",
+    "ru": "подписание договора или соглашения",
+    "en": "signing of a treaty or agreement",
+    "noteRu": "Подписание официального договора/соглашения; не просто проставление печати.",
+    "noteEn": "Signing an official treaty/agreement, not merely stamping a document.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E8%AA%BF%E5%8D%B0-168576"
+      }
+    ]
+  },
+  "EX-00190": {
+    "jp": "印",
+    "romaji": "shirushi",
+    "ru": "метка; знак; свидетельство",
+    "en": "mark; symbol; token or proof",
+    "noteRu": "При H shirushi — метка, символ, знак чувства или доказательство; не заменено чтением in.",
+    "noteEn": "With H shirushi: a mark, symbol, token of feeling, or proof; not replaced by the reading in.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%8D%B0-32766"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00191": {
+    "jp": "目印",
+    "romaji": "mejirushi",
+    "ru": "метка; ориентир",
+    "en": "identifying mark; landmark",
+    "noteRu": "Отличительная метка на предмете либо заметный ориентир на местности.",
+    "noteEn": "An identifying mark on an object or a recognizable landmark.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%9B%AE%E5%8D%B0-643799"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00192": {
+    "jp": "矢印",
+    "romaji": "yajirushi",
+    "ru": "стрелка-указатель",
+    "en": "directional arrow",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%9F%A2%E5%8D%B0-648284"
+      }
+    ]
+  },
+  "EX-00193": {
+    "jp": "因果",
+    "romaji": "inga",
+    "ru": "причина и следствие; кармическое воздаяние",
+    "en": "cause and effect; karmic retribution",
+    "noteRu": "Причинно-следственная связь либо буддийское воздаяние за прошлые поступки; как な-прилагательное также «злосчастный».",
+    "noteEn": "Causation or Buddhist consequences of past deeds; as a na-adjective, also unfortunate or ill-fated.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%9B%A0%E6%9E%9C-32778"
+      },
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%9B%A0%E6%9E%9C"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00194": {
+    "jp": "原因",
+    "romaji": "gen'in",
+    "ru": "причина",
+    "en": "cause",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%8E%9F%E5%9B%A0-491406"
+      }
+    ]
+  },
+  "EX-00195": {
+    "jp": "要因",
+    "romaji": "yōin",
+    "ru": "ключевой фактор; основная причина",
+    "en": "key factor; principal cause",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E8%A6%81%E5%9B%A0-652736"
+      }
+    ]
+  },
+  "EX-00196": {
+    "jp": "因る",
+    "romaji": "yoru",
+    "ru": "быть вызванным; происходить вследствие",
+    "en": "to be caused by; to result from",
+    "noteRu": "Именно написание 因る: причинное значение. Значения «по данным», «посредством» для 拠る/依る не подставляются.",
+    "noteEn": "Spelling 因る selects causation. The evidence/means senses of 拠る/依る are not substituted.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN glosses from linked Japanese dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%9B%A0%E3%82%8B-655188"
+      }
+    ]
+  },
+  "EX-00197": {
+    "jp": "……に因る",
+    "romaji": "…… ni yoru",
+    "ru": "вследствие …; из-за …",
+    "en": "due to …; because of …",
+    "noteRu": "Грамматический образец: многоточие оставлено как место для причины. Переводится причинное に因る, без придуманного заполнения.",
+    "noteEn": "A grammatical pattern: the ellipsis is a slot for the cause. Causal に因る is translated without inventing a filler.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-14",
+    "method": "Editorial RU/EN gloss of the exact workbook expression, checked against dictionary definitions of its components; no missing content supplied.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%9B%A0%E3%82%8B-655188"
+      }
+    ]
   }
 }
