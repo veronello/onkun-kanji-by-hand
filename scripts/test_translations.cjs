@@ -4,7 +4,12 @@ const fs = require('node:fs');
 const path = require('node:path');
 const {chromium} = require('playwright');
 const root = path.resolve(__dirname, '..');
-const cards = JSON.parse(fs.readFileSync(path.join(root, 'data/excel/cards/000.json'), 'utf8')).slice(24, 48);
+const first = Number(process.env.CARDS_TRANSLATION_START || 25);
+const chunk = String(Math.floor((first - 1) / 48)).padStart(3, '0');
+const offset = (first - 1) % 48;
+const cards = JSON.parse(fs.readFileSync(path.join(root, `data/excel/cards/${chunk}.json`), 'utf8')).slice(offset, offset + 24);
+assert.equal(cards.length, 24);
+const totalExamples = cards.reduce((n, c) => n + c.words.length, 0);
 const translations = JSON.parse(fs.readFileSync(path.join(root, 'data/translations-12.json'), 'utf8'));
 const base = process.env.CARDS_BASE_URL || 'http://127.0.0.1:8765';
 
@@ -42,7 +47,7 @@ const base = process.env.CARDS_BASE_URL || 'http://127.0.0.1:8765';
       };
       await page.goto(`${base}/cards.html`); await ready();
       await page.locator('[data-view="grid"]').click(); await ready();
-      await find(25);
+      await find(first);
       for (let offset = 0; offset < 24; offset += 12) {
         const batch = cards.slice(offset, offset + 12), expected = batch.flatMap(c => c.words);
         assert.equal(await page.locator('.kc-sheet').count(), 12);
@@ -64,7 +69,7 @@ const base = process.env.CARDS_BASE_URL || 'http://127.0.0.1:8765';
         }
       }
       assert.deepEqual(errors, []);
-      results.push({width, kanji:24, examples:101, languages:['ru','en'], views:['grid','single'], checks:'passed'});
+      results.push({width, firstKanji:first, kanji:24, examples:totalExamples, languages:['ru','en'], views:['grid','single'], checks:'passed'});
       await page.close();
     }
     console.log(JSON.stringify(results, null, 2));
