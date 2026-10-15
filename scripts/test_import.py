@@ -58,23 +58,28 @@ class ImportTests(unittest.TestCase):
         second = [w for c in self.cards[12:24] for w in c['words']]
         third = [w for c in self.cards[24:48] for w in c['words']]
         fourth = [w for c in self.cards[48:72] for w in c['words']]
+        fifth = [w for c in self.cards[72:84] for w in c['words']]
         self.assertEqual(len(first),46)
         self.assertEqual(len(second),50)
         self.assertEqual(len(third),101)
         self.assertEqual(len(fourth),107)
+        self.assertEqual(len(fifth),54)
         self.assertTrue(all(w[2] and w[3] for w in first))
         self.assertTrue(all(w[2] and w[3] for w in second))
         self.assertTrue(all(w[2] and w[3] for w in third))
         self.assertTrue(all(w[2] and w[3] for w in fourth))
-        self.assertTrue(all(not w[2] and not w[3] for c in self.cards[72:] for w in c['words']))
+        self.assertTrue(all(w[2] and w[3] for w in fifth))
+        self.assertTrue(all(not w[2] and not w[3] for c in self.cards[84:] for w in c['words']))
         translations = json.loads((ROOT/'data/translations-12.json').read_text())
-        self.assertEqual(len(translations),304)
-        self.assertEqual(sum(bool(t.get('reviewFlag')) for t in translations.values()),106)
+        self.assertEqual(len(translations),358)
+        self.assertEqual(sum(bool(t.get('reviewFlag')) for t in translations.values()),135)
         self.assertEqual(sum(bool(w[6].get('translationReview')) for w in third),40)
         self.assertEqual(sum(bool(w[6].get('translationReview')) for w in fourth),46)
+        self.assertEqual(sum(bool(w[6].get('translationReview')) for w in fifth),29)
         self.assertEqual([w[6]['id'] for w in third],[f'EX-{n:05d}' for n in range(97,198)])
         self.assertEqual([w[6]['id'] for w in fourth],[f'EX-{n:05d}' for n in range(198,305)])
-        for w in first + second + third + fourth:
+        self.assertEqual([w[6]['id'] for w in fifth],[f'EX-{n:05d}' for n in range(305,359)])
+        for w in first + second + third + fourth + fifth:
             t = translations[w[6]['id']]
             self.assertEqual((w[0],w[1]),(t['jp'],t['romaji']))
             self.assertEqual((w[2],w[3]),(t['ru'],t['en']))
@@ -94,6 +99,11 @@ class ImportTests(unittest.TestCase):
         # Full first-48 baseline from 62eafed.
         self.assertEqual(hashlib.sha256(normalized).hexdigest(),
                          '94717011e5a5ea2507e78be12d1338c1b89ca9a4108426ef963541c448e496bf')
+        previous = {f'EX-{n:05d}': translations[f'EX-{n:05d}'] for n in range(1,305)}
+        normalized = json.dumps(previous,sort_keys=True,ensure_ascii=False,separators=(',',':')).encode()
+        # Full first-72 baseline from 0c16f31; display-only note overrides are separate.
+        self.assertEqual(hashlib.sha256(normalized).hexdigest(),
+                         'a80122f8ddda15248dc3b5848b2d189136b57a5ca714458efc22dacd8fb846d1')
 
     def test_display_notes_keep_editorial_data(self):
         translations = json.loads((ROOT/'data/translations-12.json').read_text())
