@@ -8,7 +8,7 @@ The exercises draw on the author's own study materials, compiled during her univ
 
 ## Current state
 
-This experimental branch connects the KANJI cards to the unchanged reviewed workbook from 13 October 2026. It contains all 2,136 kanji and 9,555 source records. The first 72 kanji have 304 individually prepared Russian and English example translations (46 from the first batch, 50 from the second, 101 from the third, 107 from the fourth). Other translations are pending. Cards support One card, a paginated Grid, search by kanji or number, and light/dark themes. In Grid, each card shows up to three examples until its Show more button is opened; One card always shows every example. Context-dependent translations carry a manual sense-selection flag. Unconfirmed readings and reference templates are marked and their romanization is not published. Existing ON/KUN drills keep their separate sample data.
+This experimental branch connects the KANJI cards to the unchanged reviewed workbook. Russian and English example translations are being added in reviewed batches, with sources and notes recorded separately. Cards support One card, a paginated Grid, search by kanji or number, and light/dark themes. In Grid, longer example lists can be expanded with Show more; One card always shows every example. Context-dependent translations carry a manual sense-selection flag. Unconfirmed readings and reference templates are marked and their romanization is not published. Existing ON/KUN drills keep their separate sample data.
 
 See [integration report and update instructions](docs/excel-integration.md), [first translation batch](docs/translations-12.md), [second translation batch](docs/translations-13-24.md), [third translation batch and manual review](docs/translations-25-48.md), and [fourth translation batch](docs/translations-49-72.md).
 
@@ -17,11 +17,11 @@ The interface includes a Russian–English language switcher, a soft-white defau
 ## Practice modes
 
 - **Kanji cards:** kanji, readings, meanings, and compounds.
-- **ON readings:** a self-paced handwriting drill with all 44 examples from cards 1–12, including kun and irregular readings. Read the romanization and meaning, write on paper, then reveal the answer and continue. Russian and English are supported.
-- **KUN readings:** the same self-paced handwriting drill with 10 examples using kun readings of the target kanji from cards 1–12, in Russian and English.
+- **ON readings:** a self-paced handwriting drill using selected examples, including kun and irregular readings. Read the romanization and meaning, write on paper, then reveal the answer and continue. Russian and English are supported.
+- **KUN readings:** a self-paced handwriting drill using selected examples with kun readings of the target kanji, in Russian and English.
 - **Final test:** a full-block recall test with answers shown at the end.
 
-Practice is intended for handwriting on paper. The first ON and KUN drills are active; Final test is still planned.
+Practice is intended for handwriting on paper. ON and KUN drills are active; Final test is still planned.
 
 ## Source materials
 
