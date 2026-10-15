@@ -1,0 +1,116 @@
+{
+  "EX-00089": {
+    "jp": "示威",
+    "romaji": "shii",
+    "ru": "Основное чтение — じい; здесь вариант しい.",
+    "en": "The principal reading is じい; the variant しい is used here."
+  },
+  "EX-00102": {
+    "jp": "大尉",
+    "romaji": "taii",
+    "ru": "Армейское звание; в старом флоте читалось daii. Есть также исторические названия должностей.",
+    "en": "An army rank; the former navy used daii. Historical official titles are also recorded."
+  },
+  "EX-00112": {
+    "jp": "移り変わり",
+    "romaji": "utsurikawari",
+    "ru": "",
+    "en": ""
+  },
+  "EX-00148": {
+    "jp": "遺言",
+    "romaji": "yuigon",
+    "ru": "Оставленные на случай смерти слова или распоряжения; юридическое чтение — igon.",
+    "en": "Wishes or words left for after death; the legal reading is igon."
+  },
+  "EX-00151": {
+    "jp": "経緯",
+    "romaji": "keii",
+    "ru": "Возможны обстоятельства события, ткацкие нити, долгота и широта; без контекста смысл не сужен.",
+    "en": "An event’s background, textile threads, or longitude and latitude; context is needed."
+  },
+  "EX-00177": {
+    "jp": "茨城県",
+    "romaji": "ibarakiken",
+    "ru": "",
+    "en": ""
+  },
+  "EX-00190": {
+    "jp": "印",
+    "romaji": "shirushi",
+    "ru": "Метка, символ, знак чувства или доказательство; значение зависит от контекста.",
+    "en": "A mark, symbol, token of feeling, or proof; the sense depends on context."
+  },
+  "EX-00236": {
+    "jp": "右",
+    "romaji": "migi",
+    "ru": "Правая сторона; возможны политический, спортивный и текстовый контексты.",
+    "en": "The right side; political, sporting, and textual contexts also occur."
+  },
+  "EX-00245": {
+    "jp": "一羽",
+    "romaji": "ichiwa",
+    "ru": "Счётное выражение с 羽 для птиц и кроликов.",
+    "en": "A count expression using 羽 for birds and rabbits."
+  },
+  "EX-00246": {
+    "jp": "三羽",
+    "romaji": "sanba",
+    "ru": "Сочетание со счётным суффиксом 羽; читается さんば.",
+    "en": "An expression with the counter 羽; read さんば."
+  },
+  "EX-00247": {
+    "jp": "六羽",
+    "romaji": "roppa",
+    "ru": "Сочетание со счётным суффиксом 羽; читается ろっぱ.",
+    "en": "An expression with the counter 羽; read ろっぱ."
+  },
+  "EX-00249": {
+    "jp": "羽飾り",
+    "romaji": "hanekazari",
+    "ru": "羽 и 羽根 — варианты написания в этом слове.",
+    "en": "羽 and 羽根 are spelling variants in this word."
+  },
+  "EX-00252": {
+    "jp": "梅雨",
+    "romaji": "baiu",
+    "ru": "Также употребляется чтение tsuyu.",
+    "en": "The alternative reading tsuyu is also used."
+  },
+  "EX-00261": {
+    "jp": "畝",
+    "romaji": "une",
+    "ru": "Гряда или параллельный рельеф; значение земельной меры связано с другими чтениями.",
+    "en": "A planting ridge or parallel ridges; the area-unit sense has different readings."
+  },
+  "EX-00282": {
+    "jp": "背泳",
+    "romaji": "haiei",
+    "ru": "Также употребляется чтение seoyogi.",
+    "en": "The alternative reading seoyogi is also used."
+  },
+  "EX-00299": {
+    "jp": "栄える",
+    "romaji": "sakaeru",
+    "ru": "Также об оживлённом течении разговора.",
+    "en": "Also used of animated conversation."
+  },
+  "EX-00300": {
+    "jp": "栄え",
+    "romaji": "sakae",
+    "ru": "При чтении sakae — процветание; при hae — слава.",
+    "en": "Read sakae for prosperity; hae for glory."
+  },
+  "EX-00301": {
+    "jp": "栄えある",
+    "romaji": "haearu",
+    "ru": "Выражение славы или почёта.",
+    "en": "An expression of glory or honor."
+  },
+  "EX-00304": {
+    "jp": "栄える",
+    "romaji": "haeru",
+    "ru": "При чтении haeru — выглядеть впечатляюще; sakaeru означает «процветать».",
+    "en": "Read haeru for looking splendid; sakaeru means “to prosper”."
+  }
+}

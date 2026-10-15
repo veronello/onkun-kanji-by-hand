@@ -1,6 +1,7 @@
 """Integrity checks for the workbook export and its publication policy."""
 import hashlib
 import json
+import re
 import tempfile
 import unittest
 from pathlib import Path
@@ -93,6 +94,27 @@ class ImportTests(unittest.TestCase):
         # Full first-48 baseline from 62eafed.
         self.assertEqual(hashlib.sha256(normalized).hexdigest(),
                          '94717011e5a5ea2507e78be12d1338c1b89ca9a4108426ef963541c448e496bf')
+
+    def test_display_notes_keep_editorial_data(self):
+        translations = json.loads((ROOT/'data/translations-12.json').read_text())
+        notes = json.loads((ROOT/'data/card-display-notes.json').read_text())
+        words = {w[6]['id']: w for c in self.cards for w in c['words']}
+        # Review flags and the complete original notes remain available for editing.
+        for key, t in translations.items():
+            w = words[key]
+            self.assertEqual(w[4:6], [t['noteRu'], t['noteEn']])
+            self.assertEqual(w[6].get('translationReview'), t.get('reviewFlag'))
+            display = w[6].get('displayNotes', dict(ru=w[4], en=w[5]))
+            self.assertNotRegex(display['ru'] + ' ' + display['en'],
+                                r'\bH\b|workbook|исходн|столб')
+        for key, note in notes.items():
+            w = words[key]
+            self.assertEqual((note['jp'], note['romaji']), tuple(w[:2]))
+            self.assertEqual(w[6]['displayNotes'], dict(ru=note['ru'], en=note['en']))
+        self.assertEqual(words['EX-00177'][6]['displayNotes'], dict(ru='', en=''))
+        self.assertEqual(sum('displayNotes' in w[6] for w in words.values()), 19)
+        self.assertEqual(sum(bool(re.search(r'\bH\b', t['noteRu'] + t['noteEn']))
+                             for t in translations.values()), 17)
 
     def test_rebuild_is_deterministic_and_read_only(self):
         before = self.source.read_bytes()

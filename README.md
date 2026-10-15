@@ -8,7 +8,7 @@ The exercises draw on the author's own study materials, compiled during her univ
 
 ## Current state
 
-This experimental branch connects the KANJI cards to the unchanged reviewed workbook. Russian and English example translations are being added in reviewed batches, with sources and notes recorded separately. Cards support One card, a paginated Grid, search by kanji or number, and light/dark themes. In Grid, longer example lists can be expanded with Show more; One card always shows every example. Context-dependent translations carry a manual sense-selection flag. Unconfirmed readings and reference templates are marked and their romanization is not published. Existing ON/KUN drills keep their separate sample data.
+This experimental branch connects the KANJI cards to the unchanged reviewed workbook. Russian and English example translations are being added in reviewed batches, with sources and notes recorded separately. Cards support One card, a paginated Grid, search by kanji or number, and light/dark themes. In Grid, longer example lists can be expanded with Show more; One card always shows every example. Context-dependent translations have explanatory notes; editorial review flags remain in the data. Unconfirmed readings and reference templates are marked and their romanization is not published. Existing ON/KUN drills keep their separate sample data.
 
 See [integration report and update instructions](docs/excel-integration.md), [first translation batch](docs/translations-12.md), [second translation batch](docs/translations-13-24.md), [third translation batch and manual review](docs/translations-25-48.md), and [fourth translation batch](docs/translations-49-72.md).
 

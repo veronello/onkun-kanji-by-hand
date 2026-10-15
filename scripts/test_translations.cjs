@@ -32,7 +32,8 @@ const base = process.env.CARDS_BASE_URL || 'http://127.0.0.1:8765';
           jp:e.querySelector('.kc-word-jp').firstChild.textContent,
           romaji:e.querySelector('.kc-word-reading')?.textContent,
           meaning:e.querySelector('.kc-word-meaning')?.textContent,
-          review:e.querySelector('.kc-review')?.textContent || ''
+          review:e.querySelector('.kc-review')?.textContent || '',
+          note:e.querySelector('.kc-word-note')?.textContent || ''
         })));
         assert.deepEqual(actual.map(w => w.id), expected.map(w => w[6].id), 'Example order');
         for (let n = 0; n < actual.length; n++) {
@@ -40,8 +41,9 @@ const base = process.env.CARDS_BASE_URL || 'http://127.0.0.1:8765';
           assert.equal(a.jp, t.jp, `${a.id} Japanese`);
           assert.equal(a.romaji, t.romaji, `${a.id} workbook H`);
           assert.equal(a.meaning, t[lang], `${a.id} ${lang}`);
-          assert.equal(Boolean(a.review), Boolean(t.reviewFlag), `${a.id} manual review flag`);
-          if (t.reviewFlag) assert.match(a.review, lang === 'ru' ? /ручной проверки/ : /manual review/);
+          assert.equal(a.review, '', `${a.id} editorial review label is hidden`);
+          assert.equal(a.note, w[6].displayNotes?.[lang] ?? t[lang === 'ru' ? 'noteRu' : 'noteEn'], `${a.id} useful note`);
+          assert.doesNotMatch(a.note, /\bH\b|workbook|исходн|столб/i, `${a.id} no source audit text`);
         }
         assert.equal(await page.evaluate(() => document.documentElement.scrollWidth > innerWidth), false, 'Horizontal overflow');
       };

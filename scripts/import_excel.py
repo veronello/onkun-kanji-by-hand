@@ -30,6 +30,8 @@ def import_workbook(source, output):
     assert len(audit[1:]) == len(rows), 'Incomplete Romaji Audit'
     audited = {r[0]: r for r in audit[1:]}
     translations = json.loads((ROOT / 'data/translations-12.json').read_text())
+    display_notes = json.loads((ROOT / 'data/card-display-notes.json').read_text())
+    assert display_notes.keys() <= translations.keys(), 'Display notes without a translation'
     cards = {}
     for r in official[1:]:
         if not str(r[0]).isdigit():
@@ -57,6 +59,11 @@ def import_workbook(source, output):
                         annotation=r[16], source=r[14], translationStatus=t.get('status', 'pending'))
         if t.get('reviewFlag'):
             metadata['translationReview'] = t['reviewFlag']
+        if r[0] in display_notes:
+            note = display_notes[r[0]]
+            assert note['jp'] == r[4] and note['romaji'] == r[7], f'Stale display note: {r[0]}'
+            assert isinstance(note['ru'], str) and isinstance(note['en'], str)
+            metadata['displayNotes'] = dict(ru=note['ru'], en=note['en'])
         words = [r[4], r[7] if eligible else '', r[8] or t.get('ru', ''),
                  r[9] or t.get('en', ''), t.get('noteRu', ''), t.get('noteEn', ''), metadata]
         cards[int(r[1])]['words'].append(words)
