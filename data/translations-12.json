@@ -6311,5 +6311,1887 @@
       }
     ],
     "reviewFlag": "sense-selection"
+  },
+  "EX-00359": {
+    "jp": "謁見",
+    "romaji": "ekken",
+    "ru": "аудиенция; встреча с высокопоставленным лицом",
+    "en": "an audience; a meeting with a person of high rank",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E8%AC%81%E8%A6%8B-445266"
+      }
+    ]
+  },
+  "EX-00360": {
+    "jp": "拝謁",
+    "romaji": "haietsu",
+    "ru": "аудиенция у высокопоставленного лица",
+    "en": "an audience with a person of high rank",
+    "noteRu": "Почтительное обозначение встречи с лицом высокого ранга.",
+    "noteEn": "A respectful term for meeting a person of high rank.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "日本漢字能力検定協会 漢字ペディア",
+        "url": "https://www.kanjipedia.jp/kanji/0000429100"
+      }
+    ]
+  },
+  "EX-00361": {
+    "jp": "謁する",
+    "romaji": "essuru",
+    "ru": "быть принятым на аудиенции; встречаться с высокопоставленным лицом",
+    "en": "to have an audience; to meet a person of high rank",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E8%AC%81%E3%81%99%E3%82%8B-445288"
+      }
+    ]
+  },
+  "EX-00362": {
+    "jp": "閲覧",
+    "romaji": "etsuran",
+    "ru": "чтение; просмотр документов или веб-страниц",
+    "en": "reading; browsing documents or web pages",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E9%96%B2%E8%A6%A7-445498"
+      }
+    ]
+  },
+  "EX-00363": {
+    "jp": "閲歴",
+    "romaji": "etsureki",
+    "ru": "жизненный путь; опыт",
+    "en": "one's life history; experience",
+    "noteRu": "Может обозначать пройденный жизненный путь или приобретённый опыт.",
+    "noteEn": "Can refer to a person’s life history or acquired experience.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E9%96%B2%E6%AD%B4-445502"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00364": {
+    "jp": "校閲",
+    "romaji": "kōetsu",
+    "ru": "редакторская проверка текста; вычитка",
+    "en": "copyediting; checking a text for errors",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%A0%A1%E9%96%B2-494100"
+      }
+    ]
+  },
+  "EX-00365": {
+    "jp": "円卓",
+    "romaji": "entaku",
+    "ru": "круглый стол",
+    "en": "a round table",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典（第4版）",
+        "url": "https://kotobank.jp/jeword/%E5%86%86%E5%8D%93"
+      }
+    ]
+  },
+  "EX-00366": {
+    "jp": "円熟",
+    "romaji": "enjuku",
+    "ru": "зрелость; совершенное мастерство",
+    "en": "maturity; fully developed mastery",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%86%86%E7%86%9F-447714"
+      }
+    ]
+  },
+  "EX-00367": {
+    "jp": "一円",
+    "romaji": "ichien",
+    "ru": "одна иена; вся территория, весь район",
+    "en": "one yen; an entire area or region",
+    "noteRu": "Денежная единица либо вся территория: например, 関東一円 — весь регион Канто.",
+    "noteEn": "A monetary amount or an entire region: for example, 関東一円 means the whole Kantō region.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E4%B8%80%E5%86%86-433205"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00368": {
+    "jp": "円い",
+    "romaji": "marui",
+    "ru": "круглый; округлый",
+    "en": "round; rounded",
+    "noteRu": "Также переносно — мягкий, неконфликтный характер.",
+    "noteEn": "Also figuratively, a gentle, agreeable disposition.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E4%B8%B8%E3%81%84-636070"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00369": {
+    "jp": "円さ",
+    "romaji": "marusa",
+    "ru": "округлость; степень округлости",
+    "en": "roundness; degree of roundness",
+    "noteRu": "Существительное от 円い: степень округлости; переносное значение зависит от контекста.",
+    "noteEn": "Noun from 円い: degree of roundness; a figurative use depends on context.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E4%B8%B8%E3%81%84-636070"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00370": {
+    "jp": "円み",
+    "romaji": "marumi",
+    "ru": "округлость; округлая форма",
+    "en": "roundness; a rounded shape",
+    "noteRu": "Существительное от 円い, передающее округлую форму или ощущение округлости.",
+    "noteEn": "Noun from 円い denoting a rounded shape or the impression of roundness.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E4%B8%B8%E3%81%84-636070"
+      },
+      {
+        "dictionary": "小学館 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E4%B8%B8%E5%91%B3-3139134"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00371": {
+    "jp": "延長",
+    "romaji": "enchō",
+    "ru": "продление; удлинение; общая протяжённость",
+    "en": "extension; prolongation; total length",
+    "noteRu": "Также продолжение чего-либо и дополнительное время в спортивном матче.",
+    "noteEn": "Also a continuation of something or extra time in a sporting match.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%BB%B6%E9%95%B7-38270"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00372": {
+    "jp": "延期",
+    "romaji": "enki",
+    "ru": "перенос на более поздний срок; отсрочка",
+    "en": "postponement; deferral",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%BB%B6%E6%9C%9F-447455"
+      }
+    ]
+  },
+  "EX-00373": {
+    "jp": "遅延",
+    "romaji": "chien",
+    "ru": "задержка; опоздание",
+    "en": "delay; lateness",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E9%81%85%E5%BB%B6-565173"
+      }
+    ]
+  },
+  "EX-00374": {
+    "jp": "延びる",
+    "romaji": "nobiru",
+    "ru": "удлиняться; продлеваться; откладываться",
+    "en": "to be extended; to be prolonged; to be postponed",
+    "noteRu": "Непереходный глагол: путь удлиняется, срок продлевается или событие откладывается.",
+    "noteEn": "Intransitive: a route is extended, a period is prolonged, or an event is postponed.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E4%BC%B8%E3%81%B3%E3%82%8B-597202"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00375": {
+    "jp": "延べる",
+    "romaji": "noberu",
+    "ru": "продлевать; откладывать; расстилать",
+    "en": "to prolong; to postpone; to spread out",
+    "noteRu": "Переходный глагол: также протягивать руку, расстилать постель или раскатывать материал.",
+    "noteEn": "Transitive: also to reach out a hand, spread bedding, or flatten material.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E4%BC%B8%E3%81%B9%E3%82%8B-597279"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00376": {
+    "jp": "延べ",
+    "romaji": "nobe",
+    "ru": "суммарно, с учётом повторных случаев; отсрочка",
+    "en": "a cumulative total counting repeated occurrences; postponement",
+    "noteRu": "При подсчёте повторные посещения или случаи считаются каждый раз. Также может обозначать раскатанный металл, особенно золото или серебро.",
+    "noteEn": "In counting, repeated visits or occurrences are counted each time. Can also denote flattened metal, especially gold or silver.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%BB%B6%E3%81%B9-597232"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00377": {
+    "jp": "延ばす",
+    "romaji": "nobasu",
+    "ru": "удлинять; продлевать; откладывать",
+    "en": "to extend; to prolong; to postpone",
+    "noteRu": "Переходный глагол: 延長 — увеличение длины или длительности, 延期 — перенос на более поздний срок.",
+    "noteEn": "Transitive: 延長 extends length or duration; 延期 moves something to a later date.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E4%BC%B8%E3%81%B0%E3%81%99-597169"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00378": {
+    "jp": "沿海",
+    "romaji": "enkai",
+    "ru": "морское побережье; прибрежные воды",
+    "en": "the seacoast; coastal waters",
+    "noteRu": "Может обозначать сушу вдоль моря или прилегающую часть моря.",
+    "noteEn": "Can refer to land along the sea or the adjacent part of the sea.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%B2%BF%E6%B5%B7-447349"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00379": {
+    "jp": "沿線",
+    "romaji": "ensen",
+    "ru": "район вдоль железной дороги или магистрали",
+    "en": "an area along a railway line or main road",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%B2%BF%E7%B7%9A-447845"
+      }
+    ]
+  },
+  "EX-00380": {
+    "jp": "沿革",
+    "romaji": "enkaku",
+    "ru": "история развития; исторические изменения",
+    "en": "history of development; historical changes",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%B2%BF%E9%9D%A9-447374"
+      }
+    ]
+  },
+  "EX-00381": {
+    "jp": "沿う",
+    "romaji": "sou",
+    "ru": "идти вдоль; следовать; соответствовать",
+    "en": "to follow along; to follow; to conform to",
+    "noteRu": "Буквально — двигаться или располагаться вдоль чего-либо; переносно — следовать плану или требованиям.",
+    "noteEn": "Literally to run or move alongside something; figuratively to follow a plan or comply with requirements.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%B2%BF%E3%81%86-551676"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00382": {
+    "jp": "川沿い",
+    "romaji": "kawazoi",
+    "ru": "вдоль реки; берег реки",
+    "en": "along a river; the riverside",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%B7%9D%E6%B2%BF%E3%81%84-468724"
+      }
+    ]
+  },
+  "EX-00383": {
+    "jp": "炎上",
+    "romaji": "enjō",
+    "ru": "полыхание, сильный пожар; волна критики в интернете",
+    "en": "blazing up; an online backlash",
+    "noteRu": "Буквально — сильное горение; переносно — массовая критика в интернете. В бейсболе — много пропущенных питчером очков.",
+    "noteEn": "Literally intense burning; figuratively an online backlash. In baseball, a pitcher giving up many runs.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E7%82%8E%E4%B8%8A-447739"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00384": {
+    "jp": "炎天",
+    "romaji": "enten",
+    "ru": "зной; палящее солнце",
+    "en": "scorching heat; the blazing sun",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典（第4版）",
+        "url": "https://kotobank.jp/jeword/%E7%82%8E%E5%A4%A9"
+      }
+    ]
+  },
+  "EX-00385": {
+    "jp": "火炎",
+    "romaji": "kaen",
+    "ru": "пламя",
+    "en": "flame",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E7%81%AB%E7%82%8E-459027"
+      }
+    ]
+  },
+  "EX-00386": {
+    "jp": "炎",
+    "romaji": "honō",
+    "ru": "пламя; пыл, жар чувств",
+    "en": "flame; burning passion",
+    "noteRu": "Кроме огня, может образно обозначать сильные чувства, например ревность или гнев.",
+    "noteEn": "Besides fire, can figuratively denote intense feelings such as jealousy or anger.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E7%82%8E-133870"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00387": {
+    "jp": "怨恨",
+    "romaji": "enkon",
+    "ru": "глубокая обида; затаённая вражда",
+    "en": "a deep grudge; bitter resentment",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%80%A8%E6%81%A8-447619"
+      }
+    ]
+  },
+  "EX-00388": {
+    "jp": "怨念",
+    "romaji": "onnen",
+    "ru": "чувство глубокой обиды; злоба",
+    "en": "deep-seated resentment; a grudge",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%80%A8%E5%BF%B5-456125"
+      }
+    ]
+  },
+  "EX-00389": {
+    "jp": "宴会",
+    "romaji": "enkai",
+    "ru": "пир; банкет; застолье",
+    "en": "a banquet; a feast; a party with food and drink",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%AE%B4%E4%BC%9A-447350"
+      }
+    ]
+  },
+  "EX-00390": {
+    "jp": "宴席",
+    "romaji": "enseki",
+    "ru": "банкет; праздничное застолье",
+    "en": "a banquet; a festive gathering over food and drink",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%AE%B4%E5%B8%AD-447827"
+      }
+    ]
+  },
+  "EX-00391": {
+    "jp": "酒宴",
+    "romaji": "shuen",
+    "ru": "застолье с выпивкой; пирушка",
+    "en": "a drinking party; a feast with alcohol",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E9%85%92%E5%AE%B4-527952"
+      }
+    ]
+  },
+  "EX-00392": {
+    "jp": "才媛",
+    "romaji": "saien",
+    "ru": "талантливая и образованная женщина",
+    "en": "a talented, well-educated woman",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%89%8D%E5%AA%9B-507178"
+      }
+    ]
+  },
+  "EX-00393": {
+    "jp": "援助",
+    "romaji": "enjo",
+    "ru": "помощь; поддержка",
+    "en": "help; assistance",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%8F%B4%E5%8A%A9-447725"
+      }
+    ]
+  },
+  "EX-00394": {
+    "jp": "応援",
+    "romaji": "ōen",
+    "ru": "помощь, поддержка; поддержка болельщиков",
+    "en": "support, assistance; cheering on a team or player",
+    "noteRu": "Помощь делу или человеку либо эмоциональная поддержка спортсменов и команды.",
+    "noteEn": "Assistance to a cause or person, or encouragement of players and a team.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%BF%9C%E6%8F%B4-448742"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00395": {
+    "jp": "声援",
+    "romaji": "seien",
+    "ru": "возгласы поддержки; подбадривание",
+    "en": "cheers; vocal encouragement",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%A3%B0%E6%8F%B4-544542"
+      }
+    ]
+  },
+  "EX-00396": {
+    "jp": "園芸",
+    "romaji": "engei",
+    "ru": "садоводство; выращивание плодовых, овощных и декоративных растений",
+    "en": "horticulture; growing fruit, vegetables, and ornamental plants",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%9C%92%E8%8A%B8-38077"
+      }
+    ]
+  },
+  "EX-00397": {
+    "jp": "公園",
+    "romaji": "kōen",
+    "ru": "общественный парк; охраняемая природная территория",
+    "en": "a public park; a protected natural area",
+    "noteRu": "Как городской парк, так и охраняемая природная территория, например национальный парк.",
+    "noteEn": "Either an urban park or a protected natural area, such as a national park.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%85%AC%E5%9C%92-61464"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00398": {
+    "jp": "楽園",
+    "romaji": "rakuen",
+    "ru": "рай; место счастливой жизни",
+    "en": "paradise; a place of bliss",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%A5%BD%E5%9C%92-655849"
+      }
+    ]
+  },
+  "EX-00399": {
+    "jp": "学びの園",
+    "romaji": "manabi no sono",
+    "ru": "школа; учебное заведение",
+    "en": "a school; a place of learning",
+    "noteRu": "Образное, литературное обозначение школы или места учёбы.",
+    "noteEn": "A figurative, literary term for a school or place of learning.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%AD%A6%E3%81%B3%E3%81%AE%E5%9C%92-635395"
+      },
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%AD%A6%E3%81%B3%E3%81%AE%E5%BA%AD-635396"
+      }
+    ]
+  },
+  "EX-00400": {
+    "jp": "花園",
+    "romaji": "hanazono",
+    "ru": "цветник; цветочный сад",
+    "en": "a flower garden",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E8%8A%B1%E5%9C%92-115652"
+      }
+    ]
+  },
+  "EX-00401": {
+    "jp": "煙突",
+    "romaji": "entotsu",
+    "ru": "дымовая труба; дымоход",
+    "en": "a chimney; a smokestack",
+    "noteRu": "Показано обычное значение; в жаргоне таксистов — везти пассажира с оставленной табличкой «свободен», присваивая плату.",
+    "noteEn": "The ordinary sense is shown; in taxi-driver slang, carrying a passenger with the vacant sign left on to pocket the fare.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E7%85%99%E7%AA%81-38309"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00402": {
+    "jp": "煙霧",
+    "romaji": "enmu",
+    "ru": "дым и туман; мгла, дымка",
+    "en": "smoke and fog; haze",
+    "noteRu": "В метеорологии — помутнение воздуха из-за взвешенных сухих частиц, а не только водяной туман.",
+    "noteEn": "In meteorology, reduced visibility from suspended dry particles, rather than only water fog.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E7%85%99%E9%9C%A7-38388"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00403": {
+    "jp": "喫煙",
+    "romaji": "kitsuen",
+    "ru": "курение табака",
+    "en": "tobacco smoking",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%96%AB%E7%85%99-474639"
+      }
+    ]
+  },
+  "EX-00404": {
+    "jp": "煙る",
+    "romaji": "kemuru",
+    "ru": "дымить; заволакиваться дымом, туманом или дождём",
+    "en": "to give off smoke; to be shrouded in smoke, mist, or rain",
+    "noteRu": "Дым может исходить от самого предмета; город или пейзаж могут быть окутаны дождём или туманом.",
+    "noteEn": "The subject may emit smoke, or a town or landscape may be veiled in rain or mist.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E7%85%99%E3%82%8B-490988"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00405": {
+    "jp": "煙",
+    "romaji": "kemuri",
+    "ru": "дым; пар, дымка",
+    "en": "smoke; vapor, haze",
+    "noteRu": "В переносном, литературном употреблении может обозначать домашний очаг и средства к существованию.",
+    "noteEn": "In figurative, literary usage, can refer to a household hearth and livelihood.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "日本漢字能力検定協会 漢字ペディア",
+        "url": "https://kotobank.jp/word/%E7%85%99-59978"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00406": {
+    "jp": "煙い",
+    "romaji": "kemui",
+    "ru": "дымный; едкий от дыма",
+    "en": "smoky; irritating from smoke",
+    "noteRu": "О дыме, раздражающем глаза и затрудняющем дыхание; также встречается переносное значение 煙たい.",
+    "noteEn": "Smoke that irritates the eyes and makes breathing uncomfortable; the figurative sense of 煙たい is also attested.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E7%85%99%E3%81%84-490960"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00407": {
+    "jp": "煙たい",
+    "romaji": "kemutai",
+    "ru": "дымный, едкий; стесняющий, вызывающий неловкость",
+    "en": "smoky, irritating; intimidating, making one feel ill at ease",
+    "noteRu": "О дыме либо о человеке, рядом с которым трудно держаться свободно.",
+    "noteEn": "Used of smoke or of a person around whom one feels constrained.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E7%85%99%E3%81%9F%E3%81%84-490970"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00408": {
+    "jp": "煙たがる",
+    "romaji": "kemutagaru",
+    "ru": "выказывать недовольство дымом; выказывать скованность рядом с кем-либо",
+    "en": "to show discomfort from smoke; to show unease around someone",
+    "noteRu": "Обозначает заметную реакцию на едкий дым либо неприязнь и скованность по отношению к человеку.",
+    "noteEn": "Denotes a visible reaction to irritating smoke or unease and aversion toward a person.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E7%85%99%E3%81%9F%E3%81%8C%E3%82%8B-674861"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00409": {
+    "jp": "野猿",
+    "romaji": "yaen",
+    "ru": "дикая обезьяна",
+    "en": "a wild monkey",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E9%87%8E%E7%8C%BF-647553"
+      }
+    ]
+  },
+  "EX-00410": {
+    "jp": "類人猿",
+    "romaji": "ruijin'en",
+    "ru": "человекообразная обезьяна",
+    "en": "an ape",
+    "noteRu": "Включает также гиббонов; английское ape, а не только great ape.",
+    "noteEn": "Includes gibbons as well; ape, not only great ape.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E9%A1%9E%E4%BA%BA%E7%8C%BF-150582"
+      }
+    ]
+  },
+  "EX-00411": {
+    "jp": "犬猿の仲",
+    "romaji": "ken'en no naka",
+    "ru": "враждебные отношения; как кошка с собакой",
+    "en": "a hostile relationship; being at daggers drawn",
+    "noteRu": "Устойчивое выражение о людях, которые постоянно враждуют.",
+    "noteEn": "An idiom for people who are constantly at odds.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%8A%AC%E7%8C%BF%E3%81%AE%E4%BB%B2-257507"
+      }
+    ]
+  },
+  "EX-00412": {
+    "jp": "猿",
+    "romaji": "saru",
+    "ru": "обезьяна",
+    "en": "a monkey",
+    "noteRu": "Показано название животного. Также возможны насмешливое обозначение человека и название запора для двери.",
+    "noteEn": "The animal sense is shown. Also used mockingly of a person and for a door fastener.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E7%8C%BF-447276"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00413": {
+    "jp": "遠近",
+    "romaji": "enkin",
+    "ru": "даль и близь; расстояние",
+    "en": "far and near; distance",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E9%81%A0%E8%BF%91-447514"
+      }
+    ]
+  },
+  "EX-00414": {
+    "jp": "永遠",
+    "romaji": "eien",
+    "ru": "вечность; вечный",
+    "en": "eternity; eternal",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%B0%B8%E9%81%A0-35801"
+      }
+    ]
+  },
+  "EX-00415": {
+    "jp": "敬遠",
+    "romaji": "keien",
+    "ru": "избегание; намеренный пропуск бьющего в бейсболе",
+    "en": "avoidance; an intentional walk in baseball",
+    "noteRu": "О дистанцировании от человека или избегании дела; в бейсболе — намеренная выдача четырёх болов.",
+    "noteEn": "Keeping someone at a distance or avoiding something; in baseball, deliberately walking a batter.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%95%AC%E9%81%A0-488177"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00416": {
+    "jp": "久遠",
+    "romaji": "kuon",
+    "ru": "вечность; далёкое прошлое или будущее",
+    "en": "eternity; the remote past or future",
+    "noteRu": "В буддийском употреблении — неизмеримо далёкое прошлое или будущее; также вечность вообще.",
+    "noteEn": "In Buddhist usage, the immeasurably remote past or future; also eternity in general.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典（第4版）",
+        "url": "https://kotobank.jp/jeword/%E4%B9%85%E9%81%A0"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00417": {
+    "jp": "遠い",
+    "romaji": "tōi",
+    "ru": "далёкий; отдалённый",
+    "en": "far; distant",
+    "noteRu": "О расстоянии, времени, родстве или психологической близости.",
+    "noteEn": "Used of distance, time, kinship, or emotional closeness.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E9%81%A0%E3%81%84-581784"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00418": {
+    "jp": "遠出",
+    "romaji": "tōde",
+    "ru": "поездка далеко от дома; дальняя прогулка",
+    "en": "an outing far from home; a trip to a distant place",
+    "noteRu": "Показано общее значение; исторически также поездка гейши с клиентом вне своего района.",
+    "noteEn": "The general sense is shown; historically also a geisha’s trip with a client outside her usual district.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E9%81%A0%E5%87%BA-581892"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00419": {
+    "jp": "遠ざかる",
+    "romaji": "tōzakaru",
+    "ru": "удаляться; отдаляться, терять связь",
+    "en": "to move away; to become estranged, to lose touch",
+    "noteRu": "Физическое удаление либо утрата близости и связи с людьми или занятиями.",
+    "noteEn": "Physical movement away, or loss of closeness or contact with people or activities.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E9%81%A0%E3%81%96%E3%81%8B%E3%82%8B-581834"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00420": {
+    "jp": "鉛筆",
+    "romaji": "enpitsu",
+    "ru": "карандаш",
+    "en": "a pencil",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E9%89%9B%E7%AD%86-173337"
+      }
+    ]
+  },
+  "EX-00421": {
+    "jp": "亜鉛",
+    "romaji": "aen",
+    "ru": "цинк",
+    "en": "zinc",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E4%BA%9C%E9%89%9B-24064"
+      }
+    ]
+  },
+  "EX-00422": {
+    "jp": "黒鉛",
+    "romaji": "kokuen",
+    "ru": "графит",
+    "en": "graphite",
+    "noteRu": "Графит — форма углерода, а не свинец.",
+    "noteEn": "Graphite is a form of carbon, not lead.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E9%BB%92%E9%89%9B-63722"
+      }
+    ]
+  },
+  "EX-00423": {
+    "jp": "鉛",
+    "romaji": "namari",
+    "ru": "свинец",
+    "en": "lead",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E9%89%9B-108462"
+      }
+    ]
+  },
+  "EX-00424": {
+    "jp": "鉛色",
+    "romaji": "namariiro",
+    "ru": "свинцово-серый цвет",
+    "en": "a lead-gray color",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E9%89%9B%E7%81%B0%E8%89%B2-447362"
+      }
+    ]
+  },
+  "EX-00425": {
+    "jp": "塩分",
+    "romaji": "enbun",
+    "ru": "содержание соли; солёность",
+    "en": "salt content; salinity",
+    "noteRu": "Содержание поваренной соли в продукте или растворённых солей в воде.",
+    "noteEn": "Table-salt content in food or dissolved-salt content in water.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%A1%A9%E5%88%86-448176"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00426": {
+    "jp": "塩酸",
+    "romaji": "ensan",
+    "ru": "соляная кислота",
+    "en": "hydrochloric acid",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%A1%A9%E9%85%B8-38125"
+      }
+    ]
+  },
+  "EX-00427": {
+    "jp": "食塩",
+    "romaji": "shokuen",
+    "ru": "поваренная соль",
+    "en": "table salt",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E9%A3%9F%E5%A1%A9-80096"
+      }
+    ]
+  },
+  "EX-00428": {
+    "jp": "塩",
+    "romaji": "shio",
+    "ru": "соль; солёный вкус",
+    "en": "salt; saltiness",
+    "noteRu": "Обычно поваренная соль или степень солёности; в литературе может обозначать жизненные тяготы.",
+    "noteEn": "Usually table salt or the degree of saltiness; in literary usage, hardships of life.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%A1%A9-37936"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00429": {
+    "jp": "塩辛い",
+    "romaji": "shiokarai",
+    "ru": "солёный; хриплый, сиплый",
+    "en": "salty; hoarse, husky",
+    "noteRu": "О вкусе — солёный; о голосе — хриплый, сиплый.",
+    "noteEn": "For taste, salty; for a voice, hoarse or husky.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%A1%A9%E8%BE%9B%E3%81%84-516820"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00430": {
+    "jp": "演技",
+    "romaji": "engi",
+    "ru": "актёрская игра; показательное выступление; притворство",
+    "en": "acting; a display of skill; pretense",
+    "noteRu": "Не только театр: также демонстрация спортивного или другого мастерства; переносно — притворство.",
+    "noteEn": "Not limited to theater: also a display of sporting or other skill; figuratively, pretense.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%BC%94%E6%8A%80-38033"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00431": {
+    "jp": "演奏",
+    "romaji": "ensō",
+    "ru": "исполнение музыки",
+    "en": "musical performance",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%BC%94%E5%A5%8F-38229"
+      }
+    ]
+  },
+  "EX-00432": {
+    "jp": "講演",
+    "romaji": "kōen",
+    "ru": "лекция; публичное выступление; буддийская проповедь",
+    "en": "a lecture; a public talk; a Buddhist sermon",
+    "noteRu": "Обычное публичное выступление либо религиозное толкование буддийских текстов.",
+    "noteEn": "A public talk in ordinary usage, or a religious exposition of Buddhist scriptures.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E8%AC%9B%E6%BC%94-494129"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00433": {
+    "jp": "縁故",
+    "romaji": "enko",
+    "ru": "родственные связи; личные связи, знакомства",
+    "en": "family ties; personal connections",
+    "noteRu": "Родство и свойство либо личные связи, через которые можно получить поддержку.",
+    "noteEn": "Kinship or ties by marriage, or personal connections through which help may be obtained.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E7%B8%81%E6%95%85-447583"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00434": {
+    "jp": "縁日",
+    "romaji": "ennichi",
+    "ru": "день почитания определённого божества или будды",
+    "en": "a day sacred to a particular deity or Buddha",
+    "noteRu": "День, когда посещение святыни считается особенно благоприятным.",
+    "noteEn": "A day when visiting the associated shrine or temple is believed to bring particular blessings.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E7%B8%81%E6%97%A5-38323"
+      }
+    ]
+  },
+  "EX-00435": {
+    "jp": "血縁",
+    "romaji": "ketsuen",
+    "ru": "кровное родство; кровные родственники",
+    "en": "blood relationship; blood relatives",
+    "noteRu": "Отношение кровного родства или сами родственники.",
+    "noteEn": "The relationship of kinship by blood, or the relatives themselves.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E8%A1%80%E7%B8%81-59533"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00436": {
+    "jp": "縁",
+    "romaji": "fuchi",
+    "ru": "край; ободок; рамка",
+    "en": "an edge; a rim; a frame",
+    "noteRu": "Здесь fuchi: край или обрамление предмета; также металлическая обойма рукояти меча.",
+    "noteEn": "Here fuchi: the edge or frame of an object; also the metal collar of a sword hilt.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E7%B8%81-37937"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00437": {
+    "jp": "縁取り",
+    "romaji": "fuchidori",
+    "ru": "окантовка; обрамление",
+    "en": "edging; a border or trim",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E7%B8%81%E5%8F%96%E3%82%8A-618929"
+      }
+    ]
+  },
+  "EX-00438": {
+    "jp": "額縁",
+    "romaji": "gakubuchi",
+    "ru": "рама для картины; декоративное обрамление",
+    "en": "a picture frame; a decorative frame",
+    "noteRu": "Рама для изображения; также обрамление окна, двери, сцены или края одеяла.",
+    "noteEn": "A frame for an image; also framing around a window, door, stage, or quilt edge.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E9%A1%8D%E7%B8%81-43785"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00439": {
+    "jp": "妖艶",
+    "romaji": "yōen",
+    "ru": "чарующая, чувственная красота; обольстительный",
+    "en": "seductive beauty; alluring",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%A6%96%E8%89%B6-652754"
+      }
+    ]
+  },
+  "EX-00440": {
+    "jp": "艶",
+    "romaji": "tsuya",
+    "ru": "блеск; лоск; выразительность",
+    "en": "luster; gloss; expressive charm",
+    "noteRu": "Блеск поверхности; переносно — красота голоса или выразительность искусства. Также связано с любовными делами.",
+    "noteEn": "Surface luster; figuratively beauty of voice or artistic charm. Also associated with amorous affairs.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E8%89%B6-37939"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00441": {
+    "jp": "色艶",
+    "romaji": "irotsuya",
+    "ru": "цвет и блеск; живость и обаяние",
+    "en": "color and luster; liveliness and charm",
+    "noteRu": "О цвете и блеске кожи или предмета; переносно — живость рассказа либо сердечность общения.",
+    "noteEn": "Color and luster of skin or an object; figuratively, liveliness in a story or warmth in an interaction.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E8%89%B2%E8%89%B6-436750"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00442": {
+    "jp": "汚点",
+    "romaji": "oten",
+    "ru": "пятно; пятно на репутации",
+    "en": "a stain; a blot on one's reputation",
+    "noteRu": "Буквальное загрязнение либо переносное пятно на репутации или биографии.",
+    "noteEn": "A literal stain or a figurative blot on a reputation or record.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%B1%9A%E7%82%B9-453226"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00443": {
+    "jp": "汚物",
+    "romaji": "obutsu",
+    "ru": "нечистоты; грязь, особенно испражнения",
+    "en": "filth; waste, especially excrement",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%B1%9A%E7%89%A9-454202"
+      }
+    ]
+  },
+  "EX-00444": {
+    "jp": "汚名",
+    "romaji": "omei",
+    "ru": "дурная слава; позор",
+    "en": "a bad name; disgrace",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典（第4版）",
+        "url": "https://kotobank.jp/jeword/%E6%B1%9A%E5%90%8D"
+      }
+    ]
+  },
+  "EX-00445": {
+    "jp": "汚す",
+    "romaji": "kegasu",
+    "ru": "осквернять; пятнать репутацию",
+    "en": "to defile; to disgrace, to tarnish a reputation",
+    "noteRu": "О святыне, чистоте или репутации; в 末席を汚す — скромное обозначение своего присутствия.",
+    "noteEn": "Used of sacredness, purity, or reputation; in 末席を汚す, a self-deprecating reference to one’s presence.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%B1%9A%E3%81%99-489607"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00446": {
+    "jp": "汚れる",
+    "romaji": "kegareru",
+    "ru": "оскверняться; утрачивать чистоту; покрываться позором",
+    "en": "to become defiled; to lose purity; to be disgraced",
+    "noteRu": "О нравственной, духовной или ритуальной чистоте и о репутации.",
+    "noteEn": "Used of moral, spiritual, or ritual purity and of reputation.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%B1%9A%E3%82%8C%E3%82%8B-489621"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00447": {
+    "jp": "汚れ",
+    "romaji": "kegare",
+    "ru": "скверна; нечистота; бесчестье",
+    "en": "defilement; impurity; dishonor",
+    "noteRu": "В религиозном контексте — ритуальная нечистота.",
+    "noteEn": "In a religious context, ritual impurity.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%B1%9A%E3%82%8C-489620"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00448": {
+    "jp": "汚らわしい",
+    "romaji": "kegarawashii",
+    "ru": "отвратительный; омерзительный; нечистый",
+    "en": "disgusting; repulsive; impure",
+    "noteRu": "Может выражать отвращение к физической грязи или нравственную оценку.",
+    "noteEn": "Can express disgust at physical filth or a moral judgment.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%B1%9A%E3%82%89%E3%82%8F%E3%81%97%E3%81%84-489618"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00449": {
+    "jp": "汚す",
+    "romaji": "yogosu",
+    "ru": "пачкать; загрязнять; марать себя дурным поступком",
+    "en": "to make dirty; to pollute; to sully oneself through wrongdoing",
+    "noteRu": "Обычно о физическом загрязнении; также о дурном поступке. В ごまで汚す — заправлять кунжутом.",
+    "noteEn": "Usually physical soiling; also wrongdoing. In ごまで汚す, to dress with sesame.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%B1%9A%E3%81%99-489607"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00450": {
+    "jp": "口汚し",
+    "romaji": "kuchiyogoshi",
+    "ru": "скромное угощение; небольшой перекус",
+    "en": "a modest offering of food; a small bite",
+    "noteRu": "Скромное выражение хозяина, предлагающего гостю немного еды.",
+    "noteEn": "A modest expression used by a host offering a guest a little food.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%8F%A3%E6%B1%9A%E3%81%97-484233"
+      }
+    ]
+  },
+  "EX-00451": {
+    "jp": "汚れる",
+    "romaji": "yogoreru",
+    "ru": "пачкаться; загрязняться; становиться нечистым",
+    "en": "to get dirty; to become polluted; to become tainted",
+    "noteRu": "Обычно физическое загрязнение; переносно — утрата нравственной чистоты.",
+    "noteEn": "Usually physical soiling; figuratively, becoming morally tainted.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%B1%9A%E3%82%8C%E3%82%8B-489621"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00452": {
+    "jp": "汚れ",
+    "romaji": "yogore",
+    "ru": "грязь; загрязнение; пятно",
+    "en": "dirt; soiling; a stain",
+    "noteRu": "Показано обычное физическое загрязнение; также встречается старое обозначение менструации.",
+    "noteEn": "The ordinary physical sense is shown; also attested as an older term for menstruation.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%B1%9A%E3%82%8C-489620"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00453": {
+    "jp": "汚れ物",
+    "romaji": "yogoremono",
+    "ru": "грязные вещи; грязное бельё или посуда",
+    "en": "dirty things; dirty laundry or dishes",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%B1%9A%E3%82%8C%E7%89%A9-654047"
+      }
+    ]
+  },
+  "EX-00454": {
+    "jp": "汚い",
+    "romaji": "kitanai",
+    "ru": "грязный; неопрятный; подлый",
+    "en": "dirty; untidy; underhanded",
+    "noteRu": "О грязи, беспорядке, грубой речи или нечестном поведении; также о скупости.",
+    "noteEn": "Used of dirt, untidiness, coarse language, or dishonest behavior; also stinginess.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%B1%9A%E3%81%84-474419"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00455": {
+    "jp": "汚らしい",
+    "romaji": "kitanarashii",
+    "ru": "грязный на вид; неряшливый",
+    "en": "filthy-looking; grubby",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%B1%9A%E3%82%89%E3%81%97%E3%81%84-474428"
+      }
+    ]
+  },
+  "EX-00456": {
+    "jp": "王子",
+    "romaji": "ōji",
+    "ru": "принц; сын монарха",
+    "en": "a prince; a king's son",
+    "noteRu": "Показано основное значение; также ласковое или хвалебное обозначение мальчика или молодого мужчины.",
+    "noteEn": "The principal sense is shown; also an affectionate or admiring term for a boy or young man.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E7%8E%8B%E5%AD%90-38677"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00457": {
+    "jp": "帝王",
+    "romaji": "teiō",
+    "ru": "император; монарх; властитель в своей области",
+    "en": "an emperor; a monarch; a dominant figure in a field",
+    "noteRu": "Монарх либо человек с исключительной властью в определённой области.",
+    "noteEn": "A monarch or a person with exceptional power in a particular field.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%B8%9D%E7%8E%8B-573918"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00458": {
+    "jp": "凹凸",
+    "romaji": "ōtotsu",
+    "ru": "неровности; неравномерность",
+    "en": "unevenness; irregularity",
+    "noteRu": "Неровная поверхность либо неравномерность показателей и результатов.",
+    "noteEn": "An uneven surface or variation in figures and results.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%87%B9%E5%87%B8-449222"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00459": {
+    "jp": "凹面鏡",
+    "romaji": "ōmenkyō",
+    "ru": "вогнутое зеркало",
+    "en": "a concave mirror",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%90%83%E9%9D%A2%E9%8F%A1-52210"
+      }
+    ]
+  },
+  "EX-00460": {
+    "jp": "凹レンズ",
+    "romaji": "ōrenzu",
+    "ru": "вогнутая, рассеивающая линза",
+    "en": "a concave, diverging lens",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%87%B9%E3%82%8C%E3%82%93%E3%81%9A-3145973"
+      }
+    ]
+  },
+  "EX-00461": {
+    "jp": "中央",
+    "romaji": "chūō",
+    "ru": "центр; середина; центральное руководство",
+    "en": "the center; the middle; central leadership",
+    "noteRu": "Середина пространства или ряда; также руководящий центр организации и столица.",
+    "noteEn": "The middle of a space or sequence; also an organization’s governing center or the capital.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E4%B8%AD%E5%A4%AE-97014"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00462": {
+    "jp": "応答",
+    "romaji": "ōtō",
+    "ru": "ответ; отклик",
+    "en": "an answer; a response",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%BF%9C%E7%AD%94-1890"
+      }
+    ]
+  },
+  "EX-00463": {
+    "jp": "応用",
+    "romaji": "ōyō",
+    "ru": "практическое применение",
+    "en": "practical application",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%BF%9C%E7%94%A8-449376"
+      }
+    ]
+  },
+  "EX-00464": {
+    "jp": "呼応",
+    "romaji": "koō",
+    "ru": "перекличка; согласованные действия; грамматическое соответствие",
+    "en": "calling and responding; coordinated action; grammatical correspondence",
+    "noteRu": "Взаимный отклик, совместные действия по согласованию или грамматическая связь элементов предложения.",
+    "noteEn": "A reciprocal response, action in concert, or a grammatical relation between sentence elements.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%91%BC%E5%BF%9C-63482"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-00465": {
+    "jp": "応える",
+    "romaji": "kotaeru",
+    "ru": "откликаться; оправдывать ожидания; сильно сказываться",
+    "en": "to respond; to meet expectations; to affect strongly",
+    "noteRu": "В 期待に応える — оправдывать ожидания; в 寒さが応える — сильно страдать от холода; также отзываться эхом.",
+    "noteEn": "In 期待に応える, to meet expectations; in 寒さが応える, to feel the cold keenly; also to echo.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%BF%9C%E3%81%88%E3%82%8B-436289"
+      }
+    ],
+    "reviewFlag": "sense-selection"
   }
 }
