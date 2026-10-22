@@ -72,9 +72,10 @@ function setLanguage(nextLanguage) {
 const aboutMore = document.querySelector("#about-more");
 const aboutToggle = document.querySelector("#about-toggle");
 function updateAboutToggle() {
+  if (!aboutMore || !aboutToggle) return;
   aboutToggle.textContent = translations[language][aboutMore.hidden ? "readMore" : "showLess"];
 }
-aboutToggle.addEventListener("click", () => {
+aboutToggle?.addEventListener("click", () => {
   aboutMore.hidden = !aboutMore.hidden;
   aboutToggle.setAttribute("aria-expanded", String(!aboutMore.hidden));
   updateAboutToggle();
@@ -106,5 +107,3 @@ themeToggle.addEventListener("click", () => {
 });
 
 setLanguage(language);
-
-
