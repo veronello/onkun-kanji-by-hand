@@ -11,6 +11,7 @@ import zipfile
 from collections import Counter
 from pathlib import Path
 from xml.etree import ElementTree as ET
+from import_drill_visibility import build_visibility
 
 ROOT = Path(__file__).resolve().parents[1]
 NS = {'s': 'http://schemas.openxmlformats.org/spreadsheetml/2006/main'}
@@ -48,15 +49,20 @@ def read_examples(source):
 def main(source):
     digest = hashlib.sha256(source.read_bytes()).hexdigest()
     selection = json.loads((ROOT / 'data/kun-drill-selection.json').read_text())
-    assert digest == selection['sourceSha256'], 'Different source workbook'
+    visibility = json.loads((ROOT / 'data/drill-visibility.json').read_text())
+    assert digest in {selection['sourceSha256'], visibility['sourceSha256']}, 'Different source workbook'
+    if digest == visibility['sourceSha256']:
+        flags = build_visibility(source)
+        flags['sourceWorkbook'] = visibility['sourceWorkbook']
+        assert flags == visibility, 'Flags do not match workbook'
     first, last = selection['cardRange']
     rows = [row for row in read_examples(source) if first <= int(row['B']) <= last]
     assert len(rows) == 1299
     assert Counter(row['G'] for row in rows) == {'ON': 790, 'KUN': 509}
-    translated = [row for row in rows if row['I'] and row['J']]
+    translated = [row for row in rows if row.get('I') and row.get('J')]
     assert len(translated) == 1297
     translated_ids = {row['A'] for row in translated}
-    assert {row['A'] for row in rows if not row['I'] or not row['J']} == {'EX-00998', 'EX-01019'}
+    assert {row['A'] for row in rows if not row.get('I') or not row.get('J')} == {'EX-00998', 'EX-01019'}
     assert len({row['A'] for row in rows}) == len(rows)
 
     manifest = json.loads((ROOT / 'data/excel/manifest.json').read_text())
@@ -68,7 +74,7 @@ def main(source):
     for row in rows:
         card, word = shared[row['A']]
         assert card['id'] == int(row['B']) and card['kanji'] == row['C'], row['A']
-        assert word[:4] == [row[col] for col in ['E', 'H', 'I', 'J']], row['A']
+        assert word[:4] == [row.get(col, '') for col in ['E', 'H', 'I', 'J']], row['A']
         assert word[6]['type'] == row['G'] and word[6]['group'] == row['F'], row['A']
         if row['A'] in translated_ids:
             overlay = translations[row['A']]
@@ -111,9 +117,18 @@ def main(source):
     normalized = json.dumps(previous, sort_keys=True, ensure_ascii=False, separators=(',', ':')).encode()
     assert hashlib.sha256(normalized).hexdigest() == '49f730a35f7bf6385fdd6ef96e546856b0a7568d1955199776e3a24e566e686b', \
         'Previous 341 task IDs/order and 27 exclusion decisions must remain unchanged'
+    hidden = visibility['hiddenExampleIds']
+    assert len(hidden) == len(set(hidden)) == 20
+    assert all(id in shared for id in hidden)
+    assert Counter(shared[id][1][6]['type'] for id in hidden) == {'KUN': 19, 'ON': 1}
+    assert [id for id in hidden if shared[id][1][6]['type'] == 'ON'] == ['EX-00164']
+    hidden_kun = set(hidden) & set(included)
+    visible = [id for id in included if id not in hidden_kun]
+    assert len(hidden_kun) == 19 and len(visible) == 451
     assert hashlib.sha256(source.read_bytes()).hexdigest() == digest, 'Workbook changed'
     print('PASS: 1299 ID joins; 1297 translated examples; Japanese/romaji/RU/EN unchanged; '
-          '509 KUN decisions; 470 tasks (+129); 39 documented exclusions; source SHA-256 unchanged.')
+          '509 KUN decisions; 470 approved / 451 visible / 19 hidden; '
+          '39 documented exclusions; source SHA-256 unchanged.')
 
 
 if __name__ == '__main__':

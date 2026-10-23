@@ -8,14 +8,19 @@ const {chromium} = require('playwright');
 const root = path.resolve(__dirname, '..');
 const read = p => JSON.parse(fs.readFileSync(path.join(root, p), 'utf8'));
 const selection = read('data/kun-drill-selection.json');
+const visibility = read('data/drill-visibility.json');
+const visibleIds = selection.exampleIds.filter(id => !visibility.hiddenExampleIds.includes(id));
 const manifest = read('data/excel/manifest.json');
 const byId = new Map(manifest.chunks.flatMap(p => read(`data/excel/${p}`))
   .flatMap(c => c.words).map(w => [w[6].id, w]));
-const expected = selection.exampleIds.map(id => byId.get(id));
+const expected = visibleIds.map(id => byId.get(id));
+assert.equal(selection.exampleIds.length, 470);
+assert.equal(expected.length, 451);
+assert.equal(selection.exampleIds.length - expected.length, 19);
 const firstChunk = Math.floor((selection.cardRange[0] - 1) / manifest.chunkSize);
 const lastChunk = Math.floor((selection.cardRange[1] - 1) / manifest.chunkSize);
 const selectedCardIds = manifest.chunks.flatMap(p => read(`data/excel/${p}`))
-  .filter(c => c.words.some(w => selection.exampleIds.includes(w[6].id))).map(c => c.id);
+  .filter(c => c.words.some(w => visibleIds.includes(w[6].id))).map(c => c.id);
 const expectedRange = `${Math.min(...selectedCardIds)}–${Math.max(...selectedCardIds)}`;
 const base = process.env.CARDS_BASE_URL || 'http://127.0.0.1:8765';
 const screenshots = process.env.KUN_SCREENSHOT_DIR;
@@ -108,9 +113,12 @@ if (screenshots) fs.mkdirSync(screenshots, {recursive:true});
     }
 
     // Failed load, language during loading/error, retry, and a missing approved ID.
-    for (const fault of ['http','missing-id','missing-translation','duplicate-task']) {
+    for (const fault of ['http','visibility-http','invalid-visibility','duplicate-hidden-id',
+                         'missing-id','missing-translation','duplicate-task']) {
       const page = await browser.newPage();
-      const route = fault === 'http' ? '**/data/excel/cards/001.json*' : '**/data/kun-drill-selection.json';
+      const visibilityFault = /visibility|hidden-id/.test(fault);
+      const route = visibilityFault ? '**/data/drill-visibility.json' :
+        fault === 'http' ? '**/data/excel/cards/001.json*' : '**/data/kun-drill-selection.json';
       if (fault === 'missing-translation') {
         await page.route('**/data/excel/cards/000.json*', async r => {
           const data = read('data/excel/cards/000.json');
@@ -119,7 +127,13 @@ if (screenshots) fs.mkdirSync(screenshots, {recursive:true});
         });
       } else {
         await page.route(route, r => {
-          if (fault === 'http') return r.fulfill({status:503,body:'unavailable'});
+          if (fault === 'http' || fault === 'visibility-http') return r.fulfill({status:503,body:'unavailable'});
+          if (visibilityFault) {
+            const data = structuredClone(visibility);
+            if (fault === 'invalid-visibility') data.hiddenExampleIds = ['bad-id'];
+            if (fault === 'duplicate-hidden-id') data.hiddenExampleIds.push(data.hiddenExampleIds[0]);
+            return r.fulfill({json:data});
+          }
           const data = structuredClone(selection);
           if (fault === 'missing-id') data.exampleIds[0] = 'EX-99999';
           if (fault === 'duplicate-task') data.exampleIds.push('EX-00274');
@@ -149,6 +163,17 @@ if (screenshots) fs.mkdirSync(screenshots, {recursive:true});
     release(); await ready(delayed);
     assert.equal(await delayed.locator('#od-meaning').innerText(), expected[0][2]);
     await delayed.close();
-    console.log(JSON.stringify({results, loadFailuresAndRetry:'passed', delayedLanguageSwitch:'passed'}, null, 2));
+    // Removing flags restores reviewed tasks in their original positions, without editing texts.
+    const restored = await browser.newPage();
+    await restored.route('**/data/drill-visibility.json', r =>
+      r.fulfill({json:{...visibility, hiddenExampleIds:[]}}));
+    await restored.goto(`${base}/kun.html`); await ready(restored);
+    assert.equal(await restored.locator('#od-progress').getAttribute('max'), '470');
+    await restored.locator('#od-action').click(); await restored.locator('#od-action').click();
+    assert.equal(await restored.locator('#on-drill').getAttribute('data-example-id'), 'EX-00008');
+    assert.equal(await restored.locator('#od-reading').innerText(), byId.get('EX-00008')[1]);
+    await restored.close();
+    console.log(JSON.stringify({results, loadFailuresAndRetry:'passed', delayedLanguageSwitch:'passed',
+      restoreHiddenTask:'passed'}, null, 2));
   } finally {await browser.close();}
 })().catch(error => {console.error(error); process.exitCode = 1;});

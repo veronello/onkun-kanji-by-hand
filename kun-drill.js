@@ -33,9 +33,16 @@
     state = 'loading';
     render();
     try {
-      const [selection, manifest] = await Promise.all([
-        fetchJson('data/kun-drill-selection.json'), fetchJson('data/excel/manifest.json')
+      const [selection, manifest, visibility] = await Promise.all([
+        fetchJson('data/kun-drill-selection.json'), fetchJson('data/excel/manifest.json'),
+        fetchJson('data/drill-visibility.json')
       ]);
+      if (visibility.schemaVersion !== 1 || !Array.isArray(visibility.hiddenExampleIds) ||
+          !visibility.hiddenExampleIds.every(id => typeof id === 'string' && /^EX-\d{5}$/.test(id)) ||
+          new Set(visibility.hiddenExampleIds).size !== visibility.hiddenExampleIds.length) {
+        throw new Error('Invalid drill visibility');
+      }
+      const hiddenIds = new Set(visibility.hiddenExampleIds);
       const [first, last] = selection.cardRange;
       if (selection.schemaVersion !== 1 || !Number.isInteger(first) || !Number.isInteger(last) ||
           first < 1 || last < first || last > manifest.stats.kanji ||
@@ -67,8 +74,11 @@
       });
       // The reading is part of identity: 開く/hiraku and 開く/aku both remain.
       if (seen.size !== selected.length) throw new Error('Duplicate KUN task');
-      range = [Math.min(...selected.map(e => e.cardId)), Math.max(...selected.map(e => e.cardId))];
-      words = selected.map(e => e.word);
+      // Visibility is independent of reading approval; the reviewed list and cards stay intact.
+      const visible = selected.filter(e => !hiddenIds.has(e.word[6].id));
+      if (!visible.length) throw new Error('No visible KUN tasks');
+      range = [Math.min(...visible.map(e => e.cardId)), Math.max(...visible.map(e => e.cardId))];
+      words = visible.map(e => e.word);
       index = 0; revealed = false; finished = false; state = 'ready';
     } catch (error) {
       state = 'error';
