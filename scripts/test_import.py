@@ -90,10 +90,34 @@ class ImportTests(unittest.TestCase):
         self.assertTrue(all(w[2] and w[3] for w in fifth))
         self.assertTrue(all(w[2] and w[3] for w in sixth))
         self.assertTrue(all(w[2] and w[3] for w in seventh))
-        self.assertTrue(all(not w[2] and not w[3] for c in self.cards[204:] for w in c['words']))
+        eleventh = [w for c in self.cards[204:228] for w in c['words']]
+        self.assertEqual(len(eleventh),95)
+        self.assertEqual([w[6]['id'] for w in eleventh],[f'EX-{n:05d}' for n in range(914,1009)])
+        self.assertTrue(all(w[2] and w[3] for w in eleventh if w[6]['eligible']))
+        self.assertEqual([w[6]['id'] for w in eleventh if not w[6]['eligible']],['EX-00998'])
+        self.assertTrue(all(not w[2] and not w[3] for w in eleventh if not w[6]['eligible']))
+        self.assertEqual(sum(bool(w[6].get('translationReview')) for w in eleventh),36)
+        twelfth = [w for c in self.cards[228:252] for w in c['words']]
+        self.assertEqual(len(twelfth),86)
+        self.assertEqual([w[6]['id'] for w in twelfth],[f'EX-{n:05d}' for n in range(1009,1095)])
+        self.assertTrue(all(w[2] and w[3] for w in twelfth if w[6]['eligible']))
+        self.assertEqual([w[6]['id'] for w in twelfth if not w[6]['eligible']],['EX-01019'])
+        self.assertTrue(all(not w[1] and not w[2] and not w[3] for w in twelfth if not w[6]['eligible']))
+        self.assertEqual(sum(bool(w[6].get('translationReview')) for w in twelfth),25)
+        thirteenth = [w for c in self.cards[252:276] for w in c['words']]
+        self.assertEqual(len(thirteenth),98)
+        self.assertEqual([w[6]['id'] for w in thirteenth],[f'EX-{n:05d}' for n in range(1095,1193)])
+        self.assertTrue(all(w[6]['eligible'] and w[2] and w[3] for w in thirteenth))
+        self.assertEqual(sum(bool(w[6].get('translationReview')) for w in thirteenth),28)
+        fourteenth = [w for c in self.cards[276:300] for w in c['words']]
+        self.assertEqual(len(fourteenth),107)
+        self.assertEqual([w[6]['id'] for w in fourteenth],[f'EX-{n:05d}' for n in range(1193,1300)])
+        self.assertTrue(all(w[6]['eligible'] and w[2] and w[3] for w in fourteenth))
+        self.assertEqual(sum(bool(w[6].get('translationReview')) for w in fourteenth),35)
+        self.assertTrue(all(not w[2] and not w[3] for c in self.cards[300:] for w in c['words']))
         translations = json.loads((ROOT/'data/translations-12.json').read_text())
-        self.assertEqual(len(translations),913)
-        self.assertEqual(sum(bool(t.get('reviewFlag')) for t in translations.values()),401)
+        self.assertEqual(len(translations),1297)
+        self.assertEqual(sum(bool(t.get('reviewFlag')) for t in translations.values()),525)
         self.assertEqual(sum(bool(w[6].get('translationReview')) for w in third),40)
         self.assertEqual(sum(bool(w[6].get('translationReview')) for w in fourth),46)
         self.assertEqual(sum(bool(w[6].get('translationReview')) for w in fifth),29)
@@ -104,7 +128,7 @@ class ImportTests(unittest.TestCase):
         self.assertEqual([w[6]['id'] for w in fifth],[f'EX-{n:05d}' for n in range(305,359)])
         self.assertEqual([w[6]['id'] for w in sixth],[f'EX-{n:05d}' for n in range(359,466)])
         self.assertEqual([w[6]['id'] for w in seventh],[f'EX-{n:05d}' for n in range(466,575)])
-        for w in first + second + third + fourth + fifth + sixth + seventh + eighth + ninth + tenth:
+        for w in first + second + third + fourth + fifth + sixth + seventh + eighth + ninth + tenth + thirteenth + fourteenth + [w for w in eleventh + twelfth if w[6]['eligible']]:
             t = translations[w[6]['id']]
             self.assertEqual((w[0],w[1]),(t['jp'],t['romaji']))
             self.assertEqual((w[2],w[3]),(t['ru'],t['en']))
@@ -114,6 +138,26 @@ class ImportTests(unittest.TestCase):
 
     def test_previous_translation_entries_preserved(self):
         translations = json.loads((ROOT/'data/translations-12.json').read_text())
+        previous = {k: v for k, v in translations.items() if int(k[3:]) <= 1192}
+        normalized = json.dumps(previous,sort_keys=True,ensure_ascii=False,separators=(',',':')).encode()
+        # Full first-276 baseline before adding kanji 277–300.
+        self.assertEqual(hashlib.sha256(normalized).hexdigest(),
+                         'e4bae1616a15920449603755296e561b8e44434d7bcddd87b198bec337b5b8a2')
+        previous = {k: v for k, v in translations.items() if int(k[3:]) <= 1094}
+        normalized = json.dumps(previous,sort_keys=True,ensure_ascii=False,separators=(',',':')).encode()
+        # Full first-252 baseline before adding kanji 253–276.
+        self.assertEqual(hashlib.sha256(normalized).hexdigest(),
+                         '3b79f76d51bb5bc81b22c0caba3cb3fec256bdfc19b69986c483e68d0194963a')
+        previous = {k: v for k, v in translations.items() if int(k[3:]) <= 1008}
+        normalized = json.dumps(previous,sort_keys=True,ensure_ascii=False,separators=(',',':')).encode()
+        # Full first-228 baseline before adding kanji 229–252.
+        self.assertEqual(hashlib.sha256(normalized).hexdigest(),
+                         'aa5efae0f35515d151d1ea661179bae4ece4e5cd47aed6489b1175e4271b6662')
+        previous = {f'EX-{n:05d}': translations[f'EX-{n:05d}'] for n in range(1,914)}
+        normalized = json.dumps(previous,sort_keys=True,ensure_ascii=False,separators=(',',':')).encode()
+        # Full first-204 baseline before adding kanji 205–228.
+        self.assertEqual(hashlib.sha256(normalized).hexdigest(),
+                         'd144b0c83f545d208ec00034e3808581dea3e89b681d87b87e523f6183263122')
         previous = {f'EX-{n:05d}': translations[f'EX-{n:05d}'] for n in range(1,97)}
         normalized = json.dumps(previous,sort_keys=True,ensure_ascii=False,separators=(',',':')).encode()
         # Baseline from c5a6f68; change only after explicitly reviewing earlier translations.

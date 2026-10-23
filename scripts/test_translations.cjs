@@ -39,6 +39,14 @@ const base = process.env.CARDS_BASE_URL || 'http://127.0.0.1:8765';
         assert.deepEqual(actual.map(w => w.id), expected.map(w => w[6].id), 'Example order');
         for (let n = 0; n < actual.length; n++) {
           const w = expected[n], t = translations[w[6].id], a = actual[n];
+          if (!w[6].eligible) {
+            assert.equal(t, undefined, `${a.id} no invented translation for a deferred record`);
+            assert.equal(a.jp, w[0], `${a.id} original template`);
+            assert.equal(a.romaji, undefined, `${a.id} no invented reading`);
+            assert.equal(a.meaning, undefined, `${a.id} no invented meaning`);
+            assert.match(a.review, /template|шаблон/i, `${a.id} reference label`);
+            continue;
+          }
           assert.equal(a.jp, t.jp, `${a.id} Japanese`);
           assert.equal(a.romaji, t.romaji, `${a.id} workbook H`);
           assert.equal(a.meaning, t[lang], `${a.id} ${lang}`);

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "sourceWorkbook": "OnKun_Translations_1-300_2026-10-23 upd hide readings.xlsx",
+  "sourceSha256": "0bb4620b96fd898b4c1e5ccebe729f3f12689cadb95aa7562909d3dacda59972",
+  "sourceSheet": "OnKun Examples hide readings ",
+  "sourceColumn": "Hide from website",
+  "hiddenExampleIds": [
+    "EX-00008",
+    "EX-00011",
+    "EX-00024",
+    "EX-00030",
+    "EX-00036",
+    "EX-00046",
+    "EX-00130",
+    "EX-00142",
+    "EX-00144",
+    "EX-00159",
+    "EX-00164",
+    "EX-00407",
+    "EX-00455",
+    "EX-00475",
+    "EX-01006",
+    "EX-01007",
+    "EX-01197",
+    "EX-01223",
+    "EX-01257",
+    "EX-01264"
+  ]
+}
