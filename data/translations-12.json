@@ -17694,5 +17694,1475 @@
       }
     ],
     "reviewFlag": "sense-selection"
+  },
+  "EX-01009": {
+    "jp": "額縁",
+    "romaji": "gakubuchi",
+    "ru": "рама для картины",
+    "en": "picture frame",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E9%A1%8D%E7%B8%81-43785"
+      }
+    ]
+  },
+  "EX-01010": {
+    "jp": "金額",
+    "romaji": "kingaku",
+    "ru": "денежная сумма",
+    "en": "sum of money",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E9%87%91%E9%A1%8D-480828"
+      }
+    ]
+  },
+  "EX-01011": {
+    "jp": "前額部",
+    "romaji": "zengakubu",
+    "ru": "лобная область",
+    "en": "forehead; frontal region",
+    "noteRu": "Область лба; перевод сочетания 前額 и 部.",
+    "noteEn": "The forehead region; 前額 combined with 部.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E9%A1%8D-460037"
+      }
+    ]
+  },
+  "EX-01012": {
+    "jp": "額",
+    "romaji": "hitai",
+    "ru": "лоб",
+    "en": "forehead",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E9%A1%8D-460037"
+      }
+    ]
+  },
+  "EX-01013": {
+    "jp": "顎関節",
+    "romaji": "gakukansetsu",
+    "ru": "височно-нижнечелюстной сустав",
+    "en": "temporomandibular joint",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E9%A1%8E%E9%96%A2%E7%AF%80-43566"
+      }
+    ]
+  },
+  "EX-01014": {
+    "jp": "顎",
+    "romaji": "ago",
+    "ru": "челюсть; подбородок",
+    "en": "jaw; chin",
+    "noteRu": "Челюсть или подбородок в зависимости от контекста.",
+    "noteEn": "Jaw or chin, depending on context.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E9%A1%8E-24913"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01015": {
+    "jp": "掛ける",
+    "romaji": "kakeru",
+    "ru": "вешать; накрывать; затрачивать; умножать",
+    "en": "hang; cover; spend; multiply",
+    "noteRu": "Переходный многозначный глагол. Например, одеялом накрывают, время затрачивают, числа умножают.",
+    "noteEn": "A transitive verb with many senses: cover with a blanket, spend time, multiply numbers.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%8E%9B%E3%81%91%E3%82%8B-461286"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01016": {
+    "jp": "掛かる",
+    "romaji": "kakaru",
+    "ru": "висеть; требовать времени или денег; попадаться",
+    "en": "hang; take time; cost; get caught",
+    "noteRu": "Непереходный глагол: картина висит, работа требует времени, рыба попадается на крючок.",
+    "noteEn": "Intransitive: a picture hangs, work takes time, a fish gets caught on a hook.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%8E%9B%E3%82%8B-459476"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01017": {
+    "jp": "掛",
+    "romaji": "kakari",
+    "ru": "зацепление; расходы; устройство",
+    "en": "engagement; expenses; construction",
+    "noteRu": "掛 с чтением kakari: зацепление, затраты или устройство вещи. Не смешивать с 係 «ответственный; отдел».",
+    "noteEn": "掛 read kakari: catching or engagement, expenses, or construction. Distinct from 係, a person in charge or department.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%8E%9B%E3%82%8A-459438"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01018": {
+    "jp": "干潟",
+    "romaji": "higata",
+    "ru": "приливная отмель; осушка",
+    "en": "tidal flat",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%B9%B2%E6%BD%9F-119188"
+      }
+    ]
+  },
+  "EX-01020": {
+    "jp": "括弧",
+    "romaji": "kakko",
+    "ru": "скобки",
+    "en": "brackets; parentheses",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%8B%AC%E5%BC%A7-464216"
+      }
+    ]
+  },
+  "EX-01021": {
+    "jp": "一括",
+    "romaji": "ikkatsu",
+    "ru": "объединение в одно целое; всё разом",
+    "en": "combining into one; in a lump; all at once",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E4%B8%80%E6%8B%AC-433955"
+      }
+    ]
+  },
+  "EX-01022": {
+    "jp": "包括",
+    "romaji": "hōkatsu",
+    "ru": "охват; включение в общее целое",
+    "en": "inclusion; encompassing",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%8C%85%E6%8B%AC-627223"
+      }
+    ]
+  },
+  "EX-01023": {
+    "jp": "活動",
+    "romaji": "katsudō",
+    "ru": "деятельность; активность",
+    "en": "activity",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%B4%BB%E5%8B%95-464469"
+      }
+    ]
+  },
+  "EX-01024": {
+    "jp": "活力",
+    "romaji": "katsuryoku",
+    "ru": "жизненная сила; энергия",
+    "en": "vitality; energy",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%B4%BB%E5%8A%9B-464661"
+      }
+    ]
+  },
+  "EX-01025": {
+    "jp": "生活",
+    "romaji": "seikatsu",
+    "ru": "жизнь; быт; средства к существованию",
+    "en": "life; everyday living; livelihood",
+    "noteRu": "Может обозначать образ жизни, повседневный быт или материальное обеспечение.",
+    "noteEn": "May refer to a way of life, everyday living, or one's livelihood.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E7%94%9F%E6%B4%BB-530882"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01026": {
+    "jp": "喝破",
+    "romaji": "kappa",
+    "ru": "разоблачение; точное выявление сути",
+    "en": "exposing; correctly identifying the essence",
+    "noteRu": "Словесно раскрыть ошибку, ложь или самую суть дела.",
+    "noteEn": "To expose an error or falsehood, or state the essence of a matter precisely.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%96%9D%E7%A0%B4-464504"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01027": {
+    "jp": "一喝",
+    "romaji": "ikkatsu",
+    "ru": "громкий окрик; резкая отповедь",
+    "en": "a sharp shout; a stern rebuke",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E4%B8%80%E5%96%9D-433956"
+      }
+    ]
+  },
+  "EX-01028": {
+    "jp": "恐喝",
+    "romaji": "kyōkatsu",
+    "ru": "вымогательство; шантаж",
+    "en": "extortion; blackmail",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%81%90%E5%96%9D-477892"
+      }
+    ]
+  },
+  "EX-01029": {
+    "jp": "渇望",
+    "romaji": "katsubō",
+    "ru": "страстное желание; жажда",
+    "en": "ardent desire; craving",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%B8%87%E6%9C%9B-464570"
+      }
+    ]
+  },
+  "EX-01030": {
+    "jp": "渇水",
+    "romaji": "kassui",
+    "ru": "маловодье; нехватка воды",
+    "en": "low water; water shortage",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%B8%87%E6%B0%B4-464360"
+      }
+    ]
+  },
+  "EX-01031": {
+    "jp": "渇く",
+    "romaji": "kawaku",
+    "ru": "испытывать жажду",
+    "en": "be thirsty",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%B8%87%E3%81%8F-468604"
+      }
+    ]
+  },
+  "EX-01032": {
+    "jp": "渇き",
+    "romaji": "kawaki",
+    "ru": "жажда",
+    "en": "thirst",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%B8%87%E3%81%8D-468595"
+      }
+    ]
+  },
+  "EX-01033": {
+    "jp": "割愛",
+    "romaji": "katsuai",
+    "ru": "с сожалением опускать; неохотно расставаться",
+    "en": "reluctantly omit; part with reluctantly",
+    "noteRu": "Опустить ценную часть текста или расстаться с чем-то дорогим, хотя жаль это делать.",
+    "noteEn": "To omit a valued part of a text or part with something cherished, despite reluctance.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%89%B2%E6%84%9B-464080"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01034": {
+    "jp": "割拠",
+    "romaji": "kakkyo",
+    "ru": "владение отдельными территориями соперничающими силами",
+    "en": "rival powers holding separate territories",
+    "noteRu": "О соперничающих правителях или группировках, каждая из которых удерживает свою территорию.",
+    "noteEn": "Rival rulers or factions each holding their own territory.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%89%B2%E6%8B%A0-464184"
+      }
+    ]
+  },
+  "EX-01035": {
+    "jp": "分割",
+    "romaji": "bunkatsu",
+    "ru": "разделение; разбиение на части",
+    "en": "division; partition",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%88%86%E5%89%B2-128356"
+      }
+    ]
+  },
+  "EX-01036": {
+    "jp": "割る",
+    "romaji": "waru",
+    "ru": "разбивать; делить; разбавлять",
+    "en": "break; divide; dilute",
+    "noteRu": "Переходный глагол: разбить предмет, разделить число или разбавить напиток.",
+    "noteEn": "Transitive: break an object, divide a number, or dilute a drink.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%89%B2%E3%82%8B-665840"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01037": {
+    "jp": "割がいい",
+    "romaji": "wari ga ii",
+    "ru": "быть выгодным; хорошо оплачиваться",
+    "en": "be worthwhile; pay well",
+    "noteRu": "О хорошем соотношении вознаграждения и затраченных усилий.",
+    "noteEn": "A favorable return in relation to the effort involved.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%89%B2%E3%81%8C%E3%81%84%E3%81%84-2094429"
+      }
+    ]
+  },
+  "EX-01038": {
+    "jp": "割合",
+    "romaji": "wariai",
+    "ru": "доля; соотношение; сравнительно",
+    "en": "proportion; ratio; relatively",
+    "noteRu": "Существительное «доля, соотношение»; как наречие — «сравнительно».",
+    "noteEn": "A noun meaning proportion or ratio; also an adverb meaning relatively.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%89%B2%E5%90%88-665736"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01039": {
+    "jp": "割に",
+    "romaji": "wari ni",
+    "ru": "сравнительно; для; несмотря на",
+    "en": "relatively; for; considering",
+    "noteRu": "Самостоятельно — «сравнительно»; после характеристики — «для / учитывая», часто с оттенком неожиданности.",
+    "noteEn": "On its own, relatively; after a description, for or considering, often implying a contrast with expectations.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%89%B2%E3%81%AB-665792"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01040": {
+    "jp": "五割",
+    "romaji": "gowari",
+    "ru": "пятьдесят процентов; половина",
+    "en": "fifty percent; one half",
+    "noteRu": "Один 割 равен десяти процентам.",
+    "noteEn": "One 割 equals ten percent.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%89%B2-464069"
+      }
+    ]
+  },
+  "EX-01041": {
+    "jp": "割れる",
+    "romaji": "wareru",
+    "ru": "разбиваться; раскалываться; разделяться во мнениях",
+    "en": "break; split; be divided in opinion",
+    "noteRu": "Непереходный глагол: предмет разбивается, голоса или мнения разделяются.",
+    "noteEn": "Intransitive: an object breaks, or votes and opinions are divided.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%89%B2%E3%82%8C%E3%82%8B-665958"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01042": {
+    "jp": "ひび割れ",
+    "romaji": "hibiware",
+    "ru": "трещина; растрескивание",
+    "en": "crack; cracking",
+    "noteRu": "О трещинах в материале; переносно — о разладе в отношениях.",
+    "noteEn": "Cracks in a material; figuratively, a rift in a relationship.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%BD%85%E5%89%B2-2078218"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01043": {
+    "jp": "割く",
+    "romaji": "saku",
+    "ru": "выделять; уделять время, место или силы",
+    "en": "allocate; spare time, space, or effort",
+    "noteRu": "Для написания 割く — выделить часть времени, места или людей. Физическое разрывание обычно пишут 裂く.",
+    "noteEn": "With the spelling 割く, allocate time, space, or personnel. Physical tearing is usually written 裂く.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E8%A3%82%E3%81%8F-509509"
+      }
+    ]
+  },
+  "EX-01044": {
+    "jp": "葛藤",
+    "romaji": "kattō",
+    "ru": "конфликт; внутреннее противоречие",
+    "en": "conflict; inner struggle",
+    "noteRu": "Столкновение сторон или противоречивых чувств и побуждений внутри человека.",
+    "noteEn": "Conflict between parties or between opposing feelings and impulses within a person.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E8%91%9B%E8%97%A4-45327"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01045": {
+    "jp": "葛",
+    "romaji": "kuzu",
+    "ru": "кудзу",
+    "en": "kudzu",
+    "noteRu": "Вьющееся растение; из его корней получают крахмал.",
+    "noteEn": "A climbing plant whose roots are used to obtain starch.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E8%91%9B-462781"
+      }
+    ]
+  },
+  "EX-01046": {
+    "jp": "葛湯",
+    "romaji": "kuzuyu",
+    "ru": "горячий сладкий напиток из крахмала кудзу",
+    "en": "hot sweet kudzu-starch drink",
+    "noteRu": "Густой напиток из крахмала кудзу, сахара и горячей воды.",
+    "noteEn": "A thick drink made with kudzu starch, sugar, and hot water.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E8%91%9B%E6%B9%AF-483609"
+      }
+    ]
+  },
+  "EX-01047": {
+    "jp": "滑走",
+    "romaji": "kassō",
+    "ru": "скольжение; разбег или пробег самолёта",
+    "en": "gliding; an aircraft's takeoff or landing run",
+    "noteRu": "Скольжение по поверхности; в авиации — движение самолёта по земле при взлёте или посадке.",
+    "noteEn": "Sliding over a surface; in aviation, an aircraft's ground run during takeoff or landing.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%BB%91%E8%B5%B0-464390"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01048": {
+    "jp": "滑降",
+    "romaji": "kakkō",
+    "ru": "скоростной спуск; спуск на лыжах",
+    "en": "downhill skiing; downhill descent",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%BB%91%E9%99%8D-45169"
+      }
+    ]
+  },
+  "EX-01049": {
+    "jp": "円滑",
+    "romaji": "enkatsu",
+    "ru": "плавный; беспрепятственный; слаженный",
+    "en": "smooth; trouble-free; harmonious",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%86%86%E6%BB%91-447401"
+      }
+    ]
+  },
+  "EX-01050": {
+    "jp": "滑稽",
+    "romaji": "kokkei",
+    "ru": "смешной; комичный; нелепый",
+    "en": "funny; comical; ridiculous",
+    "noteRu": "Может быть добродушно смешным или нелепым и достойным осмеяния.",
+    "noteEn": "May mean amusing or comical, or ridiculous and deserving ridicule.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%BB%91%E7%A8%BD-65263"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01051": {
+    "jp": "滑る",
+    "romaji": "suberu",
+    "ru": "скользить; поскальзываться; провалиться на экзамене",
+    "en": "slide; slip; fail an examination",
+    "noteRu": "Помимо движения, разговорно — не пройти экзамен или отбор.",
+    "noteEn": "Besides movement, colloquially means to fail an examination or selection.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%BB%91%E3%82%8B-543307"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01052": {
+    "jp": "滑り",
+    "romaji": "suberi",
+    "ru": "скольжение; способность скользить",
+    "en": "sliding; ease of sliding",
+    "noteRu": "Именно чтение suberi: скольжение и то, насколько хорошо что-либо скользит.",
+    "noteEn": "Specifically suberi: sliding or how readily something slides.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%BB%91%E3%82%8A-543284"
+      }
+    ]
+  },
+  "EX-01053": {
+    "jp": "滑らかだ",
+    "romaji": "nameraka da",
+    "ru": "гладкий; плавный; беглый",
+    "en": "smooth; flowing; fluent",
+    "noteRu": "О поверхности, движении или речи.",
+    "noteEn": "Describes a surface, movement, or speech.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%BB%91%E3%82%89%E3%81%8B-543277"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01054": {
+    "jp": "褐色",
+    "romaji": "katsuiro",
+    "ru": "густой тёмно-синий цвет",
+    "en": "deep dark indigo; navy blue",
+    "noteRu": "При чтении katsuiro — почти чёрный индиго, также kachiiro. Значение «коричневый» относится к чтению kasshoku.",
+    "noteEn": "Read katsuiro, a nearly black indigo, also called kachiiro. The brown sense belongs to the reading kasshoku.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E8%A4%90%E8%89%B2-192695"
+      }
+    ]
+  },
+  "EX-01055": {
+    "jp": "茶褐色",
+    "romaji": "chakasshoku",
+    "ru": "коричневый; бурый",
+    "en": "brown; brownish",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E8%8C%B6%E8%A4%90%E8%89%B2-566626"
+      }
+    ]
+  },
+  "EX-01056": {
+    "jp": "管轄",
+    "romaji": "kankatsu",
+    "ru": "юрисдикция; ведение",
+    "en": "jurisdiction; administrative control",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E7%AE%A1%E8%BD%84-48518"
+      }
+    ]
+  },
+  "EX-01057": {
+    "jp": "所轄",
+    "romaji": "shokatsu",
+    "ru": "ведение; территориальная компетенция",
+    "en": "jurisdiction; local administrative responsibility",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%89%80%E8%BD%84-533943"
+      }
+    ]
+  },
+  "EX-01058": {
+    "jp": "直轄",
+    "romaji": "chokkatsu",
+    "ru": "прямое подчинение; непосредственное управление",
+    "en": "direct control; direct jurisdiction",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E7%9B%B4%E8%BD%84-569492"
+      }
+    ]
+  },
+  "EX-01059": {
+    "jp": "且つ",
+    "romaji": "katsu",
+    "ru": "и; а также; к тому же",
+    "en": "and; as well as; moreover",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E4%B8%94%E3%81%A4-464062"
+      }
+    ]
+  },
+  "EX-01060": {
+    "jp": "株",
+    "romaji": "kabu",
+    "ru": "пень; куст; акция; штамм",
+    "en": "stump; plant clump; share; strain",
+    "noteRu": "Остаток ствола, отдельный куст растения, доля в капитале или биологический штамм. Значение зависит от области.",
+    "noteEn": "A tree stump, a plant clump, a share in a company, or a biological strain, depending on the field.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%A0%AA-46181"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01061": {
+    "jp": "株式",
+    "romaji": "kabushiki",
+    "ru": "акции; доли в акционерном капитале",
+    "en": "shares; stock",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%A0%AA%E5%BC%8F-2414"
+      }
+    ]
+  },
+  "EX-01062": {
+    "jp": "釜",
+    "romaji": "kama",
+    "ru": "котёл; котелок; чайный котёл",
+    "en": "cooking pot; cauldron; tea kettle",
+    "noteRu": "Глубокий сосуд для варки риса или кипячения воды; в чайной церемонии — котёл для воды.",
+    "noteEn": "A deep vessel for cooking rice or boiling water; also the water kettle used in the tea ceremony.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E9%87%9C-46502"
+      }
+    ]
+  },
+  "EX-01063": {
+    "jp": "鎌",
+    "romaji": "kama",
+    "ru": "серп",
+    "en": "sickle",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E9%8E%8C-46504"
+      }
+    ]
+  },
+  "EX-01064": {
+    "jp": "鎌倉時代",
+    "romaji": "kamakurajidai",
+    "ru": "период Камакура",
+    "en": "Kamakura period",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E9%8E%8C%E5%80%89%E6%99%82%E4%BB%A3-46541"
+      }
+    ]
+  },
+  "EX-01065": {
+    "jp": "刈る",
+    "romaji": "karu",
+    "ru": "жать; косить; стричь",
+    "en": "reap; mow; trim",
+    "noteRu": "Срезать траву, злаки или волосы.",
+    "noteEn": "To cut grass, crops, or hair.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%88%88%E3%82%8B-468089"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01066": {
+    "jp": "刈り入れ",
+    "romaji": "kariire",
+    "ru": "жатва; уборка урожая",
+    "en": "reaping; harvest",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%88%88%E5%85%A5%E3%82%8C-467771"
+      }
+    ]
+  },
+  "EX-01067": {
+    "jp": "干渉",
+    "romaji": "kanshō",
+    "ru": "вмешательство; интерференция",
+    "en": "interference; intervention",
+    "noteRu": "Вмешательство в чужие дела; в физике — интерференция волн.",
+    "noteEn": "Interference in others' affairs; in physics, wave interference.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%B9%B2%E6%B8%89-48890"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01068": {
+    "jp": "干潮",
+    "romaji": "kanchō",
+    "ru": "отлив; малая вода",
+    "en": "low tide",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%B9%B2%E6%BD%AE-49257"
+      }
+    ]
+  },
+  "EX-01069": {
+    "jp": "若干",
+    "romaji": "jakkan",
+    "ru": "некоторое количество; несколько; немного",
+    "en": "some; a few; a little",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E8%8B%A5%E5%B9%B2-525396"
+      }
+    ]
+  },
+  "EX-01070": {
+    "jp": "干す",
+    "romaji": "hosu",
+    "ru": "сушить; осушать; лишать работы",
+    "en": "dry; drain; deprive of work",
+    "noteRu": "Развесить для сушки, удалить воду; переносно — перестать давать человеку работу.",
+    "noteEn": "Hang out to dry or drain water; figuratively, stop giving someone work.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%B9%B2%E3%81%99-630091"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01071": {
+    "jp": "干し物",
+    "romaji": "hoshimono",
+    "ru": "вещи, развешенные для сушки; бельё на просушке",
+    "en": "things hung out to dry; laundry",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%B9%B2%E7%89%A9-120933"
+      }
+    ]
+  },
+  "EX-01072": {
+    "jp": "干上がる",
+    "romaji": "hiagaru",
+    "ru": "высыхать; пересыхать; лишаться средств к существованию",
+    "en": "dry up; lose one's livelihood",
+    "noteRu": "Буквально — высохнуть или обнажиться при отливе; переносно — остаться без дохода.",
+    "noteEn": "Literally, dry up or become exposed at low tide; figuratively, lose one's income.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%B9%B2%E4%B8%8A%E3%82%8B-607620"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01073": {
+    "jp": "干物",
+    "romaji": "himono",
+    "ru": "сушёная рыба или морепродукты",
+    "en": "dried fish or seafood",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%B9%B2%E7%89%A9-120933"
+      }
+    ]
+  },
+  "EX-01074": {
+    "jp": "潮干狩り",
+    "romaji": "shiohigari",
+    "ru": "сбор моллюсков во время отлива",
+    "en": "shellfish gathering at low tide",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "ブリタニカ国際大百科事典 小項目事典",
+        "url": "https://kotobank.jp/word/%E6%BD%AE%E5%B9%B2%E7%8B%A9%E3%82%8A-3181457"
+      }
+    ]
+  },
+  "EX-01075": {
+    "jp": "刊行",
+    "romaji": "kankō",
+    "ru": "издание; публикация",
+    "en": "publication; publishing",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%88%8A%E8%A1%8C-469706"
+      }
+    ]
+  },
+  "EX-01076": {
+    "jp": "発刊",
+    "romaji": "hakkan",
+    "ru": "выпуск издания; начало издания",
+    "en": "publication; launching a publication",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%99%BA%E5%88%8A-602313"
+      }
+    ]
+  },
+  "EX-01077": {
+    "jp": "週刊",
+    "romaji": "shūkan",
+    "ru": "еженедельный выпуск",
+    "en": "weekly publication",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E9%80%B1%E5%88%8A-526406"
+      }
+    ]
+  },
+  "EX-01078": {
+    "jp": "甘言",
+    "romaji": "kangen",
+    "ru": "льстивые речи; сладкие посулы",
+    "en": "flattery; sweet talk",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E7%94%98%E8%A8%80-469652"
+      }
+    ]
+  },
+  "EX-01079": {
+    "jp": "甘受",
+    "romaji": "kanju",
+    "ru": "принятие как неизбежного; смирение",
+    "en": "acquiescence; resigned acceptance",
+    "noteRu": "Принимать положение или обращение без возражений, часто нежелательное.",
+    "noteEn": "To accept a situation or treatment without objection, often something unwelcome.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E7%94%98%E5%8F%97-470071"
+      }
+    ]
+  },
+  "EX-01080": {
+    "jp": "甘味料",
+    "romaji": "kanmiryō",
+    "ru": "подсластитель",
+    "en": "sweetener",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E7%94%98%E5%91%B3%E6%96%99-49669"
+      }
+    ]
+  },
+  "EX-01081": {
+    "jp": "甘い",
+    "romaji": "amai",
+    "ru": "сладкий; мягкий; снисходительный; наивный",
+    "en": "sweet; mild; lenient; naive",
+    "noteRu": "О вкусе, мягкости обращения или недостаточной строгости и реалистичности оценки.",
+    "noteEn": "Describes taste, gentleness in treatment, or insufficient strictness and realism in judgment.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E7%94%98%E3%81%84-22206"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01082": {
+    "jp": "甘み",
+    "romaji": "amami",
+    "ru": "сладость; сладкий вкус",
+    "en": "sweetness; sweet taste",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E7%94%98%E3%81%BF-427173"
+      }
+    ]
+  },
+  "EX-01083": {
+    "jp": "甘える",
+    "romaji": "amaeru",
+    "ru": "ласкаться; искать заботы; пользоваться чьей-либо добротой",
+    "en": "seek affection; depend on someone's kindness",
+    "noteRu": "Искать ласки и снисхождения; также позволить себе воспользоваться чужим добрым предложением.",
+    "noteEn": "To seek affection or indulgence; also to take advantage of a kind offer.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E7%94%98%E3%81%88%E3%82%8B-426881"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01084": {
+    "jp": "甘やかす",
+    "romaji": "amayakasu",
+    "ru": "баловать; потакать",
+    "en": "pamper; spoil",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%94%98%E3%82%84%E3%81%8B%E3%81%99-427198"
+      }
+    ]
+  },
+  "EX-01085": {
+    "jp": "汗顔",
+    "romaji": "kangan",
+    "ru": "стыд; чувство глубокого смущения",
+    "en": "shame; mortification",
+    "noteRu": "Выражение стыда, от которого выступает пот; не просто «потное лицо».",
+    "noteEn": "Shame or embarrassment that makes one sweat; not merely a sweaty face.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%B1%97%E9%A1%94-469402"
+      }
+    ]
+  },
+  "EX-01086": {
+    "jp": "発汗",
+    "romaji": "hakkan",
+    "ru": "потоотделение",
+    "en": "perspiration; sweating",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E7%99%BA%E6%B1%97-114921"
+      }
+    ]
+  },
+  "EX-01087": {
+    "jp": "汗",
+    "romaji": "ase",
+    "ru": "пот",
+    "en": "sweat; perspiration",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%B1%97-25641"
+      }
+    ]
+  },
+  "EX-01088": {
+    "jp": "汗ばむ",
+    "romaji": "asebamu",
+    "ru": "слегка вспотеть; покрываться испариной",
+    "en": "become slightly sweaty; break into a light sweat",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%B1%97%E3%81%B0%E3%82%80-425041"
+      }
+    ]
+  },
+  "EX-01089": {
+    "jp": "缶",
+    "romaji": "kan",
+    "ru": "банка; металлическая ёмкость",
+    "en": "can; tin; metal container",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E7%BC%B6-468981"
+      }
+    ]
+  },
+  "EX-01090": {
+    "jp": "缶詰",
+    "romaji": "kanzume",
+    "ru": "консервы; консервирование; вынужденное пребывание взаперти",
+    "en": "canned food; canning; being confined indoors",
+    "noteRu": "О продуктах в банке и их консервировании; переносно — о человеке, надолго запертом работой или обстоятельствами.",
+    "noteEn": "Canned products and the process of canning; figuratively, being kept indoors by work or circumstances.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E7%BC%B6%E8%A9%B0-49272"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01091": {
+    "jp": "製缶",
+    "romaji": "seikan",
+    "ru": "изготовление металлических ёмкостей",
+    "en": "manufacture of cans, tanks, and boilers",
+    "noteRu": "Изготовление металлических банок, резервуаров и котлов; не консервирование продуктов.",
+    "noteEn": "Manufacturing metal cans, tanks, and boilers; not food canning.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E8%A3%BD%E7%BC%B6-544728"
+      }
+    ]
+  },
+  "EX-01092": {
+    "jp": "完全",
+    "romaji": "kanzen",
+    "ru": "полный; совершенный; безупречный",
+    "en": "complete; perfect; flawless",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%AE%8C%E5%85%A8-470543"
+      }
+    ]
+  },
+  "EX-01093": {
+    "jp": "完成",
+    "romaji": "kansei",
+    "ru": "завершение; окончание",
+    "en": "completion",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%AE%8C%E6%88%90-470378"
+      }
+    ]
+  },
+  "EX-01094": {
+    "jp": "未完",
+    "romaji": "mikan",
+    "ru": "незавершённый; неоконченный",
+    "en": "unfinished; incomplete",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-23",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Derived forms follow the source headword. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%9C%AA%E5%AE%8C-637313"
+      }
+    ]
   }
 }
