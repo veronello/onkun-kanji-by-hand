@@ -129,10 +129,17 @@ class ImportTests(unittest.TestCase):
         self.assertEqual([w[6]['id'] for w in seventeenth],[f'EX-{n:05d}' for n in range(1498,1616)])
         self.assertTrue(all(w[6]['eligible'] and w[2] and w[3] for w in seventeenth))
         self.assertEqual(sum(bool(w[6].get('translationReview')) for w in seventeenth),39)
-        self.assertTrue(all(not w[2] and not w[3] for c in self.cards[372:] for w in c['words']))
+        eighteenth = [w for c in self.cards[372:396] for w in c['words']]
+        self.assertEqual(len(eighteenth),109)
+        self.assertEqual([w[6]['id'] for w in eighteenth],[f'EX-{n:05d}' for n in range(1616,1725)])
+        self.assertEqual([w[6]['id'] for w in eighteenth if not w[6]['eligible']],['EX-01658'])
+        self.assertTrue(all(w[2] and w[3] for w in eighteenth if w[6]['eligible']))
+        self.assertTrue(all(not w[1] and not w[2] and not w[3] for w in eighteenth if not w[6]['eligible']))
+        self.assertEqual(sum(bool(w[6].get('translationReview')) for w in eighteenth),34)
+        self.assertTrue(all(not w[2] and not w[3] for c in self.cards[396:] for w in c['words']))
         translations = json.loads((ROOT/'data/translations-12.json').read_text())
-        self.assertEqual(len(translations),1613)
-        self.assertEqual(sum(bool(t.get('reviewFlag')) for t in translations.values()),653)
+        self.assertEqual(len(translations),1721)
+        self.assertEqual(sum(bool(t.get('reviewFlag')) for t in translations.values()),687)
         self.assertEqual(sum(bool(w[6].get('translationReview')) for w in third),40)
         self.assertEqual(sum(bool(w[6].get('translationReview')) for w in fourth),46)
         self.assertEqual(sum(bool(w[6].get('translationReview')) for w in fifth),29)
@@ -143,16 +150,21 @@ class ImportTests(unittest.TestCase):
         self.assertEqual([w[6]['id'] for w in fifth],[f'EX-{n:05d}' for n in range(305,359)])
         self.assertEqual([w[6]['id'] for w in sixth],[f'EX-{n:05d}' for n in range(359,466)])
         self.assertEqual([w[6]['id'] for w in seventh],[f'EX-{n:05d}' for n in range(466,575)])
-        for w in first + second + third + fourth + fifth + sixth + seventh + eighth + ninth + tenth + thirteenth + fourteenth + fifteenth + sixteenth + seventeenth + [w for w in eleventh + twelfth if w[6]['eligible']]:
+        for w in first + second + third + fourth + fifth + sixth + seventh + eighth + ninth + tenth + thirteenth + fourteenth + fifteenth + sixteenth + seventeenth + [w for w in eleventh + twelfth + eighteenth if w[6]['eligible']]:
             t = translations[w[6]['id']]
             self.assertEqual((w[0],w[1]),(t['jp'],t['romaji']))
             self.assertEqual((w[2],w[3]),(t['ru'],t['en']))
-            self.assertTrue(t['sources'] and all(s['url'].startswith(('https://kotobank.jp/','https://dictionary.goo.ne.jp/','https://www.kanjipedia.jp/','https://www.jlogos.com/','https://www.edrdg.org/')) for s in t['sources']))
+            self.assertTrue(t['sources'] and all(s['url'].startswith(('https://kotobank.jp/','https://dictionary.goo.ne.jp/','https://www.kanjipedia.jp/','https://www.jlogos.com/','https://www.edrdg.org/','https://www.bunka.go.jp/')) for s in t['sources']))
             self.assertEqual(w[6].get('translationReview'),t.get('reviewFlag'))
         self.assertEqual([c['id'] for c in self.cards if not c['words']],[1423])
 
     def test_previous_translation_entries_preserved(self):
         translations = json.loads((ROOT/'data/translations-12.json').read_text())
+        previous = {k: v for k, v in translations.items() if int(k[3:]) <= 1615}
+        normalized = json.dumps(previous,sort_keys=True,ensure_ascii=False,separators=(',',':')).encode()
+        # Complete first-372 baseline before adding cards 373–396.
+        self.assertEqual(hashlib.sha256(normalized).hexdigest(),
+                         '16b008cc3c6cec150357dec45fd8b1f395fd31770b271677d938d3f511a7e9bf')
         previous = {k: v for k, v in translations.items() if int(k[3:]) <= 1497}
         normalized = json.dumps(previous,sort_keys=True,ensure_ascii=False,separators=(',',':')).encode()
         # Complete first-348 baseline before adding cards 349–372.
