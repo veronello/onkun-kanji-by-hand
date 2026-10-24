@@ -33,9 +33,16 @@
     state = 'loading';
     render();
     try {
-      const [selection, manifest] = await Promise.all([
-        fetchJson('data/on-drill-selection.json'), fetchJson('data/excel/manifest.json')
+      const [selection, manifest, visibility] = await Promise.all([
+        fetchJson('data/on-drill-selection.json'), fetchJson('data/excel/manifest.json'),
+        fetchJson('data/drill-visibility.json')
       ]);
+      if (visibility.schemaVersion !== 1 || !Array.isArray(visibility.hiddenExampleIds) ||
+          !visibility.hiddenExampleIds.every(id => typeof id === 'string' && /^EX-\d{5}$/.test(id)) ||
+          new Set(visibility.hiddenExampleIds).size !== visibility.hiddenExampleIds.length) {
+        throw new Error('Invalid drill visibility');
+      }
+      const hiddenIds = new Set(visibility.hiddenExampleIds);
       const [first, last] = selection.cardRange;
       if (selection.schemaVersion !== 1 || !Number.isInteger(first) || !Number.isInteger(last) ||
           first < 1 || last < first || last > manifest.stats.kanji ||
@@ -67,8 +74,11 @@
       });
       // A different reading of the same spelling is a distinct task.
       if (seen.size !== selected.length) throw new Error('Duplicate ON task');
-      range = [Math.min(...selected.map(e => e.cardId)), Math.max(...selected.map(e => e.cardId))];
-      words = selected.map(e => e.word);
+      // Hiding an ID affects only the drill; approval and shared card records stay intact.
+      const visible = selected.filter(e => !hiddenIds.has(e.word[6].id));
+      if (!visible.length) throw new Error('No visible ON tasks');
+      range = [Math.min(...visible.map(e => e.cardId)), Math.max(...visible.map(e => e.cardId))];
+      words = visible.map(e => e.word);
       index = 0; revealed = false; finished = false; state = 'ready';
     } catch (error) {
       state = 'error';
