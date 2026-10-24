@@ -70,7 +70,9 @@ def main(source):
              json.loads((ROOT / 'data/excel' / chunk).read_text())]
     shared = {word[6]['id']: (card, word) for card in cards for word in card['words']}
     translations = json.loads((ROOT / 'data/translations-12.json').read_text())
-    assert translated_ids == set(translations)
+    # Later card batches may add translations beyond this drill's source range.
+    source_ids = {row['A'] for row in rows}
+    assert translated_ids == set(translations) & source_ids
     for row in rows:
         card, word = shared[row['A']]
         assert card['id'] == int(row['B']) and card['kanji'] == row['C'], row['A']
