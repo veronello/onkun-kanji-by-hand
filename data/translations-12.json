@@ -32367,5 +32367,1975 @@
         "url": "https://kotobank.jp/jeword/%E4%BB%B0%E3%81%9B"
       }
     ]
+  },
+  "EX-01857": {
+    "jp": "暁天",
+    "romaji": "gyōten",
+    "ru": "предрассветное небо; рассвет",
+    "en": "the dawn sky; daybreak",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%9A%81%E5%A4%A9-478715"
+      }
+    ]
+  },
+  "EX-01858": {
+    "jp": "今暁",
+    "romaji": "kongyō",
+    "ru": "сегодня на рассвете; ранним утром",
+    "en": "at dawn today; early this morning",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E4%BB%8A%E6%9A%81-505887"
+      }
+    ]
+  },
+  "EX-01859": {
+    "jp": "通暁",
+    "romaji": "tsūgyō",
+    "ru": "глубокое знание; всю ночь до рассвета",
+    "en": "thorough knowledge; throughout the night",
+    "noteRu": "Знать предмет досконально; другое значение — всю ночь, до наступления рассвета.",
+    "noteEn": "Knowing a subject thoroughly; another sense is throughout the night until dawn.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E9%80%9A%E6%9A%81-570466"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01860": {
+    "jp": "暁",
+    "romaji": "akatsuki",
+    "ru": "рассвет; наступление желанного момента",
+    "en": "dawn; the time when something is achieved",
+    "noteRu": "Также момент осуществления ожидаемого события.",
+    "noteEn": "Also the time when an anticipated event is accomplished.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%9A%81"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01861": {
+    "jp": "業績",
+    "romaji": "gyōseki",
+    "ru": "достижения; результаты деятельности",
+    "en": "achievements; performance results",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%A5%AD%E7%B8%BE"
+      }
+    ]
+  },
+  "EX-01862": {
+    "jp": "職業",
+    "romaji": "shokugyō",
+    "ru": "профессия; род занятий",
+    "en": "an occupation; a profession",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%81%B7%E6%A5%AD"
+      }
+    ]
+  },
+  "EX-01863": {
+    "jp": "卒業",
+    "romaji": "sotsugyō",
+    "ru": "окончание учебного заведения; выпуск",
+    "en": "graduation; completing one's schooling",
+    "noteRu": "Переносно — оставить позади прежнее занятие или привычку.",
+    "noteEn": "Figuratively, moving on from a former activity or habit.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%8D%92%E6%A5%AD"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01864": {
+    "jp": "業病",
+    "romaji": "gōbyō",
+    "ru": "тяжёлый недуг, считавшийся кармической расплатой",
+    "en": "a severe illness once attributed to bad karma",
+    "noteRu": "Историческое религиозное представление о болезни как воздаянии за прошлые деяния.",
+    "noteEn": "A historical religious view of illness as retribution for past deeds.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%A5%AD%E7%97%85-497237"
+      }
+    ]
+  },
+  "EX-01865": {
+    "jp": "罪業",
+    "romaji": "zaigō",
+    "ru": "греховные деяния; греховная карма",
+    "en": "sinful deeds; sinful karma",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E7%BD%AA%E6%A5%AD"
+      }
+    ]
+  },
+  "EX-01866": {
+    "jp": "自業自得",
+    "romaji": "jigōjitoku",
+    "ru": "что посеешь, то и пожнёшь; сам виноват",
+    "en": "reaping what one sows; having oneself to blame",
+    "noteRu": "О последствиях собственных поступков, обычно неблагоприятных.",
+    "noteEn": "The consequences of one's own actions, usually adverse.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%87%AA%E6%A5%AD%E8%87%AA%E5%BE%97"
+      }
+    ]
+  },
+  "EX-01867": {
+    "jp": "業",
+    "romaji": "waza",
+    "ru": "дело; деяние; работа",
+    "en": "an act; a deed; a task",
+    "noteRu": "При чтении waza — действие или дело; значение кармы относится к другому чтению.",
+    "noteEn": "At waza, an act or task; the karma sense belongs to a different reading.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%A5%AD"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01868": {
+    "jp": "仕業",
+    "romaji": "shiwaza",
+    "ru": "чьих-либо рук дело; поступок",
+    "en": "someone's doing; a deed",
+    "noteRu": "Часто о нежелательном поступке или результате чужих действий.",
+    "noteEn": "Often used of an undesirable act or the result of someone's actions.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E4%BB%95%E6%A5%AD"
+      }
+    ]
+  },
+  "EX-01869": {
+    "jp": "早業",
+    "romaji": "hayawaza",
+    "ru": "быстрый ловкий приём; молниеносная работа",
+    "en": "a quick feat; swift and skilful work",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%97%A9%E6%A5%AD"
+      }
+    ]
+  },
+  "EX-01870": {
+    "jp": "凝固",
+    "romaji": "gyōko",
+    "ru": "затвердевание; свёртывание",
+    "en": "solidification; coagulation",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%87%9D%E5%9B%BA"
+      }
+    ]
+  },
+  "EX-01871": {
+    "jp": "凝結",
+    "romaji": "gyōketsu",
+    "ru": "конденсация; сгущение; затвердевание",
+    "en": "condensation; coagulation; solidification",
+    "noteRu": "О переходе пара в жидкость, а также о сгущении или затвердевании вещества.",
+    "noteEn": "Used of vapour becoming liquid, or a substance thickening or solidifying.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%87%9D%E7%B5%90"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01872": {
+    "jp": "凝視",
+    "romaji": "gyōshi",
+    "ru": "пристальный взгляд; всматривание",
+    "en": "a fixed gaze; staring",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%87%9D%E8%A6%96"
+      }
+    ]
+  },
+  "EX-01873": {
+    "jp": "凝る",
+    "romaji": "koru",
+    "ru": "увлекаться; неметь от напряжения; быть затейливым",
+    "en": "to be absorbed in; to become stiff; to be elaborate",
+    "noteRu": "О сильном увлечении, напряжённых мышцах или тщательно продуманной отделке.",
+    "noteEn": "Used of a strong interest, tense muscles, or elaborate workmanship.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%87%9D%E3%82%8B"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01874": {
+    "jp": "凝り性",
+    "romaji": "korishō",
+    "ru": "склонность увлекаться до мелочей; перфекционизм",
+    "en": "an obsessive enthusiasm; perfectionism",
+    "noteRu": "О человеке, который увлечённо и дотошно занимается выбранным делом.",
+    "noteEn": "Describes someone who pursues an interest with enthusiasm and meticulous care.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%87%9D%E3%82%8A%E6%80%A7"
+      }
+    ]
+  },
+  "EX-01875": {
+    "jp": "凝らす",
+    "romaji": "korasu",
+    "ru": "сосредоточивать; напрягать; вкладывать выдумку",
+    "en": "to concentrate; to strain; to exercise ingenuity",
+    "noteRu": "О внимании, зрении, слухе, усилии или изобретательности.",
+    "noteEn": "Used of attention, sight, hearing, effort, or ingenuity.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%87%9D%E3%82%89%E3%81%99"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01876": {
+    "jp": "曲線",
+    "romaji": "kyokusen",
+    "ru": "кривая линия",
+    "en": "a curve",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%9B%B2%E7%B7%9A"
+      }
+    ]
+  },
+  "EX-01877": {
+    "jp": "曲面",
+    "romaji": "kyokumen",
+    "ru": "криволинейная поверхность",
+    "en": "a curved surface",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%9B%B2%E9%9D%A2"
+      }
+    ]
+  },
+  "EX-01878": {
+    "jp": "名曲",
+    "romaji": "meikyoku",
+    "ru": "музыкальный шедевр; знаменитое произведение",
+    "en": "a musical masterpiece; a celebrated piece",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%90%8D%E6%9B%B2"
+      }
+    ]
+  },
+  "EX-01879": {
+    "jp": "曲がる",
+    "romaji": "magaru",
+    "ru": "сгибаться; искривляться; поворачивать",
+    "en": "to bend; to curve; to turn",
+    "noteRu": "Непереходный глагол; также о повороте дороги или изменении направления.",
+    "noteEn": "Intransitive; also used of a bend in a road or a change of direction.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%9B%B2%E3%81%8C%E3%82%8B"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01880": {
+    "jp": "曲げる",
+    "romaji": "mageru",
+    "ru": "сгибать; искривлять; искажать",
+    "en": "to bend; to curve; to distort",
+    "noteRu": "Переходный глагол; переносно — искажать правду или поступаться принципами.",
+    "noteEn": "Transitive; figuratively, distorting the truth or compromising one's principles.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%9B%B2%E3%81%92%E3%82%8B"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01881": {
+    "jp": "局部",
+    "romaji": "kyokubu",
+    "ru": "отдельная часть; участок тела",
+    "en": "a particular part; a local area of the body",
+    "noteRu": "В анатомическом контексте также эвфемистическое обозначение половых органов.",
+    "noteEn": "In anatomical contexts, also a euphemism for the genitals.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%B1%80%E9%83%A8-479506"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01882": {
+    "jp": "時局",
+    "romaji": "jikyoku",
+    "ru": "текущая обстановка; положение дел",
+    "en": "the current situation; the state of affairs",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%99%82%E5%B1%80"
+      }
+    ]
+  },
+  "EX-01883": {
+    "jp": "結局",
+    "romaji": "kekkyoku",
+    "ru": "в конце концов; в итоге",
+    "en": "in the end; after all",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E7%B5%90%E5%B1%80"
+      }
+    ]
+  },
+  "EX-01884": {
+    "jp": "極限",
+    "romaji": "kyokugen",
+    "ru": "предел; крайняя степень",
+    "en": "a limit; an extreme",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%A5%B5%E9%99%90"
+      }
+    ]
+  },
+  "EX-01885": {
+    "jp": "終極",
+    "romaji": "shūkyoku",
+    "ru": "конечная точка; окончательный предел",
+    "en": "the ultimate end; the final limit",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%B5%82%E6%A5%B5-526543"
+      }
+    ]
+  },
+  "EX-01886": {
+    "jp": "積極的",
+    "romaji": "sekkyokuteki",
+    "ru": "инициативный; деятельный; активный",
+    "en": "proactive; active; eager to take action",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%A9%8D%E6%A5%B5%E7%9A%84-548001"
+      }
+    ]
+  },
+  "EX-01887": {
+    "jp": "極上",
+    "romaji": "gokujō",
+    "ru": "высший сорт; превосходное качество",
+    "en": "the finest quality; top grade",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%A5%B5%E4%B8%8A"
+      }
+    ]
+  },
+  "EX-01888": {
+    "jp": "極秘",
+    "romaji": "gokuhi",
+    "ru": "строжайшая тайна; совершенно секретно",
+    "en": "a top secret; strictly confidential",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%A5%B5%E7%A7%98"
+      }
+    ]
+  },
+  "EX-01889": {
+    "jp": "至極",
+    "romaji": "shigoku",
+    "ru": "чрезвычайно; в высшей степени",
+    "en": "extremely; most",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%87%B3%E6%A5%B5"
+      }
+    ]
+  },
+  "EX-01890": {
+    "jp": "極める",
+    "romaji": "kiwameru",
+    "ru": "достигать предела; доводить до крайности; окончательно решать",
+    "en": "to reach a limit; to carry to an extreme; to settle definitively",
+    "noteRu": "О достижении предела или высшей степени; также об окончательном решении.",
+    "noteEn": "Reaching a limit or the highest degree; also settling something definitively.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%A5%B5%E3%82%81%E3%82%8B-480683"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01891": {
+    "jp": "極め付き",
+    "romaji": "kiwametsuki",
+    "ru": "с удостоверенной подлинностью; общепризнанный",
+    "en": "certified genuine; acknowledged as outstanding",
+    "noteRu": "Первоначально о вещи с подтверждением подлинности; переносно — о признанном качестве или крайней выраженности.",
+    "noteEn": "Originally an article with proof of authenticity; figuratively, acknowledged quality or an extreme example.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%A5%B5%E3%82%81%E4%BB%98%E3%81%8D"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01892": {
+    "jp": "極めて",
+    "romaji": "kiwamete",
+    "ru": "крайне; чрезвычайно",
+    "en": "extremely; exceedingly",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%A5%B5%E3%82%81%E3%81%A6"
+      }
+    ]
+  },
+  "EX-01893": {
+    "jp": "極まる",
+    "romaji": "kiwamaru",
+    "ru": "достигать предела; доходить до крайности",
+    "en": "to reach a limit; to become extreme",
+    "noteRu": "Также усилитель крайней степени признака.",
+    "noteEn": "Also used to intensify a quality to an extreme degree.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%A5%B5%E3%81%BE%E3%82%8B"
+      }
+    ]
+  },
+  "EX-01894": {
+    "jp": "極まり",
+    "romaji": "kiwamari",
+    "ru": "предел; крайняя степень",
+    "en": "a limit; an extreme",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%A5%B5%E3%81%BE%E3%82%8A-480668"
+      }
+    ]
+  },
+  "EX-01895": {
+    "jp": "極み",
+    "romaji": "kiwami",
+    "ru": "вершина; высшая степень; предел",
+    "en": "the height; the utmost; a limit",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%A5%B5%E3%81%BF"
+      }
+    ]
+  },
+  "EX-01896": {
+    "jp": "玉座",
+    "romaji": "gyokuza",
+    "ru": "императорский трон",
+    "en": "the imperial throne",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E7%8E%89%E5%BA%A7"
+      }
+    ]
+  },
+  "EX-01897": {
+    "jp": "玉石",
+    "romaji": "gyokuseki",
+    "ru": "драгоценности и камни; ценное и никчёмное",
+    "en": "jewels and stones; the valuable and the worthless",
+    "noteRu": "При чтении gyokuseki: буквально драгоценности и обычные камни; переносно — хорошее и плохое.",
+    "noteEn": "At gyokuseki: literally jewels and ordinary stones; figuratively, good and bad things.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E7%8E%89%E7%9F%B3-94266"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01898": {
+    "jp": "宝玉",
+    "romaji": "hōgyoku",
+    "ru": "драгоценный камень; самоцвет",
+    "en": "a precious stone; a jewel",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%AE%9D%E7%8E%89-627338"
+      }
+    ]
+  },
+  "EX-01899": {
+    "jp": "玉",
+    "romaji": "tama",
+    "ru": "драгоценный камень; бусина; шарик",
+    "en": "a jewel; a bead; a ball",
+    "noteRu": "О драгоценном или округлом предмете; значение зависит от контекста.",
+    "noteEn": "A precious or rounded object; the exact sense depends on context.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E7%8E%89-53197"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01900": {
+    "jp": "目玉",
+    "romaji": "medama",
+    "ru": "глазное яблоко; главная приманка",
+    "en": "an eyeball; a main attraction",
+    "noteRu": "Переносно — особо привлекательный товар или главный пункт программы.",
+    "noteEn": "Figuratively, an especially attractive product or a programme's main feature.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E7%9B%AE%E7%8E%89"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01901": {
+    "jp": "頭巾",
+    "romaji": "zukin",
+    "ru": "капюшон; головной платок",
+    "en": "a hood; a head covering",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E9%A0%AD%E5%B7%BE"
+      }
+    ]
+  },
+  "EX-01902": {
+    "jp": "雑巾",
+    "romaji": "zōkin",
+    "ru": "тряпка для уборки",
+    "en": "a cleaning cloth; a rag",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E9%9B%91%E5%B7%BE"
+      }
+    ]
+  },
+  "EX-01903": {
+    "jp": "斤量",
+    "romaji": "kinryō",
+    "ru": "вес; нагрузка на скаковую лошадь",
+    "en": "weight; the weight carried by a racehorse",
+    "noteRu": "Общий вес; в скачках — установленный вес, который должна нести лошадь.",
+    "noteEn": "Weight in general; in horse racing, the assigned weight a horse must carry.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%96%A4%E9%87%8F-481964"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01904": {
+    "jp": "均等",
+    "romaji": "kintō",
+    "ru": "равенство; равномерность",
+    "en": "equality; evenness",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%9D%87%E7%AD%89"
+      }
+    ]
+  },
+  "EX-01905": {
+    "jp": "均一",
+    "romaji": "kin'itsu",
+    "ru": "однородность; единообразие",
+    "en": "uniformity; consistency",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%9D%87%E4%B8%80"
+      }
+    ]
+  },
+  "EX-01906": {
+    "jp": "平均",
+    "romaji": "heikin",
+    "ru": "среднее значение; в среднем; равновесие",
+    "en": "an average; on average; balance",
+    "noteRu": "Основное значение — средний показатель; также равновесие или уравновешенность.",
+    "noteEn": "Primarily an average value; also balance or equilibrium.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%B9%B3%E5%9D%87"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01907": {
+    "jp": "近所",
+    "romaji": "kinjo",
+    "ru": "соседство; окрестности",
+    "en": "the neighbourhood; the vicinity",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%BF%91%E6%89%80"
+      }
+    ]
+  },
+  "EX-01908": {
+    "jp": "近代",
+    "romaji": "kindai",
+    "ru": "Новое время; современная эпоха",
+    "en": "modern times; the modern era",
+    "noteRu": "Исторические границы зависят от страны и принятой периодизации.",
+    "noteEn": "The historical boundaries depend on the country and periodisation used.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%BF%91%E4%BB%A3"
+      }
+    ]
+  },
+  "EX-01909": {
+    "jp": "接近",
+    "romaji": "sekkin",
+    "ru": "приближение; сближение",
+    "en": "an approach; a rapprochement",
+    "noteRu": "О пространственной близости, уменьшении различий или сближении отношений.",
+    "noteEn": "Used of physical proximity, narrowing differences, or closer relations.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%8E%A5%E8%BF%91"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01910": {
+    "jp": "近い",
+    "romaji": "chikai",
+    "ru": "близкий; недалёкий; похожий",
+    "en": "near; close; similar",
+    "noteRu": "О расстоянии, времени, отношениях или сходстве.",
+    "noteEn": "Used of distance, time, relationships, or similarity.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%BF%91%E3%81%84"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01911": {
+    "jp": "近づく",
+    "romaji": "chikazuku",
+    "ru": "приближаться; подходить; сближаться",
+    "en": "to approach; to draw near; to become closer",
+    "noteRu": "О расстоянии, наступлении события или отношениях между людьми.",
+    "noteEn": "Used of distance, an approaching event, or relations between people.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E8%BF%91%E4%BB%98%E3%81%8F-565296"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01912": {
+    "jp": "近道",
+    "romaji": "chikamichi",
+    "ru": "короткий путь; более быстрый способ",
+    "en": "a shortcut; a quicker way",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%BF%91%E9%81%93"
+      }
+    ]
+  },
+  "EX-01913": {
+    "jp": "金属",
+    "romaji": "kinzoku",
+    "ru": "металл",
+    "en": "a metal",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E9%87%91%E5%B1%9E"
+      }
+    ]
+  },
+  "EX-01914": {
+    "jp": "金銭",
+    "romaji": "kinsen",
+    "ru": "деньги; денежные средства",
+    "en": "money; funds",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E9%87%91%E9%8A%AD"
+      }
+    ]
+  },
+  "EX-01915": {
+    "jp": "純金",
+    "romaji": "junkin",
+    "ru": "чистое золото",
+    "en": "pure gold",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E7%B4%94%E9%87%91"
+      }
+    ]
+  },
+  "EX-01916": {
+    "jp": "金色",
+    "romaji": "konjiki",
+    "ru": "золотой цвет; золотистый",
+    "en": "gold; golden-coloured",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E9%87%91%E8%89%B2"
+      }
+    ]
+  },
+  "EX-01917": {
+    "jp": "金剛力",
+    "romaji": "kongōriki",
+    "ru": "богатырская сила; огромная мощь",
+    "en": "prodigious strength; immense power",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E9%87%91%E5%89%9B%E5%8A%9B-506046"
+      }
+    ]
+  },
+  "EX-01918": {
+    "jp": "黄金",
+    "romaji": "ōgon",
+    "ru": "золото; золотой цвет; богатство",
+    "en": "gold; a golden colour; wealth",
+    "noteRu": "При чтении ōgon может обозначать металл, деньги или золотистое сияние.",
+    "noteEn": "At ōgon, it may refer to the metal, money, or a golden colour.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E9%BB%84%E9%87%91"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01919": {
+    "jp": "金",
+    "romaji": "kane",
+    "ru": "деньги; металл",
+    "en": "money; metal",
+    "noteRu": "При чтении kane основное бытовое значение — деньги; также металл.",
+    "noteEn": "At kane, the usual everyday sense is money; it can also mean metal.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E9%87%91"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01920": {
+    "jp": "金持ち",
+    "romaji": "kanemochi",
+    "ru": "богач; состоятельный человек",
+    "en": "a rich person; a wealthy person",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E9%87%91%E6%8C%81%E3%81%A1"
+      }
+    ]
+  },
+  "EX-01921": {
+    "jp": "針金",
+    "romaji": "harigane",
+    "ru": "проволока",
+    "en": "wire",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E9%87%9D%E9%87%91"
+      }
+    ]
+  },
+  "EX-01922": {
+    "jp": "金物",
+    "romaji": "kanamono",
+    "ru": "металлические изделия; скобяные товары",
+    "en": "hardware; metal goods",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E9%87%91%E7%89%A9"
+      }
+    ]
+  },
+  "EX-01923": {
+    "jp": "金具",
+    "romaji": "kanagu",
+    "ru": "металлическая фурнитура; крепёж",
+    "en": "metal fittings; metal fastenings",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E9%87%91%E5%85%B7"
+      }
+    ]
+  },
+  "EX-01924": {
+    "jp": "金縛り",
+    "romaji": "kanashibari",
+    "ru": "сонный паралич; полная скованность",
+    "en": "sleep paralysis; complete immobilisation",
+    "noteRu": "Также буквальная или переносная невозможность пошевелиться или действовать свободно.",
+    "noteEn": "Also literal or figurative inability to move or act freely.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E9%87%91%E7%B8%9B%E3%82%8A-465093"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01925": {
+    "jp": "細菌",
+    "romaji": "saikin",
+    "ru": "бактерия; бактерии",
+    "en": "a bacterium; bacteria",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E7%B4%B0%E8%8F%8C"
+      }
+    ]
+  },
+  "EX-01926": {
+    "jp": "殺菌",
+    "romaji": "sakkin",
+    "ru": "уничтожение микробов; обеззараживание",
+    "en": "killing germs; disinfection",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%AE%BA%E8%8F%8C"
+      }
+    ]
+  },
+  "EX-01927": {
+    "jp": "保菌者",
+    "romaji": "hokinsha",
+    "ru": "бессимптомный носитель инфекции",
+    "en": "an asymptomatic carrier",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E4%BF%9D%E8%8F%8C%E8%80%85-132656"
+      }
+    ]
+  },
+  "EX-01928": {
+    "jp": "勤務",
+    "romaji": "kinmu",
+    "ru": "работа по найму; служба; дежурство",
+    "en": "employment; service; duty",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%8B%A4%E5%8B%99"
+      }
+    ]
+  },
+  "EX-01929": {
+    "jp": "勤勉",
+    "romaji": "kinben",
+    "ru": "трудолюбие; усердие",
+    "en": "diligence; industriousness",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%8B%A4%E5%8B%89"
+      }
+    ]
+  },
+  "EX-01930": {
+    "jp": "出勤",
+    "romaji": "shukkin",
+    "ru": "выход на работу; явка на службу",
+    "en": "going to work; reporting for duty",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%87%BA%E5%8B%A4"
+      }
+    ]
+  },
+  "EX-01931": {
+    "jp": "勤行",
+    "romaji": "gongyō",
+    "ru": "буддийская служба; чтение молитв",
+    "en": "a Buddhist service; devotional recitation",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%8B%A4%E8%A1%8C"
+      }
+    ]
+  },
+  "EX-01932": {
+    "jp": "勤める",
+    "romaji": "tsutomeru",
+    "ru": "работать; служить",
+    "en": "to work; to be employed",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%8B%A4%E3%82%81%E3%82%8B"
+      }
+    ]
+  },
+  "EX-01933": {
+    "jp": "勤め",
+    "romaji": "tsutome",
+    "ru": "работа; служба; религиозная служба",
+    "en": "a job; work; religious observances",
+    "noteRu": "Работа по найму или регулярное исполнение религиозных обрядов.",
+    "noteEn": "Employment, or the regular performance of religious observances.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%8B%A4%E3%82%81"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01934": {
+    "jp": "勤まる",
+    "romaji": "tsutomaru",
+    "ru": "справляться с работой; удерживаться на службе",
+    "en": "to be able to do a job; to hold down a job",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%8B%A4%E3%81%BE%E3%82%8B"
+      }
+    ]
+  },
+  "EX-01935": {
+    "jp": "琴線",
+    "romaji": "kinsen",
+    "ru": "струны кото; сокровенные чувства",
+    "en": "koto strings; one's heartstrings",
+    "noteRu": "Переносно — тонкие душевные чувства, на которые что-либо глубоко воздействует.",
+    "noteEn": "Figuratively, the innermost feelings that something deeply touches.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E7%90%B4%E7%B7%9A-481387"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01936": {
+    "jp": "木琴",
+    "romaji": "mokkin",
+    "ru": "ксилофон",
+    "en": "a xylophone",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%9C%A8%E7%90%B4"
+      }
+    ]
+  },
+  "EX-01937": {
+    "jp": "手風琴",
+    "romaji": "tefūkin",
+    "ru": "аккордеон; гармонь",
+    "en": "an accordion",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%89%8B%E9%A2%A8%E7%90%B4-576697"
+      }
+    ]
+  },
+  "EX-01938": {
+    "jp": "琴",
+    "romaji": "koto",
+    "ru": "кото; японская цитра",
+    "en": "a koto; a Japanese zither",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E7%90%B4"
+      }
+    ]
+  },
+  "EX-01939": {
+    "jp": "筋肉",
+    "romaji": "kinniku",
+    "ru": "мышца; мускулатура",
+    "en": "a muscle; musculature",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E7%AD%8B%E8%82%89"
+      }
+    ]
+  },
+  "EX-01940": {
+    "jp": "筋骨",
+    "romaji": "kinkotsu",
+    "ru": "мышцы и кости; телосложение",
+    "en": "muscles and bones; physique",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E7%AD%8B%E9%AA%A8"
+      }
+    ]
+  },
+  "EX-01941": {
+    "jp": "鉄筋",
+    "romaji": "tekkin",
+    "ru": "стальная арматура",
+    "en": "steel reinforcement; a reinforcing bar",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E9%89%84%E7%AD%8B"
+      }
+    ]
+  },
+  "EX-01942": {
+    "jp": "筋",
+    "romaji": "suji",
+    "ru": "сухожилие; полоса; логика; сюжет",
+    "en": "a tendon; a stripe; logic; a plot",
+    "noteRu": "Также волокно, происхождение, природные задатки или круг осведомлённых лиц.",
+    "noteEn": "Also a fibre, lineage, natural aptitude, or an informed source or circle.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E7%AD%8B"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01943": {
+    "jp": "筋書",
+    "romaji": "sujigaki",
+    "ru": "краткое изложение сюжета; намеченный сценарий",
+    "en": "a plot summary; a planned scenario",
+    "noteRu": "Содержание произведения в общих чертах; также заранее продуманный ход событий.",
+    "noteEn": "An outline of a work; also a prearranged course of events.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%AD%8B%E6%9B%B8-541633"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01944": {
+    "jp": "大筋",
+    "romaji": "ōsuji",
+    "ru": "общие черты; основная линия",
+    "en": "the broad outline; the main thread",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%A4%A7%E7%AD%8B"
+      }
+    ]
+  },
+  "EX-01945": {
+    "jp": "僅差",
+    "romaji": "kinsa",
+    "ru": "небольшой разрыв; минимальное преимущество",
+    "en": "a narrow margin; a slight difference",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%83%85%E5%B7%AE"
+      }
+    ]
+  },
+  "EX-01946": {
+    "jp": "僅かだ",
+    "romaji": "wazuka da",
+    "ru": "незначителен; совсем мал; немногочислен",
+    "en": "is slight; is small in amount; is few",
+    "noteRu": "Предикативная форма с da; о малом количестве, размере или степени.",
+    "noteEn": "A predicative form with da; describes a small quantity, size, or degree.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%83%85%E3%81%8B-602241"
+      }
+    ]
+  },
+  "EX-01947": {
+    "jp": "禁止",
+    "romaji": "kinshi",
+    "ru": "запрет; запрещение",
+    "en": "a ban; prohibition",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E7%A6%81%E6%AD%A2"
+      }
+    ]
+  },
+  "EX-01948": {
+    "jp": "禁煙",
+    "romaji": "kin'en",
+    "ru": "запрет курения; отказ от курения",
+    "en": "a smoking ban; quitting smoking",
+    "noteRu": "Может обозначать запрет в определённом месте или личный отказ от курения.",
+    "noteEn": "Can refer to a ban in a place or to a person's decision to stop smoking.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E7%A6%81%E7%85%99"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01949": {
+    "jp": "厳禁",
+    "romaji": "genkin",
+    "ru": "строгий запрет; категорически запрещено",
+    "en": "strict prohibition; strictly forbidden",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%8E%B3%E7%A6%81"
+      }
+    ]
+  },
+  "EX-01950": {
+    "jp": "緊張",
+    "romaji": "kinchō",
+    "ru": "напряжение; волнение; напряжённость",
+    "en": "tension; nervousness; strain",
+    "noteRu": "О состоянии человека, натянутых отношениях или общей напряжённой обстановке.",
+    "noteEn": "Used of a person's state, strained relations, or a tense situation.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E7%B7%8A%E5%BC%B5"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01951": {
+    "jp": "緊密",
+    "romaji": "kinmitsu",
+    "ru": "тесный; прочный; тесная связь",
+    "en": "close; intimate; close ties",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E7%B7%8A%E5%AF%86"
+      }
+    ]
+  },
+  "EX-01952": {
+    "jp": "緊急",
+    "romaji": "kinkyū",
+    "ru": "срочность; неотложный; экстренный",
+    "en": "urgency; urgent; emergency",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E7%B7%8A%E6%80%A5"
+      }
+    ]
+  },
+  "EX-01953": {
+    "jp": "錦秋",
+    "romaji": "kinshū",
+    "ru": "осень в ярком уборе листвы",
+    "en": "autumn resplendent with coloured leaves",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E9%8C%A6%E7%A7%8B-481251"
+      }
+    ]
+  },
+  "EX-01954": {
+    "jp": "錦絵",
+    "romaji": "nishikie",
+    "ru": "цветная гравюра укиё-э",
+    "en": "a multicoloured ukiyo-e woodblock print",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E9%8C%A6%E7%B5%B5"
+      }
+    ]
+  },
+  "EX-01955": {
+    "jp": "謹慎",
+    "romaji": "kinshin",
+    "ru": "самоограничение; временное отстранение",
+    "en": "self-restraint; disciplinary confinement",
+    "noteRu": "Также предписанное воздержание от публичной деятельности или обязанность оставаться дома.",
+    "noteEn": "Also an imposed pause in public activity or an order to stay at home.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%AC%B9%E6%85%8E"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01956": {
+    "jp": "謹賀",
+    "romaji": "kinga",
+    "ru": "почтительное поздравление",
+    "en": "respectful congratulations",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E8%AC%B9%E8%B3%80-480796"
+      }
+    ]
+  },
+  "EX-01957": {
+    "jp": "謹呈",
+    "romaji": "kintei",
+    "ru": "с почтением преподносить; почтительный дар",
+    "en": "respectfully presenting; with compliments",
+    "noteRu": "Формальное обозначение преподнесения подарка, особенно книги.",
+    "noteEn": "A formal expression used when presenting a gift, especially a book.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%AC%B9%E5%91%88"
+      }
+    ]
+  },
+  "EX-01958": {
+    "jp": "謹む",
+    "romaji": "tsutsushimu",
+    "ru": "держаться почтительно; выражать почтение",
+    "en": "to be respectful; to show reverence",
+    "noteRu": "Для этого написания основное значение — почтительность и уважение.",
+    "noteEn": "For this spelling, the principal sense is respectful or reverent conduct.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E6%85%8E%E3%82%80-571925"
+      }
+    ]
+  },
+  "EX-01959": {
+    "jp": "謹んで",
+    "romaji": "tsutsushinde",
+    "ru": "почтительно; с глубоким уважением",
+    "en": "respectfully; humbly",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%AC%B9%E3%82%93%E3%81%A7"
+      }
+    ]
+  },
+  "EX-01960": {
+    "jp": "襟度",
+    "romaji": "kindo",
+    "ru": "широта души; великодушие",
+    "en": "broad-mindedness; magnanimity",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E8%A5%9F%E5%BA%A6-481600"
+      }
+    ]
+  },
+  "EX-01961": {
+    "jp": "開襟",
+    "romaji": "kaikin",
+    "ru": "открытый ворот; откровенность",
+    "en": "an open collar; opening one's heart",
+    "noteRu": "О распахнутом вороте или рубашке с таким воротом; переносно — об откровенности.",
+    "noteEn": "An open collar or an open-collared shirt; figuratively, speaking openly.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E9%96%8B%E8%A5%9F-457064"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01962": {
+    "jp": "胸襟",
+    "romaji": "kyōkin",
+    "ru": "сокровенные мысли; душа",
+    "en": "one's innermost thoughts; one's heart",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%83%B8%E8%A5%9F"
+      }
+    ]
+  },
+  "EX-01963": {
+    "jp": "襟",
+    "romaji": "eri",
+    "ru": "воротник; ворот",
+    "en": "a collar; a neckline",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E8%A5%9F-37519"
+      }
+    ]
+  },
+  "EX-01964": {
+    "jp": "襟首",
+    "romaji": "erikubi",
+    "ru": "задняя часть шеи; загривок",
+    "en": "the nape; the scruff of the neck",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%A5%9F%E9%A6%96"
+      }
+    ]
+  },
+  "EX-01965": {
+    "jp": "吟味",
+    "romaji": "ginmi",
+    "ru": "тщательное изучение; проверка; отбор",
+    "en": "careful examination; testing; selection",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%90%9F%E5%91%B3"
+      }
+    ]
+  },
+  "EX-01966": {
+    "jp": "詩吟",
+    "romaji": "shigin",
+    "ru": "певучая декламация стихов",
+    "en": "chanted recitation of poetry",
+    "noteRu": "Традиционная японская декламация, прежде всего китайской классической поэзии.",
+    "noteEn": "Traditional Japanese chanting, especially of classical Chinese poetry.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%A9%A9%E5%90%9F"
+      }
+    ]
+  },
+  "EX-01967": {
+    "jp": "苦吟",
+    "romaji": "kugin",
+    "ru": "мучительное сочинение стихов; творческие муки",
+    "en": "struggling to compose poetry; creative toil",
+    "noteRu": "Также переносно о напряжённом поиске решения.",
+    "noteEn": "Also figuratively, an arduous search for a solution.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E8%8B%A6%E5%90%9F-482867"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-01968": {
+    "jp": "銀貨",
+    "romaji": "ginka",
+    "ru": "серебряная монета",
+    "en": "a silver coin",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E9%8A%80%E8%B2%A8"
+      }
+    ]
+  },
+  "EX-01969": {
+    "jp": "銀行",
+    "romaji": "ginkō",
+    "ru": "банк",
+    "en": "a bank",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E9%8A%80%E8%A1%8C"
+      }
+    ]
+  },
+  "EX-01970": {
+    "jp": "水銀",
+    "romaji": "suigin",
+    "ru": "ртуть",
+    "en": "mercury",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%B0%B4%E9%8A%80"
+      }
+    ]
   }
 }

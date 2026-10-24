@@ -143,10 +143,17 @@ class ImportTests(unittest.TestCase):
         self.assertEqual(sum(bool(w[6].get('translationReview')) for w in nineteenth),33)
         self.assertEqual([(w[0],w[1]) for w in nineteenth if w[0]=='脅かす'],
                          [('脅かす','obiyakasu'),('脅かす','odokasu')])
-        self.assertTrue(all(not w[2] and not w[3] for c in self.cards[420:] for w in c['words']))
+        twentieth = [w for c in self.cards[420:444] for w in c['words']]
+        self.assertEqual(len(twentieth),114)
+        self.assertEqual([w[6]['id'] for w in twentieth],[f'EX-{n:05d}' for n in range(1857,1971)])
+        self.assertTrue(all(w[6]['eligible'] and w[2] and w[3] for w in twentieth))
+        self.assertEqual(sum(bool(w[6].get('translationReview')) for w in twentieth),32)
+        self.assertEqual([(w[0],w[1],w[6]['romajiStatus']) for w in twentieth
+                          if w[6]['romajiStatus']!='СЛОВАРЬ'],[('僅かだ','wazuka da','СОСТАВ / ФОРМА')])
+        self.assertTrue(all(not w[2] and not w[3] for c in self.cards[444:] for w in c['words']))
         translations = json.loads((ROOT/'data/translations-12.json').read_text())
-        self.assertEqual(len(translations),1853)
-        self.assertEqual(sum(bool(t.get('reviewFlag')) for t in translations.values()),720)
+        self.assertEqual(len(translations),1967)
+        self.assertEqual(sum(bool(t.get('reviewFlag')) for t in translations.values()),752)
         self.assertEqual(sum(bool(w[6].get('translationReview')) for w in third),40)
         self.assertEqual(sum(bool(w[6].get('translationReview')) for w in fourth),46)
         self.assertEqual(sum(bool(w[6].get('translationReview')) for w in fifth),29)
@@ -157,7 +164,7 @@ class ImportTests(unittest.TestCase):
         self.assertEqual([w[6]['id'] for w in fifth],[f'EX-{n:05d}' for n in range(305,359)])
         self.assertEqual([w[6]['id'] for w in sixth],[f'EX-{n:05d}' for n in range(359,466)])
         self.assertEqual([w[6]['id'] for w in seventh],[f'EX-{n:05d}' for n in range(466,575)])
-        for w in first + second + third + fourth + fifth + sixth + seventh + eighth + ninth + tenth + thirteenth + fourteenth + fifteenth + sixteenth + seventeenth + nineteenth + [w for w in eleventh + twelfth + eighteenth if w[6]['eligible']]:
+        for w in first + second + third + fourth + fifth + sixth + seventh + eighth + ninth + tenth + thirteenth + fourteenth + fifteenth + sixteenth + seventeenth + nineteenth + twentieth + [w for w in eleventh + twelfth + eighteenth if w[6]['eligible']]:
             t = translations[w[6]['id']]
             self.assertEqual((w[0],w[1]),(t['jp'],t['romaji']))
             self.assertEqual((w[2],w[3]),(t['ru'],t['en']))
@@ -167,6 +174,11 @@ class ImportTests(unittest.TestCase):
 
     def test_previous_translation_entries_preserved(self):
         translations = json.loads((ROOT/'data/translations-12.json').read_text())
+        previous = {k: v for k, v in translations.items() if int(k[3:]) <= 1856}
+        normalized = json.dumps(previous,sort_keys=True,ensure_ascii=False,separators=(',',':')).encode()
+        # Complete first-420 baseline before adding cards 421–444.
+        self.assertEqual(hashlib.sha256(normalized).hexdigest(),
+                         '1ebb93a10bd8d6a3be973472fe6a0c953453e9a4a6baec832047b87496552d25')
         previous = {k: v for k, v in translations.items() if int(k[3:]) <= 1724}
         normalized = json.dumps(previous,sort_keys=True,ensure_ascii=False,separators=(',',':')).encode()
         # Complete first-396 baseline before adding cards 397–420.
