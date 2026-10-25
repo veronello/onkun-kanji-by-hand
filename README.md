@@ -23,13 +23,6 @@ Open `index.html` in a browser. The site uses HTML, CSS, and JavaScript, with no
 
 Practice is intended for handwriting on paper. ON and KUN drills are active; Final test is still planned.
 
-## Source materials
-
-- [Jōyō kanji 2010 — Excel reference](sources/joyo_kanji_2010_extracted.xlsx)
-- [joyo_kanji_2010_vs_exercises_2013_candidates.xlsx](sources/joyo_kanji_2010_vs_exercises_2013_candidates.xlsx)
-- [joyo_kanji_2010_vs_exercises_2013_with_hints.xlsx](sources/joyo_kanji_2010_vs_exercises_2013_with_hints.xlsx)
-- [Source notes and references](SOURCES.md)
-
 ## Copyright
 
 Source code is licensed under the [MIT License](LICENSE). Exercise data, written content, branding, and visual identity are excluded from this license and are not licensed for reuse at this stage.
