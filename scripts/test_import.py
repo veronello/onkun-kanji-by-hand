@@ -182,7 +182,7 @@ class ImportTests(unittest.TestCase):
         self.assertTrue(all(w[2] and w[3] for w in twenty_fourth if w[6]['eligible']))
         self.assertEqual([w[6]['id'] for w in twenty_fourth if not w[6]['eligible']], ['EX-02297','EX-02303'])
         self.assertTrue(all(not w[1] and not w[2] and not w[3] for w in twenty_fourth if not w[6]['eligible']))
-        self.assertTrue(all(not w[2] and not w[3] for c in self.cards[588:] for w in c['words']))
+        self.assertTrue(all(not w[2] and not w[3] for c in self.cards[612:] for w in c['words']))
         twenty_fifth = [w for c in self.cards[540:564] for w in c['words']]
         self.assertEqual(len(twenty_fifth),126)
         self.assertEqual([w[6]['id'] for w in twenty_fifth], [f'EX-{n:05d}' for n in range(2381,2507)])
@@ -192,9 +192,14 @@ class ImportTests(unittest.TestCase):
         self.assertEqual(len(batch),119)
         self.assertTrue(all(w[6]['eligible'] and w[2] and w[3] for w in batch))
         self.assertEqual([w[6]['id'] for w in batch], [f'EX-{n:05d}' for n in range(2507,2626)])
+        latest = [w for c in self.cards[588:612] for w in c['words']]
+        self.assertEqual(len(latest),132)
+        self.assertTrue(all(w[2] and w[3] for w in latest if w[6]['eligible']))
+        self.assertEqual([w[6]['id'] for w in latest if not w[6]['eligible']], ['EX-02641'])
+        self.assertTrue(all(not w[1] and not w[2] and not w[3] for w in latest if not w[6]['eligible']))
         translations = json.loads((ROOT/'data/translations-12.json').read_text())
-        self.assertEqual(len(translations),2619)
-        self.assertEqual(sum(bool(t.get('reviewFlag')) for t in translations.values()),992)
+        self.assertEqual(len(translations),2750)
+        self.assertEqual(sum(bool(t.get('reviewFlag')) for t in translations.values()),1048)
         self.assertEqual(sum(bool(w[6].get('translationReview')) for w in third),40)
         self.assertEqual(sum(bool(w[6].get('translationReview')) for w in fourth),46)
         self.assertEqual(sum(bool(w[6].get('translationReview')) for w in fifth),29)
@@ -333,6 +338,10 @@ class ImportTests(unittest.TestCase):
         previous = {k:v for k,v in translations.items() if int(k[3:]) < 2381}
         normalized = json.dumps(previous,sort_keys=True,ensure_ascii=False,separators=(',',':')).encode()
         self.assertEqual(hashlib.sha256(normalized).hexdigest(), 'e430ac2b1a2a4843cc94001af9deb69ea03728b03f35da65b25e341c4123e33c')
+
+        previous = {k:v for k,v in translations.items() if int(k[3:]) < 2626}
+        normalized = json.dumps(previous,sort_keys=True,ensure_ascii=False,separators=(',',':')).encode()
+        self.assertEqual(hashlib.sha256(normalized).hexdigest(), 'f3e49d3e52fef6e470e0c8807bf65e330bdcb389357c0c100230b756310aed91')
 
     def test_display_notes_keep_editorial_data(self):
         translations = json.loads((ROOT/'data/translations-12.json').read_text())
