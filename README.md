@@ -4,15 +4,15 @@ KANJI ON is a Russian–English website in development for reviewing kanji and w
 
 The exercises draw on the author's own study materials, compiled during her university years starting in 2013, alongside new original exercises.
 
+## Run locally
+
+Open `index.html` in a browser. The site uses HTML, CSS, and JavaScript, with no build step or server required.
+
 ## Current state
 
 The site contains the project description, a four-card grid for KANJI, ON, KUN and OFF. On desktop, Kanji cards occupies the left half of its own row; mobile shows all four cards consecutively. The footer contains the year and a direct source-materials link. The KANJI section contains reference cards with Russian and English meanings, single-card and grid views, and light/dark theme support. These cards follow the author’s selected examples; header readings follow the Jōyō table. The exercise format continues to be developed.
 
 The interface includes a Russian–English language switcher, a soft-white default theme with graphite text and muted green accents, and an optional dark theme. The theme choice is saved in the browser. The KANJI ON wordmark and green ON icon appear on the site and in browser or home-screen shortcuts.
-
-## Run locally
-
-Open `index.html` in a browser. The site uses HTML, CSS, and JavaScript, with no build step or server required.
 
 ## Practice modes
 
