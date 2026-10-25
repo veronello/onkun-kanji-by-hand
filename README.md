@@ -1,7 +1,5 @@
 # KANJI ON — Kanji by Hand
 
-**[Open the website / Открыть сайт](https://veronello.github.io/onkun-kanji-by-hand/)**
-
 KANJI ON is a Russian–English website in development for reviewing kanji and writing them by hand on paper.
 
 The exercises draw on the author's own study materials, compiled during her university years starting in 2013, alongside new original exercises.
