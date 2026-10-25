@@ -10,6 +10,10 @@ The site contains the project description, a four-card grid for KANJI, ON, KUN a
 
 The interface includes a Russian–English language switcher, a soft-white default theme with graphite text and muted green accents, and an optional dark theme. The theme choice is saved in the browser. The KANJI ON wordmark and green ON icon appear on the site and in browser or home-screen shortcuts.
 
+## Run locally
+
+Open `index.html` in a browser. The site uses HTML, CSS, and JavaScript, with no build step or server required.
+
 ## Practice modes
 
 - **Kanji cards:** kanji, readings, meanings, and compounds.
@@ -25,10 +29,6 @@ Practice is intended for handwriting on paper. ON and KUN drills are active; Fin
 - [joyo_kanji_2010_vs_exercises_2013_candidates.xlsx](sources/joyo_kanji_2010_vs_exercises_2013_candidates.xlsx)
 - [joyo_kanji_2010_vs_exercises_2013_with_hints.xlsx](sources/joyo_kanji_2010_vs_exercises_2013_with_hints.xlsx)
 - [Source notes and references](SOURCES.md)
-
-## Run locally
-
-Open `index.html` in a browser. The site uses HTML, CSS, and JavaScript, with no build step or server required.
 
 ## Copyright
 
