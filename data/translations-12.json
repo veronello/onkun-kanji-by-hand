@@ -49960,5 +49960,1641 @@
       }
     ],
     "reviewFlag": "sense-selection"
+  },
+  "EX-02874": {
+    "jp": "絞殺",
+    "romaji": "kōsatsu",
+    "ru": "удушение; убийство удушением",
+    "en": "strangulation; killing by strangulation",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E7%B5%9E%E6%AE%BA"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02875": {
+    "jp": "絞首刑",
+    "romaji": "kōshukei",
+    "ru": "смертная казнь через повешение",
+    "en": "execution by hanging",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E7%B5%9E%E9%A6%96%E5%88%91"
+      }
+    ]
+  },
+  "EX-02876": {
+    "jp": "絞る",
+    "romaji": "shiboru",
+    "ru": "выжимать; сужать; убавлять",
+    "en": "to wring out; to narrow down; to turn down",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%B5%9E%E3%82%8B-523544"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02877": {
+    "jp": "絞り上げる",
+    "romaji": "shiboriageru",
+    "ru": "выжимать досуха; сурово отчитывать; вымогать",
+    "en": "to wring out thoroughly; to scold severely; to squeeze money out of",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%B5%9E%E3%82%8A%E4%B8%8A%E3%81%92%E3%82%8B-523528"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02878": {
+    "jp": "絞り",
+    "romaji": "shibori",
+    "ru": "выжимание; узелковое крашение; диафрагма",
+    "en": "wringing; tie-dyeing; aperture",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial gloss of the source form using the cited dictionary headword and its examples; original writing and reading retained.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%B5%9E%E3%82%8A-4309"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02879": {
+    "jp": "絞める",
+    "romaji": "shimeru",
+    "ru": "душить; сдавливать шею",
+    "en": "to strangle; to constrict the neck",
+    "noteRu": "О сдавливании шеи; не обычное затягивание узла.",
+    "noteEn": "Constriction of the neck; not ordinary tightening of a knot.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E7%B5%9E%E3%82%81%E3%82%8B"
+      }
+    ]
+  },
+  "EX-02880": {
+    "jp": "絞まる",
+    "romaji": "shimaru",
+    "ru": "сдавливаться (о шее)",
+    "en": "to be constricted around the neck",
+    "noteRu": "Непереходный глагол: шея сдавливается.",
+    "noteEn": "Intransitive: the neck becomes constricted.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E7%B5%9E%E3%81%BE%E3%82%8B-523782"
+      }
+    ]
+  },
+  "EX-02881": {
+    "jp": "項目",
+    "romaji": "kōmoku",
+    "ru": "пункт; рубрика; статья",
+    "en": "item; heading; clause",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E9%A0%85%E7%9B%AE"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02882": {
+    "jp": "事項",
+    "romaji": "jikō",
+    "ru": "обстоятельство; вопрос; пункт",
+    "en": "matter; particular; item",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E4%BA%8B%E9%A0%85"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02883": {
+    "jp": "条項",
+    "romaji": "jōkō",
+    "ru": "статья; пункт договора",
+    "en": "article; clause; provision",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%9D%A1%E9%A0%85"
+      }
+    ]
+  },
+  "EX-02884": {
+    "jp": "下水溝",
+    "romaji": "gesuikō",
+    "ru": "канализационная канава",
+    "en": "sewer ditch; drain",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial gloss of the source form using the cited dictionary headword and its examples; original writing and reading retained.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E4%B8%8B%E6%B0%B4"
+      }
+    ]
+  },
+  "EX-02885": {
+    "jp": "排水溝",
+    "romaji": "haisuikō",
+    "ru": "водоотводная канава",
+    "en": "drainage ditch",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%8E%92%E6%B0%B4%E6%BA%9D-598891"
+      }
+    ]
+  },
+  "EX-02886": {
+    "jp": "溝",
+    "romaji": "mizo",
+    "ru": "канава; желоб; паз",
+    "en": "ditch; gutter; groove",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E6%BA%9D-441088"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02887": {
+    "jp": "鉱物",
+    "romaji": "kōbutsu",
+    "ru": "минерал",
+    "en": "mineral",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E9%89%B1%E7%89%A9"
+      }
+    ]
+  },
+  "EX-02888": {
+    "jp": "鉱山",
+    "romaji": "kōzan",
+    "ru": "рудник; шахта",
+    "en": "mine",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E9%89%B1%E5%B1%B1"
+      }
+    ]
+  },
+  "EX-02889": {
+    "jp": "鉄鉱",
+    "romaji": "tekkō",
+    "ru": "железная руда",
+    "en": "iron ore",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E9%89%84%E9%89%B1-576160"
+      }
+    ]
+  },
+  "EX-02890": {
+    "jp": "構造",
+    "romaji": "kōzō",
+    "ru": "структура; строение",
+    "en": "structure; construction",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%A7%8B%E9%80%A0"
+      }
+    ]
+  },
+  "EX-02891": {
+    "jp": "構内",
+    "romaji": "kōnai",
+    "ru": "территория учреждения; территория станции",
+    "en": "premises; grounds",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%A7%8B%E5%86%85"
+      }
+    ]
+  },
+  "EX-02892": {
+    "jp": "結構",
+    "romaji": "kekkō",
+    "ru": "хороший; достаточный; довольно; устройство",
+    "en": "fine; sufficient; quite; structure",
+    "noteRu": "結構です может означать согласие либо вежливый отказ; решает контекст.",
+    "noteEn": "結構です can express acceptance or a polite refusal, depending on context.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E7%B5%90%E6%A7%8B"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02893": {
+    "jp": "構える",
+    "romaji": "kamaeru",
+    "ru": "принимать позу; устраивать; готовиться",
+    "en": "to assume a stance; to set up; to prepare",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%A7%8B%E3%81%88%E3%82%8B"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02894": {
+    "jp": "構え",
+    "romaji": "kamae",
+    "ru": "поза; готовность; внешний вид",
+    "en": "stance; preparedness; appearance",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%A7%8B%E3%81%88"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02895": {
+    "jp": "構う",
+    "romaji": "kamau",
+    "ru": "заботиться; обращать внимание; вмешиваться",
+    "en": "to care; to mind; to interfere",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%A7%8B%E3%81%86"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02896": {
+    "jp": "構わない",
+    "romaji": "kamawanai",
+    "ru": "не возражать; не иметь значения",
+    "en": "to not mind; to not matter",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%A7%8B%E3%82%8F%E3%81%AA%E3%81%84"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02897": {
+    "jp": "綱紀",
+    "romaji": "kōki",
+    "ru": "дисциплина; государственный порядок",
+    "en": "discipline; public order",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E7%B6%B1%E7%B4%80"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02898": {
+    "jp": "綱領",
+    "romaji": "kōryō",
+    "ru": "основные положения; программа",
+    "en": "outline; platform",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E7%B6%B1%E9%A0%98"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02899": {
+    "jp": "大綱",
+    "romaji": "taikō",
+    "ru": "основные принципы; общий план",
+    "en": "fundamental principles; outline",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%A4%A7%E7%B6%B1"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02900": {
+    "jp": "綱",
+    "romaji": "tsuna",
+    "ru": "канат; верёвка",
+    "en": "rope",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E7%B6%B1"
+      }
+    ]
+  },
+  "EX-02901": {
+    "jp": "横綱",
+    "romaji": "yokozuna",
+    "ru": "ёкодзуна; высший ранг в сумо",
+    "en": "yokozuna; highest rank in sumo",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%A8%AA%E7%B6%B1"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02902": {
+    "jp": "酵母",
+    "romaji": "kōbo",
+    "ru": "дрожжи",
+    "en": "yeast",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E9%85%B5%E6%AF%8D"
+      }
+    ]
+  },
+  "EX-02903": {
+    "jp": "草稿",
+    "romaji": "sōkō",
+    "ru": "черновик; рукопись",
+    "en": "draft; manuscript",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%8D%89%E7%A8%BF"
+      }
+    ]
+  },
+  "EX-02904": {
+    "jp": "原稿",
+    "romaji": "genkō",
+    "ru": "рукопись; текст для публикации",
+    "en": "manuscript; copy for publication",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%8E%9F%E7%A8%BF"
+      }
+    ]
+  },
+  "EX-02905": {
+    "jp": "投稿",
+    "romaji": "tōkō",
+    "ru": "отправка материала для публикации",
+    "en": "submission of material for publication",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%8A%95%E7%A8%BF"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02906": {
+    "jp": "興行",
+    "romaji": "kōgyō",
+    "ru": "представление; организация представлений",
+    "en": "performance; staging shows",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%88%88%E8%A1%8C"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02907": {
+    "jp": "復興",
+    "romaji": "fukkō",
+    "ru": "восстановление; возрождение",
+    "en": "reconstruction; revival",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%BE%A9%E8%88%88"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02908": {
+    "jp": "振興",
+    "romaji": "shinkō",
+    "ru": "содействие развитию; поощрение",
+    "en": "promotion; encouragement",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%8C%AF%E8%88%88"
+      }
+    ]
+  },
+  "EX-02909": {
+    "jp": "興味",
+    "romaji": "kyōmi",
+    "ru": "интерес",
+    "en": "interest",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%88%88%E5%91%B3"
+      }
+    ]
+  },
+  "EX-02910": {
+    "jp": "興趣",
+    "romaji": "kyōshu",
+    "ru": "очарование; увлекательность",
+    "en": "charm; interest",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E8%88%88%E8%B6%A3-478285"
+      }
+    ]
+  },
+  "EX-02911": {
+    "jp": "余興",
+    "romaji": "yokyō",
+    "ru": "развлекательный номер; увеселение",
+    "en": "entertainment; party performance",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E4%BD%99%E8%88%88"
+      }
+    ]
+  },
+  "EX-02912": {
+    "jp": "興る",
+    "romaji": "okoru",
+    "ru": "возникать; процветать",
+    "en": "to arise; to flourish",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%88%88%E3%82%8B"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02913": {
+    "jp": "興す",
+    "romaji": "okosu",
+    "ru": "создавать; содействовать процветанию",
+    "en": "to establish; to promote prosperity",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%88%88%E3%81%99"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02914": {
+    "jp": "均衡",
+    "romaji": "kinkō",
+    "ru": "равновесие; баланс",
+    "en": "balance; equilibrium",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%9D%87%E8%A1%A1"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02915": {
+    "jp": "平衡",
+    "romaji": "heikō",
+    "ru": "равновесие",
+    "en": "balance; equilibrium",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%B9%B3%E8%A1%A1"
+      }
+    ]
+  },
+  "EX-02916": {
+    "jp": "度量衡",
+    "romaji": "doryōkō",
+    "ru": "меры и весы",
+    "en": "weights and measures",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%BA%A6%E9%87%8F%E8%A1%A1"
+      }
+    ]
+  },
+  "EX-02917": {
+    "jp": "鋼鉄",
+    "romaji": "kōtetsu",
+    "ru": "сталь",
+    "en": "steel",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E9%8B%BC%E9%89%84"
+      }
+    ]
+  },
+  "EX-02918": {
+    "jp": "鋼材",
+    "romaji": "kōzai",
+    "ru": "стальной прокат; стальные материалы",
+    "en": "steel materials; structural steel",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E9%8B%BC%E6%9D%90"
+      }
+    ]
+  },
+  "EX-02919": {
+    "jp": "製鋼",
+    "romaji": "seikō",
+    "ru": "производство стали",
+    "en": "steelmaking",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%A3%BD%E9%8B%BC"
+      }
+    ]
+  },
+  "EX-02920": {
+    "jp": "鋼",
+    "romaji": "hagane",
+    "ru": "сталь",
+    "en": "steel",
+    "noteRu": "При чтении hagane — сталь.",
+    "noteEn": "With the reading hagane: steel.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E9%8B%BC-493771"
+      }
+    ]
+  },
+  "EX-02921": {
+    "jp": "講義",
+    "romaji": "kōgi",
+    "ru": "лекция; учебное объяснение",
+    "en": "lecture; instruction",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%AC%9B%E7%BE%A9"
+      }
+    ]
+  },
+  "EX-02922": {
+    "jp": "講演",
+    "romaji": "kōen",
+    "ru": "лекция; публичное выступление; буддийская проповедь",
+    "en": "a lecture; a public talk; a Buddhist sermon",
+    "noteRu": "Обычное публичное выступление либо религиозное толкование буддийских текстов.",
+    "noteEn": "A public talk in ordinary usage, or a religious exposition of Buddhist scriptures.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-16",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E8%AC%9B%E6%BC%94-494129"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02923": {
+    "jp": "聴講",
+    "romaji": "chōkō",
+    "ru": "посещение лекций; вольное слушание",
+    "en": "lecture attendance; auditing",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%81%B4%E8%AC%9B"
+      }
+    ]
+  },
+  "EX-02924": {
+    "jp": "購入",
+    "romaji": "kōnyū",
+    "ru": "покупка; приобретение",
+    "en": "purchase",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%B3%BC%E5%85%A5"
+      }
+    ]
+  },
+  "EX-02925": {
+    "jp": "購買",
+    "romaji": "kōbai",
+    "ru": "закупка; покупка",
+    "en": "purchasing; buying",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%B3%BC%E8%B2%B7"
+      }
+    ]
+  },
+  "EX-02926": {
+    "jp": "購読",
+    "romaji": "kōdoku",
+    "ru": "подписка на издание",
+    "en": "subscription to a publication",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%B3%BC%E8%AA%AD"
+      }
+    ]
+  },
+  "EX-02927": {
+    "jp": "乞う",
+    "romaji": "kou",
+    "ru": "просить; умолять",
+    "en": "to beg; to request",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E8%AB%8B%E3%81%86-493776"
+      }
+    ]
+  },
+  "EX-02928": {
+    "jp": "命乞い",
+    "romaji": "inochigoi",
+    "ru": "мольба о пощаде",
+    "en": "plea for one's life",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%91%BD%E4%B9%9E%E3%81%84"
+      }
+    ]
+  },
+  "EX-02929": {
+    "jp": "号令",
+    "romaji": "gōrei",
+    "ru": "команда; приказ",
+    "en": "command; order",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%8F%B7%E4%BB%A4"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02930": {
+    "jp": "号外",
+    "romaji": "gōgai",
+    "ru": "экстренный выпуск газеты",
+    "en": "extra newspaper edition",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%8F%B7%E5%A4%96"
+      }
+    ]
+  },
+  "EX-02931": {
+    "jp": "番号",
+    "romaji": "bangō",
+    "ru": "номер",
+    "en": "number",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E7%95%AA%E5%8F%B7"
+      }
+    ]
+  },
+  "EX-02932": {
+    "jp": "合同",
+    "romaji": "gōdō",
+    "ru": "объединение; совместность; конгруэнтность",
+    "en": "union; combination; congruence",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%90%88%E5%90%8C"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02933": {
+    "jp": "合計",
+    "romaji": "gōkei",
+    "ru": "итог; сумма",
+    "en": "total; sum",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%90%88%E8%A8%88"
+      }
+    ]
+  },
+  "EX-02934": {
+    "jp": "結合",
+    "romaji": "ketsugō",
+    "ru": "соединение; объединение",
+    "en": "combination; union",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E7%B5%90%E5%90%88"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02935": {
+    "jp": "合併",
+    "romaji": "gappei",
+    "ru": "слияние; объединение",
+    "en": "merger; amalgamation",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%90%88%E4%BD%B5"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02936": {
+    "jp": "合宿",
+    "romaji": "gasshuku",
+    "ru": "совместное проживание; тренировочный сбор",
+    "en": "lodging together; training camp",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%90%88%E5%AE%BF"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02937": {
+    "jp": "合点",
+    "romaji": "gatten",
+    "ru": "понимание; согласие",
+    "en": "understanding; assent",
+    "noteRu": "Чтение gatten; согласие или понимание.",
+    "noteEn": "Reading gatten; assent or understanding.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%90%88%E7%82%B9-464455"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02938": {
+    "jp": "合戦",
+    "romaji": "kassen",
+    "ru": "битва; сражение",
+    "en": "battle",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%90%88%E6%88%A6"
+      }
+    ]
+  },
+  "EX-02939": {
+    "jp": "合う",
+    "romaji": "au",
+    "ru": "подходить; совпадать; согласовываться",
+    "en": "to fit; to match; to agree",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%90%88%E3%81%86"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02940": {
+    "jp": "落ち合う",
+    "romaji": "ochiau",
+    "ru": "встречаться в условленном месте",
+    "en": "to meet at an agreed place",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%90%BD%E3%81%A1%E5%90%88%E3%81%86"
+      }
+    ]
+  },
+  "EX-02941": {
+    "jp": "試合",
+    "romaji": "shiai",
+    "ru": "матч; состязание",
+    "en": "match; game",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%A9%A6%E5%90%88"
+      }
+    ]
+  },
+  "EX-02942": {
+    "jp": "合わす",
+    "romaji": "awasu",
+    "ru": "соединять; согласовывать",
+    "en": "to join together; to coordinate",
+    "noteRu": "Вариант 合わせる; чтение awasu сохранено.",
+    "noteEn": "A variant of 合わせる; the reading awasu is retained.",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E5%90%88%E3%81%9B%E3%82%8B-428938"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02943": {
+    "jp": "合わせる",
+    "romaji": "awaseru",
+    "ru": "соединять; согласовывать; подгонять",
+    "en": "to combine; to coordinate; to adjust",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%90%88%E3%82%8F%E3%81%9B%E3%82%8B"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02944": {
+    "jp": "問い合わせる",
+    "romaji": "toiawaseru",
+    "ru": "справляться; запрашивать сведения",
+    "en": "to inquire; to make an inquiry",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B%E3%82%8B"
+      }
+    ]
+  },
+  "EX-02945": {
+    "jp": "拷問",
+    "romaji": "gōmon",
+    "ru": "пытка",
+    "en": "torture",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%8B%B7%E5%95%8F"
+      }
+    ]
+  },
+  "EX-02946": {
+    "jp": "剛健",
+    "romaji": "gōken",
+    "ru": "крепость; физическая и духовная стойкость",
+    "en": "sturdiness; physical and mental strength",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%89%9B%E5%81%A5"
+      }
+    ]
+  },
+  "EX-02947": {
+    "jp": "金剛力",
+    "romaji": "kongōriki",
+    "ru": "богатырская сила; огромная мощь",
+    "en": "prodigious strength; immense power",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from linked dictionary definitions; principal senses, not exhaustive. Context-dependent sense selection is flagged separately.",
+    "sources": [
+      {
+        "dictionary": "小学館 デジタル大辞泉 / 精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E9%87%91%E5%89%9B%E5%8A%9B-506046"
+      }
+    ]
+  },
+  "EX-02948": {
+    "jp": "傲然",
+    "romaji": "gōzen",
+    "ru": "высокомерный; надменный",
+    "en": "arrogant; haughty",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%82%B2%E7%84%B6"
+      }
+    ]
+  },
+  "EX-02949": {
+    "jp": "傲慢",
+    "romaji": "gōman",
+    "ru": "высокомерие",
+    "en": "arrogance",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%82%B2%E6%85%A2"
+      }
+    ]
+  },
+  "EX-02950": {
+    "jp": "豪遊",
+    "romaji": "gōyū",
+    "ru": "кутёж; роскошные развлечения",
+    "en": "lavish revelry; spending spree",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%B1%AA%E9%81%8A"
+      }
+    ]
+  },
+  "EX-02951": {
+    "jp": "豪雨",
+    "romaji": "gōu",
+    "ru": "ливень; проливной дождь",
+    "en": "torrential rain; downpour",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%B1%AA%E9%9B%A8"
+      }
+    ]
+  },
+  "EX-02952": {
+    "jp": "文豪",
+    "romaji": "bungō",
+    "ru": "великий писатель",
+    "en": "great writer",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%96%87%E8%B1%AA"
+      }
+    ]
+  },
+  "EX-02953": {
+    "jp": "克服",
+    "romaji": "kokufuku",
+    "ru": "преодоление",
+    "en": "overcoming",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%85%8B%E6%9C%8D"
+      }
+    ]
+  },
+  "EX-02954": {
+    "jp": "克明",
+    "romaji": "kokumei",
+    "ru": "тщательный; подробный",
+    "en": "meticulous; detailed",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%85%8B%E6%98%8E"
+      }
+    ]
+  },
+  "EX-02955": {
+    "jp": "克己",
+    "romaji": "kokki",
+    "ru": "самообладание; самодисциплина",
+    "en": "self-control; self-restraint",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-25",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%85%8B%E5%B7%B1"
+      }
+    ]
+  },
+  "EX-02956": {
+    "jp": "告示",
+    "romaji": "kokuji",
+    "ru": "официальное объявление",
+    "en": "official notice",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%91%8A%E7%A4%BA"
+      }
+    ]
+  },
+  "EX-02957": {
+    "jp": "告白",
+    "romaji": "kokuhaku",
+    "ru": "признание; исповедь",
+    "en": "confession; disclosure",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%91%8A%E7%99%BD"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02958": {
+    "jp": "報告",
+    "romaji": "hōkoku",
+    "ru": "доклад; сообщение",
+    "en": "report",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%A0%B1%E5%91%8A"
+      }
+    ]
+  },
+  "EX-02959": {
+    "jp": "告げる",
+    "romaji": "tsugeru",
+    "ru": "сообщать; объявлять",
+    "en": "to tell; to announce",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%91%8A%E3%81%92%E3%82%8B"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02960": {
+    "jp": "幽谷",
+    "romaji": "yūkoku",
+    "ru": "глубокая уединённая долина",
+    "en": "deep secluded valley",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%B9%BD%E8%B0%B7"
+      }
+    ]
+  },
+  "EX-02961": {
+    "jp": "谷",
+    "romaji": "tani",
+    "ru": "долина; ущелье",
+    "en": "valley; ravine",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%B0%B7"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02962": {
+    "jp": "谷川",
+    "romaji": "tanigawa",
+    "ru": "горный ручей",
+    "en": "mountain stream",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E8%B0%B7%E5%B7%9D"
+      }
+    ]
+  },
+  "EX-02963": {
+    "jp": "彫刻",
+    "romaji": "chōkoku",
+    "ru": "скульптура; резьба; гравировка",
+    "en": "sculpture; carving; engraving",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%BD%AB%E5%88%BB"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02964": {
+    "jp": "時刻",
+    "romaji": "jikoku",
+    "ru": "момент времени; час",
+    "en": "time; hour",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%99%82%E5%88%BB"
+      }
+    ]
+  },
+  "EX-02965": {
+    "jp": "深刻",
+    "romaji": "shinkoku",
+    "ru": "серьёзный; тяжёлый",
+    "en": "serious; grave",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E6%B7%B1%E5%88%BB"
+      }
+    ]
+  },
+  "EX-02966": {
+    "jp": "刻む",
+    "romaji": "kizamu",
+    "ru": "мелко резать; вырезать; высекать",
+    "en": "to chop finely; to carve; to engrave",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%88%BB%E3%82%80"
+      }
+    ],
+    "reviewFlag": "sense-selection"
+  },
+  "EX-02967": {
+    "jp": "刻み",
+    "romaji": "kizami",
+    "ru": "зарубка; нарезка; интервал",
+    "en": "notch; chopping; increment",
+    "noteRu": "",
+    "noteEn": "",
+    "status": "dictionary-reviewed",
+    "reviewedOn": "2026-10-28",
+    "method": "Editorial RU/EN glosses from dictionary definitions; principal senses, not exhaustive.",
+    "sources": [
+      {
+        "dictionary": "小学館 プログレッシブ和英中辞典(第4版)",
+        "url": "https://kotobank.jp/jeword/%E5%88%BB%E3%81%BF"
+      }
+    ],
+    "reviewFlag": "sense-selection"
   }
 }
