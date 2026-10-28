@@ -182,7 +182,7 @@ class ImportTests(unittest.TestCase):
         self.assertTrue(all(w[2] and w[3] for w in twenty_fourth if w[6]['eligible']))
         self.assertEqual([w[6]['id'] for w in twenty_fourth if not w[6]['eligible']], ['EX-02297','EX-02303'])
         self.assertTrue(all(not w[1] and not w[2] and not w[3] for w in twenty_fourth if not w[6]['eligible']))
-        self.assertTrue(all(not w[2] and not w[3] for c in self.cards[684:] for w in c['words']))
+        self.assertTrue(all(not w[2] and not w[3] for c in self.cards[708:] for w in c['words']))
         twenty_fifth = [w for c in self.cards[540:564] for w in c['words']]
         self.assertEqual(len(twenty_fifth),126)
         self.assertEqual([w[6]['id'] for w in twenty_fifth], [f'EX-{n:05d}' for n in range(2381,2507)])
@@ -209,9 +209,13 @@ class ImportTests(unittest.TestCase):
         self.assertEqual(len(extra),99)
         self.assertEqual([w[6]['id'] for w in extra], [f'EX-{n:05d}' for n in range(2968,3067)])
         self.assertTrue(all(w[6]['eligible'] and w[2] and w[3] for w in extra))
+        added = [w for c in self.cards[684:708] for w in c['words']]
+        self.assertEqual(len(added),102)
+        self.assertEqual([w[6]['id'] for w in added], [f'EX-{n:05d}' for n in range(3067,3169)])
+        self.assertTrue(all(w[6]['eligible'] and w[2] and w[3] for w in added))
         translations = json.loads((ROOT/'data/translations-12.json').read_text())
-        self.assertEqual(len(translations),3059)
-        self.assertEqual(sum(bool(t.get('reviewFlag')) for t in translations.values()),1170)
+        self.assertEqual(len(translations),3161)
+        self.assertEqual(sum(bool(t.get('reviewFlag')) for t in translations.values()),1221)
         self.assertEqual(sum(bool(w[6].get('translationReview')) for w in third),40)
         self.assertEqual(sum(bool(w[6].get('translationReview')) for w in fourth),46)
         self.assertEqual(sum(bool(w[6].get('translationReview')) for w in fifth),29)
@@ -232,6 +236,9 @@ class ImportTests(unittest.TestCase):
 
     def test_previous_translation_entries_preserved(self):
         translations = json.loads((ROOT/'data/translations-12.json').read_text())
+        baseline = {k: v for k, v in translations.items() if int(k[3:]) < 3067}
+        normalized = json.dumps(baseline,sort_keys=True,ensure_ascii=False,separators=(',',':')).encode()
+        self.assertEqual(hashlib.sha256(normalized).hexdigest(), '8e19ff0738aa3243430e007e4967a244bc4cd4f11af06a532f831c81e1be346c')
         previous = {k: v for k, v in translations.items() if int(k[3:]) <= 2182}
         normalized = json.dumps(previous,sort_keys=True,ensure_ascii=False,separators=(',',':')).encode()
         # Complete first-492 baseline before adding cards 493–516.
