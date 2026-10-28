@@ -182,7 +182,7 @@ class ImportTests(unittest.TestCase):
         self.assertTrue(all(w[2] and w[3] for w in twenty_fourth if w[6]['eligible']))
         self.assertEqual([w[6]['id'] for w in twenty_fourth if not w[6]['eligible']], ['EX-02297','EX-02303'])
         self.assertTrue(all(not w[1] and not w[2] and not w[3] for w in twenty_fourth if not w[6]['eligible']))
-        self.assertTrue(all(not w[2] and not w[3] for c in self.cards[804:] for w in c['words']))
+        self.assertTrue(all(not w[2] and not w[3] for c in self.cards[828:] for w in c['words']))
         twenty_fifth = [w for c in self.cards[540:564] for w in c['words']]
         self.assertEqual(len(twenty_fifth),126)
         self.assertEqual([w[6]['id'] for w in twenty_fifth], [f'EX-{n:05d}' for n in range(2381,2507)])
@@ -230,9 +230,13 @@ class ImportTests(unittest.TestCase):
         self.assertEqual(len(added781),96)
         self.assertEqual([w[6]['id'] for w in added781], [f'EX-{n:05d}' for n in range(3487,3583)])
         self.assertTrue(all(w[6]['eligible'] and w[2] and w[3] for w in added781))
+        added805 = [w for c in self.cards[804:828] for w in c['words']]
+        self.assertEqual(len(added805),106)
+        self.assertEqual([w[6]['id'] for w in added805], [f'EX-{n:05d}' for n in range(3583,3689)])
+        self.assertTrue(all(w[6]['eligible'] and w[2] and w[3] for w in added805))
         translations = json.loads((ROOT/'data/translations-12.json').read_text())
-        self.assertEqual(len(translations),3574)
-        self.assertEqual(sum(bool(t.get('reviewFlag')) for t in translations.values()),1437)
+        self.assertEqual(len(translations),3680)
+        self.assertEqual(sum(bool(t.get('reviewFlag')) for t in translations.values()),1505)
         self.assertEqual(sum(bool(w[6].get('translationReview')) for w in third),40)
         self.assertEqual(sum(bool(w[6].get('translationReview')) for w in fourth),46)
         self.assertEqual(sum(bool(w[6].get('translationReview')) for w in fifth),29)
@@ -253,6 +257,8 @@ class ImportTests(unittest.TestCase):
 
     def test_previous_translation_entries_preserved(self):
         translations = json.loads((ROOT/'data/translations-12.json').read_text())
+        previous805 = {k: v for k,v in translations.items() if int(k[3:]) < 3583}
+        self.assertEqual(hashlib.sha256(json.dumps(previous805,sort_keys=True,ensure_ascii=False,separators=(',',':')).encode()).hexdigest(), '499008d046895379fd844d19c7f4f348057b0070687274e720a15d8e528e56eb')
         previous781 = {k: v for k,v in translations.items() if int(k[3:]) < 3487}
         self.assertEqual(hashlib.sha256(json.dumps(previous781,sort_keys=True,ensure_ascii=False,separators=(',',':')).encode()).hexdigest(), '89ecd1c660ee73220d12e14fbe7dd1e85c68b16b7929365445ab687b7044a810')
         previous757 = {k: v for k,v in translations.items() if int(k[3:]) < 3368}
