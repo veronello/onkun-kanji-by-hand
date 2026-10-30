@@ -182,7 +182,7 @@ class ImportTests(unittest.TestCase):
         self.assertTrue(all(w[2] and w[3] for w in twenty_fourth if w[6]['eligible']))
         self.assertEqual([w[6]['id'] for w in twenty_fourth if not w[6]['eligible']], ['EX-02297','EX-02303'])
         self.assertTrue(all(not w[1] and not w[2] and not w[3] for w in twenty_fourth if not w[6]['eligible']))
-        self.assertTrue(all(not w[2] and not w[3] for c in self.cards[1020:] for w in c['words']))
+        self.assertTrue(all(not w[2] and not w[3] for c in self.cards[1044:] for w in c['words']))
         twenty_fifth = [w for c in self.cards[540:564] for w in c['words']]
         self.assertEqual(len(twenty_fifth),126)
         self.assertEqual([w[6]['id'] for w in twenty_fifth], [f'EX-{n:05d}' for n in range(2381,2507)])
@@ -278,8 +278,16 @@ class ImportTests(unittest.TestCase):
         self.assertEqual([w[6]['id'] for w in added997],[f'EX-{n:05d}' for n in range(4458,4575)])
         self.assertTrue(all(w[6]['eligible'] and w[2] and w[3] for w in added997))
         self.assertEqual([(w[0],w[1]) for w in added997 if w[0]=='上'],[('上','ue'),('上','kami')])
-        self.assertEqual(len(translations),4564)
-        self.assertEqual(sum(bool(t.get('reviewFlag')) for t in translations.values()),2100)
+        added1021 = [w for c in self.cards[1020:1044] for w in c['words']]
+        self.assertEqual(len(added1021),115)
+        self.assertEqual([w[6]['id'] for w in added1021],[f'EX-{n:05d}' for n in range(4575,4690)])
+        self.assertTrue(all(w[6]['eligible'] and w[2] and w[3] for w in added1021))
+        by_added_id = {w[6]['id']:w for w in added1021}
+        self.assertNotIn('postpon', by_added_id['EX-04683'][3])
+        self.assertNotIn('postpon', by_added_id['EX-04685'][3])
+        self.assertEqual(by_added_id['EX-04649'][3], 'touch; feel')
+        self.assertEqual(len(translations),4679)
+        self.assertEqual(sum(bool(t.get('reviewFlag')) for t in translations.values()),2184)
         self.assertEqual(sum(bool(w[6].get('translationReview')) for w in third),40)
         self.assertEqual(sum(bool(w[6].get('translationReview')) for w in fourth),46)
         self.assertEqual(sum(bool(w[6].get('translationReview')) for w in fifth),29)
