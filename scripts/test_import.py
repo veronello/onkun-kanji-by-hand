@@ -182,7 +182,7 @@ class ImportTests(unittest.TestCase):
         self.assertTrue(all(w[2] and w[3] for w in twenty_fourth if w[6]['eligible']))
         self.assertEqual([w[6]['id'] for w in twenty_fourth if not w[6]['eligible']], ['EX-02297','EX-02303'])
         self.assertTrue(all(not w[1] and not w[2] and not w[3] for w in twenty_fourth if not w[6]['eligible']))
-        self.assertTrue(all(not w[2] and not w[3] for c in self.cards[924:] for w in c['words']))
+        self.assertTrue(all(not w[2] and not w[3] for c in self.cards[948:] for w in c['words']))
         twenty_fifth = [w for c in self.cards[540:564] for w in c['words']]
         self.assertEqual(len(twenty_fifth),126)
         self.assertEqual([w[6]['id'] for w in twenty_fifth], [f'EX-{n:05d}' for n in range(2381,2507)])
@@ -258,8 +258,12 @@ class ImportTests(unittest.TestCase):
         self.assertEqual([w[6]['id'] for w in added901 if not w[6]['eligible']], ['EX-04102'])
         self.assertTrue(all(w[2] and w[3] for w in added901 if w[6]['eligible']))
         self.assertTrue(all(not any(w[1:4]) for w in added901 if not w[6]['eligible']))
-        self.assertEqual(len(translations),4146)
-        self.assertEqual(sum(bool(t.get('reviewFlag')) for t in translations.values()),1797)
+        added925 = [w for c in self.cards[924:948] for w in c['words']]
+        self.assertEqual(len(added925),100)
+        self.assertEqual([w[6]['id'] for w in added925], [f'EX-{n:05d}' for n in range(4157,4257)])
+        self.assertTrue(all(w[6]['eligible'] and w[2] and w[3] for w in added925))
+        self.assertEqual(len(translations),4246)
+        self.assertEqual(sum(bool(t.get('reviewFlag')) for t in translations.values()),1862)
         self.assertEqual(sum(bool(w[6].get('translationReview')) for w in third),40)
         self.assertEqual(sum(bool(w[6].get('translationReview')) for w in fourth),46)
         self.assertEqual(sum(bool(w[6].get('translationReview')) for w in fifth),29)
