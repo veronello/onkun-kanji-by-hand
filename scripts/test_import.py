@@ -182,7 +182,7 @@ class ImportTests(unittest.TestCase):
         self.assertTrue(all(w[2] and w[3] for w in twenty_fourth if w[6]['eligible']))
         self.assertEqual([w[6]['id'] for w in twenty_fourth if not w[6]['eligible']], ['EX-02297','EX-02303'])
         self.assertTrue(all(not w[1] and not w[2] and not w[3] for w in twenty_fourth if not w[6]['eligible']))
-        self.assertTrue(all(not w[2] and not w[3] for c in self.cards[1068:] for w in c['words']))
+        self.assertTrue(all(not w[2] and not w[3] for c in self.cards[1092:] for w in c['words']))
         twenty_fifth = [w for c in self.cards[540:564] for w in c['words']]
         self.assertEqual(len(twenty_fifth),126)
         self.assertEqual([w[6]['id'] for w in twenty_fifth], [f'EX-{n:05d}' for n in range(2381,2507)])
@@ -295,8 +295,16 @@ class ImportTests(unittest.TestCase):
         self.assertEqual(batch_by_id['EX-04732'][1], batch_by_id['EX-04800'][1])
         self.assertNotEqual(batch_by_id['EX-04732'][3], batch_by_id['EX-04800'][3])
         self.assertEqual(batch_by_id['EX-04791'][:2], ['新ただ', 'arata da'])
-        self.assertEqual(len(translations),4796)
-        self.assertEqual(sum(bool(t.get('reviewFlag')) for t in translations.values()),2276)
+        added1069 = [w for c in self.cards[1068:1092] for w in c['words']]
+        self.assertEqual(len(added1069),110)
+        self.assertEqual([w[6]['id'] for w in added1069],[f'EX-{n:05d}' for n in range(4807,4917)])
+        self.assertTrue(all(w[6]['eligible'] and w[2] and w[3] for w in added1069))
+        batch1069_by_id = {w[6]['id']:w for w in added1069}
+        self.assertEqual(batch1069_by_id['EX-04852'][1], 'senjin')
+        self.assertEqual(batch1069_by_id['EX-04891'][1], 'iki')
+        self.assertIn('chic', batch1069_by_id['EX-04891'][3])
+        self.assertEqual(len(translations),4906)
+        self.assertEqual(sum(bool(t.get('reviewFlag')) for t in translations.values()),2359)
         self.assertEqual(sum(bool(w[6].get('translationReview')) for w in third),40)
         self.assertEqual(sum(bool(w[6].get('translationReview')) for w in fourth),46)
         self.assertEqual(sum(bool(w[6].get('translationReview')) for w in fifth),29)
